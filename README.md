@@ -2,9 +2,12 @@
 
 This repository contains detailed **booth-wise election result analysis** for the following constituencies:
 
-- **Ottapidaram**
-- **Srivaikuntam**
-- **Thoothukudi**
+## Constituencies Covered
+
+- Ottapidaram
+- Srivaikuntam
+- Thoothukudi
+- Kovilpatti
 
 The analysis includes structured datasets and visual insights to understand voting patterns, party performance, and locality-level trends.
 
