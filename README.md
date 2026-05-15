@@ -1,4 +1,4 @@
-# 🗳️ Tamil Nadu Election Result Analysis (Booth-Level)
+# 🗳️ 2026 Tamil Nadu Election Result Analysis (Booth-Level)
 
 This repository contains detailed **booth-wise election result analysis** for the following constituencies:
 
