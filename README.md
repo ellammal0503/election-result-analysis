@@ -8,7 +8,8 @@ This repository contains detailed **booth-wise election result analysis** for th
 - Srivaikuntam
 - Thoothukudi
 - Kovilpatti
-
+- Palayamkottai
+  
 The analysis includes structured datasets and visual insights to understand voting patterns, party performance, and locality-level trends.
 
 ---
