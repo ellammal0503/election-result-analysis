@@ -1,0 +1,390 @@
+Polling_Station_No,location_clean,Dominant_Party_In_Booth,Dominant_Party_Votes,Margin_Of_Victory
+1,Mottaiyanoor,dravida munnetra kazhagam,153,75
+2,Mottaiyanoor.,dravida munnetra kazhagam,220,47
+3,GoldenJubilee  Block (west  Portion) Ukkirankottai.,tamilaga vettri kazhagam,223,121
+4,Golden Jubilee  Block Back Side East  Portion Ukkirankottai.,dravida munnetra kazhagam,174,75
+5,Golden Jubilee  Block (Middle Portion)  Ukkirankottai.,dravida munnetra kazhagam,214,88
+6,Golden Jubilee  Block (East  Portion) Ukkirankottai.,dravida munnetra kazhagam,310,134
+7,Ukkirankottai.,dravida munnetra kazhagam,228,57
+8,1st  Room Vagaikulam.,dravida munnetra kazhagam,191,12
+9,Vagaikulam.,all india anna dravida munnetra kazhagam,187,42
+10,Vagaikulam,tamilaga vettri kazhagam,317,108
+11,Vagaikulam,tamilaga vettri kazhagam,348,169
+12,Vagaikulam,dravida munnetra kazhagam,174,49
+13,Subbiahpuram.,all india anna dravida munnetra kazhagam,284,139
+14,Back Side  West  Room Subbiahpuram.,all india anna dravida munnetra kazhagam,262,164
+15,Azhahiyapandipuram,all india anna dravida munnetra kazhagam,165,2
+16,Azhahiyapandipuram,tamilaga vettri kazhagam,211,13
+17,(Temp.High.  School  Building)  Panchayat  Union Middle School  Chettikurichi  Azhahiyapandipuram,tamilaga vettri kazhagam,185,35
+18,Azhahiyapandipuram.,dravida munnetra kazhagam,261,65
+19,Erandum Chollan.,all india anna dravida munnetra kazhagam,202,26
+20,Kattarankulam.,dravida munnetra kazhagam,269,78
+21,Kattarankulam.,tamilaga vettri kazhagam,138,27
+22,Melapillaiyarkulam.,all india anna dravida munnetra kazhagam,268,110
+23,Melapillaiyarkulam.,tamilaga vettri kazhagam,151,15
+24,Keelapillaiyarkulam.,all india anna dravida munnetra kazhagam,197,81
+25,Keelapillaiyarkulam.,all india anna dravida munnetra kazhagam,332,126
+26,East  Portion Nadupillaiyarkulam,dravida munnetra kazhagam,223,28
+27,Therkku Sezhiyanalloor.,tamilaga vettri kazhagam,193,22
+28,Community Hall  South Sezhiyanalloor.,tamilaga vettri kazhagam,127,23
+29,South Portion Vadakku Sezhiyanalloor.,tamilaga vettri kazhagam,337,116
+30,North Portion Vadakku Sezhiyanalloor.,tamilaga vettri kazhagam,230,103
+31,Ithikulam.,tamilaga vettri kazhagam,303,135
+32,Mettupirancheri.,tamilaga vettri kazhagam,187,41
+33,Venkatachalapuram.,tamilaga vettri kazhagam,259,98
+34,Venkatachalapuram.,tamilaga vettri kazhagam,184,57
+35,Rajapathy,all india anna dravida munnetra kazhagam,206,65
+36,Rajapathy,naam tamilar katchi,190,15
+37,Paruthikulam.,tamilaga vettri kazhagam,235,150
+38,Gangaikondan.,all india anna dravida munnetra kazhagam,221,98
+39,(East  building) Gangaikondan,all india anna dravida munnetra kazhagam,211,20
+40,Vadagarai,all india anna dravida munnetra kazhagam,322,136
+41,Vadagarai,all india anna dravida munnetra kazhagam,247,110
+42,Anaithalaiyur.,dravida munnetra kazhagam,147,84
+43,Community Hall  Anaithalaiyur,dravida munnetra kazhagam,158,79
+44,Anaithalaiyur.,dravida munnetra kazhagam,133,5
+45,T.D.T.A Primary School  Aladipatti,dravida munnetra kazhagam,272,134
+46,Duraiyoor,dravida munnetra kazhagam,244,62
+47,Duraiyoor,dravida munnetra kazhagam,166,3
+48,Papaiyapuram,dravida munnetra kazhagam,189,26
+49,Pathinalamperi.,tamilaga vettri kazhagam,244,6
+50,Western   Portion Kuppakurichi.,tamilaga vettri kazhagam,190,70
+51,Eastern   Portion Kuppakurichi.,tamilaga vettri kazhagam,196,119
+52,Palamadai.,dravida munnetra kazhagam,229,53
+53,Palamadai.,dravida munnetra kazhagam,226,103
+54,North Building Palamadai.,tamilaga vettri kazhagam,476,332
+55,Palamadai.,tamilaga vettri kazhagam,351,206
+56,Palamadai.,tamilaga vettri kazhagam,255,97
+57,Rajavallipuram.,tamilaga vettri kazhagam,244,22
+58,Rajavallipuram.,tamilaga vettri kazhagam,259,73
+59,Rajavallipuram.,tamilaga vettri kazhagam,189,8
+60,Rajavallipuram.,tamilaga vettri kazhagam,247,6
+61,Naranammalpuram..,tamilaga vettri kazhagam,175,6
+62,Naranammalpuram.,tamilaga vettri kazhagam,206,62
+63,Staff  Room Near  East  Side  1 Room Naranammalpuram.,tamilaga vettri kazhagam,223,99
+64,Staff  Room Near  East  Side  2   Room Naranammalpuram.,tamilaga vettri kazhagam,137,28
+65,Naranammalpuram.,dravida munnetra kazhagam,178,22
+66,Kurichikulam.,all india anna dravida munnetra kazhagam,190,69
+67,New Community Hall  Kurichikulam,all india anna dravida munnetra kazhagam,357,174
+68,Western Part  Chathramkudieruppu.,tamilaga vettri kazhagam,274,42
+69,Eastern Part  Chathramkudieruppu.,tamilaga vettri kazhagam,248,89
+70,Chatramkudieruppu.,tamilaga vettri kazhagam,177,36
+71,Centre  No 33628120231 Chatramkudieruppu.,tamilaga vettri kazhagam,192,52
+72,Chathramkudieruppu.,tamilaga vettri kazhagam,305,141
+73,(Govt.  High school  campus)  Chathramkudieruppu.,tamilaga vettri kazhagam,201,76
+74,Chathramkudieruppu.,tamilaga vettri kazhagam,237,59
+75,Second Room Chathramkudieruppu.,tamilaga vettri kazhagam,189,37
+76,North Building south portion 1st Room Sankarnagar.,tamilaga vettri kazhagam,211,46
+77,2nd Rooms Sankarnagar.,tamilaga vettri kazhagam,163,7
+78,West  Side  Sankarnagar.,dravida munnetra kazhagam,115,15
+79,1st Room Chathramkudieruppu.,tamilaga vettri kazhagam,180,36
+80,2nd Room Chathramkudieruppu.,all india anna dravida munnetra kazhagam,228,25
+81,Sankar  Nagar.,tamilaga vettri kazhagam,193,30
+82,Near  HM Room Sankar  Nagar.,tamilaga vettri kazhagam,226,27
+83,Main Block Room No -1,dravida munnetra kazhagam,120,21
+84,Main Block Room No -11,tamilaga vettri kazhagam,280,52
+85,Main Block Room No -2,dravida munnetra kazhagam,307,109
+86,Sankar  Nagar.,dravida munnetra kazhagam,226,20
+87,Sankar  Nagar.,tamilaga vettri kazhagam,88,13
+88,Sankar  Nagar.,tamilaga vettri kazhagam,148,5
+89,Main Block Room No -4,tamilaga vettri kazhagam,182,43
+90,Main Block Room No -9,tamilaga vettri kazhagam,225,95
+91,Thalaiyuthu.,tamilaga vettri kazhagam,206,51
+92,Thalaiyuthu.,dravida munnetra kazhagam,222,70
+93,Thalaiyuthu.,dravida munnetra kazhagam,309,70
+94,Thalaiyuthu.,tamilaga vettri kazhagam,259,50
+95,Thalaiyuthu.,dravida munnetra kazhagam,417,260
+96,Vadakku Thalaiyuthu.,tamilaga vettri kazhagam,361,189
+97,Vadakku Thalaiyuthu.,tamilaga vettri kazhagam,280,100
+98,Keelathenkalam.,dravida munnetra kazhagam,166,1
+99,Keelathenkalam.,tamilaga vettri kazhagam,132,37
+100,Keelathenkalam.,dravida munnetra kazhagam,161,32
+101,Keelathenkalam.,dravida munnetra kazhagam,202,91
+102,Government  ADW Primary School  Nallammalpuram,dravida munnetra kazhagam,162,19
+103,Panchayat  Union Primary School  West  Building   North Room                                     Tenkalam Puthur.,dravida munnetra kazhagam,96,30
+104,Alavanthankulam.,dravida munnetra kazhagam,145,63
+105,Alavanthankulam.,dravida munnetra kazhagam,246,62
+106,East  Portion Alavanthankulam.,dravida munnetra kazhagam,234,53
+107,Middle portion Alavanthankulam.,all india anna dravida munnetra kazhagam,466,306
+108,Government  High School  South to   North 4th 10th Class Room Pallamadai.,all india anna dravida munnetra kazhagam,191,56
+109,Government  High School  South to   North 5th 9th Class Room Pallamadai.,all india anna dravida munnetra kazhagam,132,64
+110,Mavadi.,tamilaga vettri kazhagam,323,111
+111,North Face Ayupkanpuram,dravida munnetra kazhagam,247,160
+112,Manur.,dravida munnetra kazhagam,199,70
+113,North Building East  Side  Manur.,dravida munnetra kazhagam,244,187
+114,Manur.,dravida munnetra kazhagam,175,83
+115,North Building West  Portion Manur.,dravida munnetra kazhagam,264,41
+116,Middle  Building West  Portion Manur.,tamilaga vettri kazhagam,164,30
+117,Parvathiyapuram,dravida munnetra kazhagam,413,174
+118,Parvathiyapuram,dravida munnetra kazhagam,279,67
+119,Kalakkudi.,all india anna dravida munnetra kazhagam,155,42
+120,South Building West Portion Kalakkudi,all india anna dravida munnetra kazhagam,283,154
+121,Kalakkudi.,dravida munnetra kazhagam,195,33
+122,Kurichikulam.,dravida munnetra kazhagam,562,474
+123,Kurichikulam.,dravida munnetra kazhagam,275,158
+124,Therkkupatti.,all india anna dravida munnetra kazhagam,250,150
+125,Therkkupatti.,dravida munnetra kazhagam,196,82
+126,Therkkupatti.,dravida munnetra kazhagam,466,328
+127,Thirumalapuram.,dravida munnetra kazhagam,195,105
+128,Ettankulam.,all india anna dravida munnetra kazhagam,260,120
+129,(Middle Portion)  Ettankulam.,all india anna dravida munnetra kazhagam,305,188
+130,Pudur.,all india anna dravida munnetra kazhagam,285,36
+131,Anganwadi  Centre  -  Centre  Number  -0226   Pudur,tamilaga vettri kazhagam,148,68
+132,Uganthanpatti.,tamilaga vettri kazhagam,150,45
+133,Vallavankottai.,dravida munnetra kazhagam,148,17
+134,South   Portion Vallavankottai.,tamilaga vettri kazhagam,205,48
+135,Rastha.,tamilaga vettri kazhagam,230,121
+136,Rastha.,dravida munnetra kazhagam,110,41
+137,Rastha.,tamilaga vettri kazhagam,189,48
+138,Rastha.,tamilaga vettri kazhagam,160,42
+139,Sethurayanpudur.,dravida munnetra kazhagam,181,28
+140,Nanjankulam.,dravida munnetra kazhagam,175,11
+141,Nanjankulam,dravida munnetra kazhagam,237,54
+142,T.D.T.A Primary School  Entrance  Reoom Vepankulam,tamilaga vettri kazhagam,186,71
+143,Anganwadi  Centre  Arasu New Colony Ramayanpatti Panchayat,tamilaga vettri kazhagam,417,229
+144,west  Side Ramayanpatti.,tamilaga vettri kazhagam,216,47
+145,East  Building   1st  Room Ramayanpatti.,tamilaga vettri kazhagam,116,57
+146,west  Side Ramayanpatti.,tamilaga vettri kazhagam,363,152
+147,Eastren Side Ramayanpatti.,tamilaga vettri kazhagam,184,36
+148,East  Building   2nd Room Ramayanpatti.,tamilaga vettri kazhagam,157,74
+149,East Side  Ramayanpatti.,tamilaga vettri kazhagam,337,136
+150,West Side  Ramayanpatti.,tamilaga vettri kazhagam,216,41
+151,East  Side  Kammalankulam.,tamilaga vettri kazhagam,130,17
+152,West  Side Kammalankulam.,dravida munnetra kazhagam,250,135
+153,Back Side  Building West Portion Kammalankulam.,dravida munnetra kazhagam,143,26
+154,Thiruppanikarisalkulam.,tamilaga vettri kazhagam,213,79
+155,Panchayat  Union Middle  School  East  Portion Thiruppanikarisalkulam.,tamilaga vettri kazhagam,236,27
+156,Thiruppanikarisalkulam,dravida munnetra kazhagam,269,29
+157,Sri  Nivedhita Nursery & Primary School Thiruppanikarisalkulam   Road Pettai,tamilaga vettri kazhagam,212,25
+158,Thiruppanikarisalkulam,tamilaga vettri kazhagam,98,3
+159,Sri  Nivedhita Nursery & Primary School   West  Building East Portion Thiruppanikarisalkulam   Road Pettai,dravida munnetra kazhagam,314,48
+160,Thulukkarkulam.,dravida munnetra kazhagam,224,48
+161,T.D.T.A Primary   School   South Portion East  Side Vellankulam.,tamilaga vettri kazhagam,294,152
+162,T.D.T.A   Primary School  South Portion West  Side Vellalankulam.,tamilaga vettri kazhagam,175,100
+163,Panchayat  Union Primary School  Vettuvankulam,dravida munnetra kazhagam,98,37
+164,East  Side   Seethaparpanallur.,tamilaga vettri kazhagam,407,263
+165,Seethaparpanallur.,tamilaga vettri kazhagam,336,198
+166,Seethaparpanallur.,tamilaga vettri kazhagam,371,213
+167,Sankanthiradu.,tamilaga vettri kazhagam,257,6
+168,Community Hall   South Sankanthiradu,all india anna dravida munnetra kazhagam,139,73
+169,Melakkallur.,tamilaga vettri kazhagam,281,91
+170,Nadukkallur..,all india anna dravida munnetra kazhagam,327,55
+171,Nadukkallur.,all india anna dravida munnetra kazhagam,250,79
+172,Nadukkallur.,tamilaga vettri kazhagam,279,91
+173,Nadukkallur.,tamilaga vettri kazhagam,139,27
+174,Gramamangalam Pazhavoor.,tamilaga vettri kazhagam,335,92
+175,Gramamangalam Pazhavoor.,tamilaga vettri kazhagam,320,111
+176,North Side  Kondanagaram.,tamilaga vettri kazhagam,323,131
+177,"North Side  Kondanagaram.
+South Building North Facing.",tamilaga vettri kazhagam,314,55
+178,West  Side  Kondanagaram.,all india anna dravida munnetra kazhagam,278,123
+179,Suthamalli.,tamilaga vettri kazhagam,237,53
+180,Suthamalli,tamilaga vettri kazhagam,131,57
+181,Panchayat  Union Primary School  East  Building West  Portion Suthamalli,tamilaga vettri kazhagam,230,76
+182,South Portion Hall  No.  4 Suthamalli.,tamilaga vettri kazhagam,300,35
+183,North Portion Hall  No.  3 Suthamalli.i.,dravida munnetra kazhagam,169,28
+184,Panchayat  Office  Suthamalli,dravida munnetra kazhagam,190,4
+185,Community Hall  West  Portion V O C Nagar  Suthamalli,tamilaga vettri kazhagam,310,13
+186,Community Hall  East  Portion V O C Nagar  Suthamalli,dravida munnetra kazhagam,367,71
+187,Suthamalli.,tamilaga vettri kazhagam,239,125
+188,Suthamalli.,tamilaga vettri kazhagam,144,12
+189,Suthamalli.,tamilaga vettri kazhagam,250,67
+190,Suthamalli.,tamilaga vettri kazhagam,245,131
+191,Suthamalli.,tamilaga vettri kazhagam,204,109
+192,Suthamalli.West  Portion,tamilaga vettri kazhagam,210,70
+193,Suthamalli.East  Portion,tamilaga vettri kazhagam,297,180
+194,Narasinganallur.,tamilaga vettri kazhagam,220,103
+195,Narasinganallur.,tamilaga vettri kazhagam,296,174
+196,Narasinganallur.,tamilaga vettri kazhagam,144,9
+197,Narasinganallur.,tamilaga vettri kazhagam,172,53
+198,Narasinganallur.,tamilaga vettri kazhagam,140,42
+199,Narasinganallur.,tamilaga vettri kazhagam,268,136
+200,Karunkadu.,all india anna dravida munnetra kazhagam,165,6
+201,Pettai  Rural.,dravida munnetra kazhagam,123,13
+202,Community Hall  Pettai  Rural,dravida munnetra kazhagam,223,53
+203,East  Buiding Middle  Portion Pettai,tamilaga vettri kazhagam,231,47
+204,East  Facing North   Building Pettai,tamilaga vettri kazhagam,221,58
+205,Campus Inside  west  Building North   Portion West  2nd Room Pettai  Rural,tamilaga vettri kazhagam,213,63
+206,Panchayat  Union Primary School  South Building Chithankudiruppu Thenpattu,dravida munnetra kazhagam,350,168
+207,Panchayat  Union Primary School  North Building Chithankudiruppu Thenpattu,dravida munnetra kazhagam,311,98
+208,Tirunelvelli.,dravida munnetra kazhagam,401,242
+209,Tirunelvelli.,dravida munnetra kazhagam,409,250
+210,Tirunelvelli.,dravida munnetra kazhagam,135,9
+211,Pettai,tamilaga vettri kazhagam,308,80
+212,Pettai,tamilaga vettri kazhagam,322,233
+213,Pettai.,dravida munnetra kazhagam,357,264
+214,Pettai.,tamilaga vettri kazhagam,180,52
+215,Pettai.,dravida munnetra kazhagam,314,178
+216,Kamaraj  Municipal  Higher  Secondary School  New Building West  Side  South Portion   Pettai,tamilaga vettri kazhagam,151,4
+217,Pettai.,dravida munnetra kazhagam,552,433
+218,Anganwadi  Building Corporation Middle  School  (Campus) Pettai,dravida munnetra kazhagam,463,357
+219,Pettai.,tamilaga vettri kazhagam,130,8
+220,Pettai.,tamilaga vettri kazhagam,214,78
+221,Pettai.,tamilaga vettri kazhagam,338,114
+222,Pettai.,dravida munnetra kazhagam,239,10
+223,Pettai.,tamilaga vettri kazhagam,155,59
+224,Noble  Kids Nursery & Primary School  South Side  Middle Portion Room Pettai,tamilaga vettri kazhagam,190,42
+225,Pettai.,tamilaga vettri kazhagam,264,90
+226,Pettai.,tamilaga vettri kazhagam,218,66
+227,Pettai.,tamilaga vettri kazhagam,236,88
+228,Pettai.,tamilaga vettri kazhagam,198,42
+229,Pettai.,dravida munnetra kazhagam,400,256
+230,Rani  Anna Girls Higher  Secondary School   West  Portion From North   Room   Pettai.,dravida munnetra kazhagam,308,242
+231,Pettai.,dravida munnetra kazhagam,262,186
+232,Rani  Anna Girls Higher  Secondary School   West  Side  From South   Pettai.,dravida munnetra kazhagam,265,219
+233,Pettai.,dravida munnetra kazhagam,227,98
+234,Pettai.,dravida munnetra kazhagam,577,397
+235,Pettai.,dravida munnetra kazhagam,491,197
+236,Pettai.,dravida munnetra kazhagam,484,374
+237,Pettai.,dravida munnetra kazhagam,435,347
+238,Pettai.,tamilaga vettri kazhagam,276,107
+239,Pettai.,dravida munnetra kazhagam,209,27
+240,Pettai.,tamilaga vettri kazhagam,199,99
+241,Pettai.,tamilaga vettri kazhagam,200,74
+242,Pettai.,tamilaga vettri kazhagam,240,35
+243,Pettai.,tamilaga vettri kazhagam,219,87
+244,Punitha Anthoniyar  Primary School   West  Building   South Portion   Pettai,tamilaga vettri kazhagam,146,53
+245,Pettai.,tamilaga vettri kazhagam,193,28
+246,Punitha Anthoniyar  Primary School   West  Building   Middle Portion    Pettai,tamilaga vettri kazhagam,146,68
+247,Pettai.,tamilaga vettri kazhagam,176,56
+248,Punitha Anthoniyar  Primary School   West  Building North Portion   Pettai,tamilaga vettri kazhagam,191,98
+249,Palaiyapettai.,tamilaga vettri kazhagam,214,45
+250,Palaiyapettai.,dravida munnetra kazhagam,165,10
+251,Palaiyapettai.,tamilaga vettri kazhagam,156,33
+252,Palaiyapettai.,tamilaga vettri kazhagam,183,62
+253,Kandiaperi.,tamilaga vettri kazhagam,275,105
+254,Nivedhita Matric Hr  Sec School  South Side  Middle  Portion,tamilaga vettri kazhagam,256,74
+255,Palaiyapettai.,tamilaga vettri kazhagam,180,66
+256,Palaiyapettai.,tamilaga vettri kazhagam,351,191
+257,Palaiyapettai.,tamilaga vettri kazhagam,340,92
+258,Palaiyapettai.,tamilaga vettri kazhagam,287,151
+259,Palaiyapettai.,tamilaga vettri kazhagam,229,112
+260,Palaiyapettai.,tamilaga vettri kazhagam,255,98
+261,Nivedhita Matric Hr  Sec School   West  Building South Side Near  Office  Room Palaiyapettai.,tamilaga vettri kazhagam,205,66
+262,Nivedhita Matric Hr  Sec School  West  Portion South Side,tamilaga vettri kazhagam,314,113
+263,Little  Angel  Nursery & Primary School  New Building East Side  West  Portion New Building West  Mount  Road Tirunelveli  Town.,all india anna dravida munnetra kazhagam,187,28
+264,Palaiyapettai.,dravida munnetra kazhagam,312,184
+265,Palaiyapettai.,dravida munnetra kazhagam,213,23
+266,Palaiyapettai.,dravida munnetra kazhagam,266,97
+267,Palaiyapettai,tamilaga vettri kazhagam,137,44
+268,Tirunelveli  Town.,dravida munnetra kazhagam,329,206
+269,Tirunelveli  Town.,dravida munnetra kazhagam,358,322
+270,Tirunelveli  Town.,tamilaga vettri kazhagam,142,58
+271,North Building West  Side  Tirunelveli Town.,tamilaga vettri kazhagam,161,55
+272,Tirunelveli  Town.,tamilaga vettri kazhagam,290,35
+273,Tirunelveli  Town.,dravida munnetra kazhagam,244,118
+274,Tirunelveli  Town,dravida munnetra kazhagam,159,25
+275,Tirunelveli  Town.,tamilaga vettri kazhagam,236,116
+276,Tirunelveli  Town.,tamilaga vettri kazhagam,204,64
+277,Tirunelveli  Town.,tamilaga vettri kazhagam,261,82
+278,Tirunelveli  Town.,tamilaga vettri kazhagam,250,55
+279,Usainiya Primary School West Building East Face South Room Tirunelveli Town,tamilaga vettri kazhagam,262,45
+280,Usainiya Primary School West Building East Face North Room Tirunelveli Town,dravida munnetra kazhagam,221,21
+281,Anganwadi  (Palwadi)  Centre  No.05 Madha Middle  School Tirunelveli  Town,dravida munnetra kazhagam,369,196
+282,Tirunelveli  Town.,tamilaga vettri kazhagam,346,94
+283,Tirunelveli  Town.,tamilaga vettri kazhagam,327,112
+284,Tirunelveli  Town.,tamilaga vettri kazhagam,230,93
+285,Tirunelveli  Town.,tamilaga vettri kazhagam,281,94
+286,Tirunelveli  Town.,tamilaga vettri kazhagam,160,57
+287,Tirunelveli  Town.,tamilaga vettri kazhagam,150,47
+288,East  Buiding South Portion Pettai,tamilaga vettri kazhagam,204,8
+289,Tirunelveli  Town.,dravida munnetra kazhagam,229,95
+290,Corporation Primary School  Campus Integrated Child Development  Center  Center  No;  33628190415 Tirunelveli Town.,tamilaga vettri kazhagam,235,82
+291,Tirunelveli  Town.,dravida munnetra kazhagam,169,3
+292,Corporation Primary School  Campus Integrated Child Development  Center  Center  No;  33628190429 Tirunelveli Town.,dravida munnetra kazhagam,264,82
+293,Tirunelveli  Town.,tamilaga vettri kazhagam,284,10
+294,Tirunelveli  Town.,dravida munnetra kazhagam,412,200
+295,Tirunelveli  Town.,tamilaga vettri kazhagam,98,24
+296,Tirunelveli  Town.,dravida munnetra kazhagam,168,48
+297,Tirunelveli  Town.,tamilaga vettri kazhagam,372,89
+298,Tirunelveli  Town.,tamilaga vettri kazhagam,304,98
+299,Tirunelveli  Town.,dravida munnetra kazhagam,164,10
+300,Tirunelveli.,tamilaga vettri kazhagam,224,37
+301,Tirunelveli  Town.,tamilaga vettri kazhagam,160,58
+302,Tirunelveli  Town.,tamilaga vettri kazhagam,163,29
+303,Tirunelveli  Town.,tamilaga vettri kazhagam,141,15
+304,Tirunelveli  Town.,tamilaga vettri kazhagam,154,22
+305,Tirunelveli  Town.,tamilaga vettri kazhagam,131,23
+306,Integrated Child Development  Center  Center  No; 33628090429,tamilaga vettri kazhagam,282,47
+307,Pillaiyankattalai  Office  West  Portion Sudalai  Madan Kovil Street  Tirunelveli  Town,tamilaga vettri kazhagam,214,54
+308,Pillaiyankattalai  Office  East  Portion Sudalai  Madan Kovil Street  Tirunelveli  Town.,tamilaga vettri kazhagam,189,52
+309,Thiruvaduthurai  Athinam Esanamadam   West  Car  Street Tirunelveli  Town,tamilaga vettri kazhagam,239,73
+310,Tirunelveli  Town.,tamilaga vettri kazhagam,181,33
+311,Tirunelveli  Town.,tamilaga vettri kazhagam,116,1
+312,Tirunelveli  Town.,tamilaga vettri kazhagam,171,31
+313,Tirunelveli  Town.,tamilaga vettri kazhagam,226,102
+314,Inside  North Building East  Side  Tirunelveli  Town.,tamilaga vettri kazhagam,145,41
+315,Tirunelveli  Town.,tamilaga vettri kazhagam,141,38
+316,Tirunelveli  Town.,all india anna dravida munnetra kazhagam,133,0
+317,Tirunelveli  Town.,tamilaga vettri kazhagam,290,98
+318,Barathiyar  Corporation Primary School   I -  V English Medium (Campus)  Children's Mini  Center.No33628190427 Tirunelveli  Town.,tamilaga vettri kazhagam,70,9
+319,Tirunelveli  Town.,tamilaga vettri kazhagam,204,52
+320,Tirunelveli  Town.,all india anna dravida munnetra kazhagam,88,15
+321,Western side  first building southern face  first  room,tamilaga vettri kazhagam,138,30
+322,Tirunelveli  Town.,tamilaga vettri kazhagam,116,11
+323,Tirunelveli  Town.,dravida munnetra kazhagam,195,29
+324,Tirunelveli  Town.,tamilaga vettri kazhagam,155,36
+325,Tirunelveli  Town.,tamilaga vettri kazhagam,164,16
+326,Tirunelvelli  Town.,tamilaga vettri kazhagam,269,148
+327,Tirunelveli  Town.,tamilaga vettri kazhagam,242,72
+328,Tirunelveli  Town.,tamilaga vettri kazhagam,189,69
+329,"Adaikkalamatha Matriculation School  West  Side  Kandiaperi
+-II Village  Tirunelveli  Town Saliar  Street",tamilaga vettri kazhagam,363,207
+330,Adaikkalamatha Matriculation School  Middle  Kandiaperi  -II Village  Tirunelveli  Town Saliar  Street,tamilaga vettri kazhagam,229,85
+331,Adaikkalamatha Matriculation School  X Std Class Room Kandiaperi  -II Village  Tirunelveli  Town Saliar  Street,dravida munnetra kazhagam,84,5
+332,Adaikkalamatha Matriculation School  New Building Kandiaperi  -II Village  Tirunelveli  Town Saliar  Street,tamilaga vettri kazhagam,233,75
+333,Intergrated Child Development  Centre  Karuvelangundru Street  Tirunelveli  Town,tamilaga vettri kazhagam,245,83
+334,"V K Nursery and Primary School  Southern Side  Building
+78/1 Akkasalai  Vinayagar  Kovil  Street  Tirunelveli  Town",tamilaga vettri kazhagam,323,98
+335,Adaikkalamatha Matriculation School  East  Side  Kandiaperi  - II Village  Tirunelveli  Town Saliar  Street,tamilaga vettri kazhagam,237,113
+336,Tirunelveli  Town.,tamilaga vettri kazhagam,193,62
+337,Tirunelveli  Town.,tamilaga vettri kazhagam,244,12
+338,Tirunelveli  Town.,dravida munnetra kazhagam,166,52
+339,Child   Centre  Rajajipuram Centre  Number  -33628090416 Tirunelveli  Town.,dravida munnetra kazhagam,211,85
+340,South Portion Ramayanpatti,dravida munnetra kazhagam,340,170
+341,Kandiyaprei  Village,tamilaga vettri kazhagam,189,56
+342,Integrated Children's Centre   Kandiyaperi  -II Centre Number  -  33628090205 Kandiyaprei  Village,tamilaga vettri kazhagam,211,86
+343,Thachanallur.,tamilaga vettri kazhagam,305,143
+344,Chathirampudukulam,tamilaga vettri kazhagam,176,26
+345,Thachanallur.,tamilaga vettri kazhagam,260,82
+346,Thachanallur.,tamilaga vettri kazhagam,218,86
+347,Coporation Primary School  Centre  Portion Thachanallur,tamilaga vettri kazhagam,228,108
+348,North Side  West  Portion Thachanallur.,tamilaga vettri kazhagam,262,130
+349,Coporation Primary School  North Side  East  Portion Thachanallur,tamilaga vettri kazhagam,240,118
+350,Main building    1st  Room Madurai  Road Thachanallur,tamilaga vettri kazhagam,294,112
+351,Main building    2nd Room Madurai  Road Thachanallur,all india anna dravida munnetra kazhagam,284,46
+352,Main building    3rd Room Madurai  Road Thachanallur,all india anna dravida munnetra kazhagam,170,21
+353,North West  Building Thachanallur,tamilaga vettri kazhagam,210,79
+354,West  Side Chathirampudukulam,tamilaga vettri kazhagam,212,73
+355,West  Side  3rd Portion from   South Chathirampudukulam,tamilaga vettri kazhagam,170,66
+356,Chatrampudukulam.,tamilaga vettri kazhagam,266,138
+357,Oorudaiyar Kudieruppu.,tamilaga vettri kazhagam,165,26
+358,Tirunelveli  Corporation Thachanallur  Zone  Integrated Child Development   Project   Children's Centre  Number  - 33628060216 Oorudaiyankudieruppu .,tamilaga vettri kazhagam,163,32
+359,Oorudaiyar Kudieruppu.,all india anna dravida munnetra kazhagam,288,76
+360,North West  Portion From North   Thatchanallur,tamilaga vettri kazhagam,227,45
+361,Thatchanallur,tamilaga vettri kazhagam,146,3
+362,Thachanallur.,tamilaga vettri kazhagam,187,15
+363,Thachanallur.,tamilaga vettri kazhagam,256,57
+364,Thachanallur.,tamilaga vettri kazhagam,261,79
+365,Thachanallur.,tamilaga vettri kazhagam,205,32
+366,Thachanallur.,tamilaga vettri kazhagam,105,40
+367,Thachanallur.,tamilaga vettri kazhagam,240,39
+368,Thachanallur.,tamilaga vettri kazhagam,287,88
+369,Thachanallur.,all india anna dravida munnetra kazhagam,314,47
+370,Centre  No 33628120223 Karaieruppu.,tamilaga vettri kazhagam,309,109
+371,Angawadi  Centre  Melakarai  Thachanallur,tamilaga vettri kazhagam,316,77
+372,Karaieruppu.,all india anna dravida munnetra kazhagam,286,52
+373,Karaieruppu.,tamilaga vettri kazhagam,269,24
+374,Karaieruppu.,tamilaga vettri kazhagam,104,17
+375,Azhaganeri.,tamilaga vettri kazhagam,240,93
+376,Pirankulam Azhaganeri.,tamilaga vettri kazhagam,288,78
+377,Senthimangalam.,tamilaga vettri kazhagam,274,72
+378,Senthimangalam.,dravida munnetra kazhagam,278,89
+379,Tirunelveli  Corporation Child Care  Center  Center  No -18 Udaiyarpatti.,dravida munnetra kazhagam,214,41
+380,Udaiyarpatti.,dravida munnetra kazhagam,56,6
+381,Tirunelveli  Corporation Child Care  Center  Center  No -16 Udaiyarpatti.,tamilaga vettri kazhagam,183,21
+382,Udaiyarpatti.,tamilaga vettri kazhagam,235,68
+383,Udaiyarpatti.,tamilaga vettri kazhagam,149,21
+384,Udaiyarpatti.,tamilaga vettri kazhagam,143,27
+385,Sindupoondurai.,tamilaga vettri kazhagam,199,79
+386,Sindupoondurai.,tamilaga vettri kazhagam,268,73

@@ -12,6 +12,7 @@ The project focuses on transforming raw polling data into **actionable insights*
 - Thoothukudi  
 - Kovilpatti  
 - Palayamkottai  
+- Tirunelveli  
 - Virudhunagar  
 
 ---
@@ -29,6 +30,7 @@ Each constituency analysis includes:
 ---
 
 ## 📁 Repository Structure
+
 election-result-analysis/
 │
 ├── ottapidaram/
@@ -66,6 +68,13 @@ election-result-analysis/
 │   │   └── polling_station_charts/
 │   └── README.md
 │
+├── tirunelveli/
+│   ├── data/
+│   │   └── tirunelveli_results.xlsx
+│   ├── charts/
+│   │   └── polling_station_charts/
+│   └── README.md
+│
 ├── virudhunagar/
 │   ├── data/
 │   │   └── virudhunagar_results.xlsx
@@ -78,6 +87,9 @@ election-result-analysis/
 │
 ├── .gitignore
 └── README.md
+
+---
+
 ## 📌 Constituency Highlights
 
 ### 📍 Ottapidaram
@@ -104,6 +116,12 @@ election-result-analysis/
 - Booth-level performance insights  
 - Close margin (swing) booth identification  
 - Locality-based voting patterns  
+
+### 📍 Tirunelveli
+- Detailed booth-wise vote distribution  
+- Party performance comparison  
+- Stronghold vs weak booth identification  
+- Critical swing booth analysis  
 
 ### 📍 Virudhunagar
 - Constituency-wide performance analysis  
@@ -138,7 +156,7 @@ election-result-analysis/
 
 ## 🚀 How to Use
 
-1. Open any constituency folder (e.g., `virudhunagar/`)  
+1. Open any constituency folder (e.g., `tirunelveli/`)  
 2. Navigate:
    - `data/` → Raw datasets  
    - `charts/` → Visual insights  
