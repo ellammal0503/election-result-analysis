@@ -15,6 +15,7 @@ The project focuses on transforming raw polling data into **actionable insights*
 - Tirunelveli  
 - Virudhunagar  
 - Thiruparankundram  
+- Madurai West  
 
 ---
 
@@ -90,6 +91,17 @@ election-result-analysis/
 │   │   └── polling_station_charts/
 │   └── README.md
 │
+├── madurai_west/
+│   ├── data/
+│   │   ├── madurai_west_results.xlsx
+│   │   └── processed/
+│   │       ├── Locality_Dominance.csv
+│   │       ├── Swing_Booths.csv
+│   │       └── Party_Performance.csv
+│   ├── charts/
+│   │   └── polling_station_charts/
+│   └── README.md
+│
 ├── scripts/
 │   └── excel_to_csv.py
 │
@@ -141,6 +153,12 @@ election-result-analysis/
 - Stronghold and weak booth identification  
 - Swing booth detection based on margin  
 - Party-wise performance insights  
+
+### 📍 Madurai West
+- Booth-level voting pattern analysis  
+- Stronghold and weak booth identification  
+- Swing booth detection using margin analysis  
+- Locality-wise party dominance insights  
 
 ---
 
