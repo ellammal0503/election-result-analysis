@@ -14,6 +14,7 @@ The project focuses on transforming raw polling data into **actionable insights*
 - Palayamkottai  
 - Tirunelveli  
 - Virudhunagar  
+- Thiruparankundram  
 
 ---
 
@@ -82,6 +83,13 @@ election-result-analysis/
 │   │   └── polling_station_charts/
 │   └── README.md
 │
+├── thiruparankundram/
+│   ├── data/
+│   │   └── thiruparankundram_results.xlsx
+│   ├── charts/
+│   │   └── polling_station_charts/
+│   └── README.md
+│
 ├── scripts/
 │   └── excel_to_csv.py
 │
@@ -127,6 +135,12 @@ election-result-analysis/
 - Constituency-wide performance analysis  
 - Strong vs weak booth detection  
 - High-impact swing booth identification  
+
+### 📍 Thiruparankundram
+- Booth-level voting pattern analysis  
+- Stronghold and weak booth identification  
+- Swing booth detection based on margin  
+- Party-wise performance insights  
 
 ---
 
