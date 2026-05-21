@@ -16,6 +16,7 @@ The project focuses on transforming raw polling data into **actionable insights*
 - Virudhunagar  
 - Thiruparankundram  
 - Madurai West  
+- Kolathur  
 
 ---
 
@@ -24,7 +25,7 @@ The project focuses on transforming raw polling data into **actionable insights*
 Each constituency analysis includes:
 
 - 📄 Excel dataset with complete polling station results  
-- 📈 Booth-wise charts (300+ per constituency)  
+- 📈 Booth-wise charts (all booths in a constituency)  
 - 📉 Party-wise vote share comparison  
 - 🔍 Identification of critical swing booths  
 - 🏆 Booth-level winner analysis  
@@ -102,6 +103,15 @@ election-result-analysis/
 │   │   └── polling_station_charts/
 │   └── README.md
 │
+├── kolathur/
+│   ├── data/
+│   │   ├── kolathur_results.xlsx
+│   │   └── processed/
+│   │       └── DMK_Loss_Analysis.xlsx
+│   ├── charts/
+│   │   └── polling_station_charts/
+│   └── README.md
+│
 ├── scripts/
 │   └── excel_to_csv.py
 │
@@ -160,6 +170,11 @@ election-result-analysis/
 - Swing booth detection using margin analysis  
 - Locality-wise party dominance insights  
 
+### 📍 Kolathur
+- Booth-level DMK loss forensic analysis  
+- Identification of opposition-dominated booths  
+- Vote splitting impact detection  
+- Margin-based loss pattern insights  
 ---
 
 ## 📈 Key Insights Covered
@@ -208,6 +223,12 @@ election-result-analysis/
 
 ---
 
+## 🔗 Quick Access
+
+- 📍 [Palayamkottai Charts](./palayamkottai/charts/polling_station_charts/)
+- 📍 [Tirunelveli Charts](./tirunelveli/charts/polling_station_charts/)
+- 📍 [Thoothukudi Charts](./thoothukudi/charts/polling_station_charts/)
+ 
 ## 📬 Note
 
 This project is intended for **analytical and informational purposes only**.  
