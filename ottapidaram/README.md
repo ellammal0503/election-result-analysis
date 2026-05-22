@@ -14,6 +14,15 @@ The analysis provides insights into:
 - Detection of critical swing booths  
 
 ---
+## 🏆 Booths Won By Each Party
+
+| Party Name                          | Booths Won |
+|------------------------------------|------------|
+| Tamilaga Vettri Kazhagam           | 237        |
+| Dravida Munnetra Kazhagam          | 42         |
+| Puthiya Tamilagam                  | 28         |
+| Amma Makkal Munnettra Kazagam      | 8          |
+| **Total**                          | **315**    |
 
 ## 📁 Folder Structure
 ottapidaram/
@@ -79,3 +88,4 @@ ottapidaram/
 ## 📬 Note
 
 This analysis is intended for **informational and analytical purposes** to support constituency-level insights.
+

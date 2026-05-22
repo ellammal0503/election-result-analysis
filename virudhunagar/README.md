@@ -15,7 +15,21 @@ The analysis focuses on identifying voting patterns, swing booths, party perform
 
 ---
 
-## 📁 Folder Structure
+## 📊 LOCAL TVK PERFORMANCE POST-MORTEM
+
+| Metric                              | Value        |
+|-------------------------------------|-------------|
+| Total Polling Stations Analyzed     | 281         |
+| Booths Won by TVK                   | 178 (63.35%)|
+| Booths Lost due to IND Spoilers     | 5           |
+
+---
+### 🔥 Quick Summary
+- 🟢 **TVK Win Rate:** 63.35%
+- ⚠️ **Spoiler Impact Booths:** 5
+- 📍 **Total Booths:** 281
+
+
 # 🗳️ Virudhunagar Election Result Analysis (Booth-Level)
 
 This module provides a **detailed booth-wise analysis** of election results for the **Virudhunagar Constituency**.

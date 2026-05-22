@@ -14,6 +14,13 @@ The analysis includes:
 - Detection of critical swing booths  
 
 ---
+## ⚠️ Top 3 Worst Vote-Split Booths for TVK
+
+| Serial No | Locality     | Polling Area | Winner Party | Winner Votes | TVK Votes | Margin of Victory | Independent Votes |
+|-----------|-------------|--------------|--------------|--------------|-----------|-------------------|-------------------|
+| 194       | Kovilpatti  | 1. Sankaralingapuram South Street (Ward 5)<br>2. Sankaralingapuram Nadu Street (Ward 5)<br>3. Main Road (Ward 5)<br>4. Oodai East Street (Ward 5)<br>5. Sankaralingapuram South Street 2 (Ward 5)<br>999. Overseas Electors | Dravida Munnetra Kazhagam | 271 | 269 | 2 | 8 |
+| 244       | Kovilpatti  | 1. Bharathi Nagar Medtu Street 1 (Ward 30)<br>999. Overseas Electors | Dravida Munnetra Kazhagam | 120 | 118 | 2 | 3 |
+| 11        | Kalugumalai | 1. Therkurathaveethi Melpagam (Ward 9)<br>2. Anna Keela Street<br>3. Annathenvadal Sandu<br>4. Theyagi Subbiah Street<br>5. Theyagi Subbiah Thenvadal Sandu<br>6. Petchiamman Kovil Street<br>7. V.O.C Street<br>8. Police Line<br>999. Overseas Electors | Dravida Munnetra Kazhagam | 161 | 158 | 3 | 8 |
 
 ## 📁 Folder Structure
 kovilpatti/
