@@ -1,0 +1,943 @@
+Serial No.,Serial No. Of Polling Station,Dravida Munnetra Kazhagam,All India Anna Dravida Munnetra Kazhagam,Naam Tamilar Katchi,Tamilaga Vettri Kazhagam,Independent,Independent.1,Independent.2,Independent.3,Independent.4,Total of Valid Votes,No. Of Rejected Votes,NOTA,Total,No. Of Tendered Votes,Sl.No,Location and name of building in which Polling Station located,Polling Areas,Whether for All Voters or Men only or Women only,Winner_Party,Winner_Votes,Runner_Up_Votes,Margin_Of_Victory,Runner_Up_Party,Dravida Munnetra Kazhagam_Rank,All India Anna Dravida Munnetra Kazhagam_Rank,Tamilaga Vettri Kazhagam_Rank,Naam Tamilar Katchi_Rank,Margin_Percentage,Total_Independent_Votes
+1,1,146,363,17,130,1,2,1,1,3,664,0,4,668,0,1,"Panchayat Union M.School, Kasilngampalayam-641671, North facing building","(1) - Kasilingampalayam (R.V) Nanthavanampalayam (p), Kasilingampalayam north w.no.12",All Voters,All India Anna Dravida Munnetra Kazhagam,363,146,217,Dravida Munnetra Kazhagam,2,1,3,4,32.68072289156627,8
+2,2,133,244,10,80,1,0,0,0,1,469,0,4,473,0,2,"Panchayat Union Middle School, Kasilngampalayam,South facing building","(1) - Kasilingampalayam (R.V) Nanthavanampalayam (p), Nanjchappakoundanpudur W.No.13
+(2) - Kasilingampalayam (R.V) Nanthavanampalayam (p), Kasilingampalayam South
+W.No.12",All Voters,All India Anna Dravida Munnetra Kazhagam,244,133,111,Dravida Munnetra Kazhagam,2,1,3,4,23.66737739872068,2
+3,3,112,326,19,135,0,0,0,1,2,595,0,1,596,0,3,"Panchayat. Union Ele.School Pudu Ayyappanaickenpalayam ,East facing building (South side)","(1) - Kasilingampalayam (R.V) Nanthavanampalayam (p), Navithanpudur w.no.9
+(2) - Kasilingampalayam (R.V) Nanthavanampalayam (p), Palaiya Ayyanpan Naiyakanpalayam W.No.11
+(3) - Kasilingampalayam (R.V) Nanthavanampalayam (p), Olappalayam W.No.15",All Voters,All India Anna Dravida Munnetra Kazhagam,326,135,191,Tamilaga Vettri Kazhagam,3,1,2,4,32.10084033613445,3
+4,4,139,358,15,173,1,3,0,1,2,692,0,2,694,0,4,"Panchayat Union Ele. School, Pudu Ayyappanaickenpalayam,East Facing Terraced Building (Northern Side)","(1) - Kasilingampalayam (R.V) Nanthavanampalayam (p), Pudhu Ayyappa Naiyakanpalayam W.No.11
+(2) - Kasilingampalayam (R.V) Nanthavanampalayam (p), Marappakoundanpalayam W.No.14",All Voters,All India Anna Dravida Munnetra Kazhagam,358,173,185,Tamilaga Vettri Kazhagam,3,1,2,4,26.73410404624277,7
+5,5,154,395,14,147,0,0,1,0,0,711,0,5,716,0,5,"Panchayat Union Middle School,Veruvedampalayam., South facing building","(1) - Kasilingampalayam (R.V) Nanthavanampalayam (p), Veruvedampalayam west w.no.8
+(2) - Kasilingampalayam (R.V) Nanthavanampalayam (p), Veruvedampalayam East
+W.No.8",All Voters,All India Anna Dravida Munnetra Kazhagam,395,154,241,Dravida Munnetra Kazhagam,2,1,3,4,33.89592123769339,1
+6,6,207,339,14,185,1,0,0,0,2,748,0,4,752,0,6,"Panchayat Union Ele.School, Kungumampalayam,North facing building Eastern side","(1) - Kasilingampalayam (R.V) Nanthavanampalayam (p), Kungkumampalayam W.No.16",All Voters,All India Anna Dravida Munnetra Kazhagam,339,207,132,Dravida Munnetra Kazhagam,2,1,3,4,17.64705882352941,3
+7,7,144,435,16,111,0,1,1,0,1,709,0,6,715,0,7,"Panchayat Union Ele.School, Thumbalapatti,Building west side","(1) - Nanthavanam Pallayam (R.V) and (P), Thumbalappatti w.no.1",All Voters,All India Anna Dravida Munnetra Kazhagam,435,144,291,Dravida Munnetra Kazhagam,2,1,3,4,41.04372355430183,3
+8,8,134,224,10,96,0,0,0,3,0,467,0,8,475,0,8,"Panchayat Union Ele.School, Nandavanampalayam,East facing building","(1) - Nanthavanampalayam (R.V) and (P), Nanthavanampalayam W.No.7",All Voters,All India Anna Dravida Munnetra Kazhagam,224,134,90,Dravida Munnetra Kazhagam,2,1,3,4,19.27194860813704,3
+9,9,136,242,12,81,0,0,0,0,0,471,0,2,473,0,9,"Panchayat Union Elementary School, Muthugoundanpalayam, North facing Terraced Building (East Portion)","(1) - Nanthavanampalayam (R.V) and (P), Muthukoundanpalayam W.No.2",All Voters,All India Anna Dravida Munnetra Kazhagam,242,136,106,Dravida Munnetra Kazhagam,2,1,3,4,22.50530785562633,0
+10,10,171,213,14,127,1,1,2,1,0,530,0,4,534,0,10,"P.U.M.School Edaiyapatti 638702,South facing Building","(1) - Kokkampalayam (R.V) and (P) Ward 3, Velayudampalayam,Vaniyamputhur
+(2) - Kokkampalayam (R.V) and (P) Ward 2, Dharmar Puthur ,Maravapalayam",All Voters,All India Anna Dravida Munnetra Kazhagam,213,171,42,Dravida Munnetra Kazhagam,2,1,3,4,7.924528301886792,5
+11,11,216,233,19,169,0,0,0,1,1,639,0,2,641,0,11,"P.U.M.School Edaiyapatti 638702,North facing Building (West Poration)","(1) - Kokkampalayam (R.V) and (P) Ward 2, Edaiyapatti",All Voters,All India Anna Dravida Munnetra Kazhagam,233,216,17,Dravida Munnetra Kazhagam,2,1,3,4,2.660406885758998,2
+12,12,245,343,15,129,0,0,2,0,0,734,0,5,739,0,12,"P.U.E.School Karaipalayam 638702,South facing Building","(1) - Kokkampalayam (R.V) and (P) Ward 1, Ammapalayam
+(2) - Kokkampalayam (R.V) and (P) Ward 2, Karaipalayam
+(3) - Kokkampalayam (R.V) and (P) Ward 6, Kokkampalayam
+(4) - Kokkampalayam (R.V) and (P) Ward 7, Odakkalpalayam",All Voters,All India Anna Dravida Munnetra Kazhagam,343,245,98,Dravida Munnetra Kazhagam,2,1,3,4,13.35149863760218,2
+13,13,167,326,15,57,0,1,0,0,0,566,0,0,566,0,13,"Panchayat Union Ele.School, Jothiampatti,North facing building","(1) - Jothiyampatti (R.V) and (P), Ramanathapuram W.No.1
+(2) - Jothiyampatti (R.V) and (P), Jothiyampatti (West) W.No.1",All Voters,All India Anna Dravida Munnetra Kazhagam,326,167,159,Dravida Munnetra Kazhagam,2,1,3,4,28.09187279151944,1
+14,14,87,232,9,97,1,0,0,0,3,429,0,4,433,0,14,"Panchayat Union Elementary School, Jothiampatti, South facing building (West Portion)","(1) - Jothiyampatti (R.V) and (P), Jothiyampatti (East) W.No.1",All Voters,All India Anna Dravida Munnetra Kazhagam,232,97,135,Tamilaga Vettri Kazhagam,3,1,2,4,31.46853146853147,4
+15,15,163,305,15,98,0,0,1,0,0,582,0,3,585,0,15,"Panchayat Union Middle School, Pudurutharavathi,West facing building","(1) - Ruthravathi (T.P) Ganapathipalayam W.No.8
+(2) - Ruthravathi (T.P) Kaliyapalayam Road Karichi Kattupudur W.No.7
+(3) - Ruthravathi (T.P) Arijana Street Karichakattupudur W.No.7
+(4) - Ruthravathi (T.P) Athidravidar Street Karichakattupudur W.No.7
+(5) - Ruthravathi (T.P) Kovai Road (Karichakattupudur) W.No.7 & 11
+(6) - Ruthravathi (R.V) and (P) Vinayakar Kovil Street (Palaiya Ruthravathi) W.No.1
+(7) - Ruthravathi (T.P)Ganapathipalayam, Eswaran Kovil Street W.No o.8",All Voters,All India Anna Dravida Munnetra Kazhagam,305,163,142,Dravida Munnetra Kazhagam,2,1,3,4,24.39862542955326,1
+16,16,137,526,24,87,0,0,0,1,1,776,0,3,779,0,16,"Panchayat Union Middle School, Pudurutharavathi,North facing building (East side)","(1) - Ruthravathi (T.P), MariyammanKovilStreet (PudhuRuthravathi) W.No.1
+(2) - Ruthravathi (T.P), Arambapalli Street Pudhu Ruthravathi W.No.1
+(4) - Ruthravathi (T.P) Kathangkanni Street W.No.2
+(3) - Ruthravathi (R.V)and (P) Vinayakar Kovil Street (Sengalipalayam) W.No .2",All Voters,All India Anna Dravida Munnetra Kazhagam,526,137,389,Dravida Munnetra Kazhagam,2,1,3,4,50.12886597938144,2
+17,17,155,256,10,184,0,1,0,1,1,608,0,3,611,0,17,"Panchayat Union Ele.School, Sedapalayam,West facing building (South side)","(1) - Ruthravathi (T.P), Sottapalayam Jothiyampatti Road W.No.3
+(2) - Ruthravathi (T.P) Vinayakar Kovil Street (Sedapalayam) W.No.3
+(3) - Ruthravathi (T.P), MainStreet Sodapalayam W.No.3
+(4) - Ruthravathi (T.P), BajanaiKovil Street Sodapalayam W.No.3
+(5) - Ruthravathi (T.P) Sowdamman Kovil Street(Pudhu Navakombu) W.No.4
+(6) - Ruthravathi (T.P) Podarampalayam Main Street (East) W.No.5",All Voters,All India Anna Dravida Munnetra Kazhagam,256,184,72,Tamilaga Vettri Kazhagam,3,1,2,4,11.84210526315789,3
+18,18,135,285,8,120,0,0,0,0,1,549,0,0,549,0,18,"Panchayat Union Ele.School,
+Sedapalayam,West facing building North Side638702","(1) - Ruthravathi (T.P) Makaliyamman Kovil Street(Sedapalayam) W.No.3
+(2) - Ruthravathi (T.P) Kundadam Sedapalayam Road W.No.9",All Voters,All India Anna Dravida Munnetra Kazhagam,285,135,150,Dravida Munnetra Kazhagam,2,1,3,4,27.3224043715847,1
+19,19,206,262,14,122,0,0,0,0,1,605,0,1,606,0,19,"Govt.Higher Sec.School, Kundadam,South facing building (West side)","(1) - Ruthravathi (T.P) Navakombu Harijana Street W.No.4
+(2) - Ruthravathi (T.P) Navakombu Athidravidar Street W.No.4
+(3) - Ruthravathi (T.P) Navakombu Main Street W.No.4
+(4) - Ruthravathi (T.P) Uthiyuur Road W.No.10
+(5) - Ruthravathi (T.P) Sowdamman Kovil Road W.No.10
+(6) - Ruthravathi (T.P) Kamarajapuram W.No.11",All Voters,All India Anna Dravida Munnetra Kazhagam,262,206,56,Dravida Munnetra Kazhagam,2,1,3,4,9.256198347107437,1
+20,20,175,199,22,115,0,0,0,0,1,512,0,3,515,0,20,"Govt.Higher Sec.School, Kundadam,West facing building (Center Portion)","(1) - Ruthravathi (T.P) Kovai Road W.No.11
+(2) - Ruthravathi (T.P) Vadukanatha Kovil Street W.No.14
+(3) - Ruthravathi (T.P) Sedapalayam Road W.No.9
+(4) - Ruthravathi (T.P) Kudadam Uthiyuur Road W.No.10
+(5) - Ruthravathi (T.P) Kovai Road West W.No.11",All Voters,All India Anna Dravida Munnetra Kazhagam,199,175,24,Dravida Munnetra Kazhagam,2,1,3,4,4.6875,1
+21,21,139,250,10,112,1,0,0,0,3,515,0,1,516,0,21,"Panchayat Union Ele.School, Muthanampatti-638702,East facing building (South Portion)","(1) - Ruthravathi (T.P) Sangappalayam Mariyamman Kovil Street W.No.14
+(2) - Ruthravathi (T.P) Sangappalayam Arijana Street W.No.14
+(3) - Ruthravathi (T.P) Sangappalayam Nallur Road W.No.13
+(4) - Ruthravathi (T.P) Kadalaikattu Puthur Ward No 15
+(5) - Ruthravathi (T.P) Ammapalayam Arijana Street W.No.13
+(6) - Ruthravathi (T.P) Ammapalayam Therkkuvalavu W.No.13",All Voters,All India Anna Dravida Munnetra Kazhagam,250,139,111,Dravida Munnetra Kazhagam,2,1,3,4,21.55339805825243,4
+22,22,241,351,27,153,0,0,1,1,1,775,0,4,779,0,22,"Panchayat Union Ele.School, Muthanampatti-638702,East facing building (North Portion)","(1) - Ruthravathi (T.P) Ammapalayam Vadakkuvalavu W.No.13
+(2) - Ruthravathi (T.P) Nallur Vinayakar Kovil Street W.No.15
+(3) - Ruthravathi (T.P), Muthanampatti vinayakar KovilStreet W.No.12
+(4) - Ruthravathi (T.P), Muthanampatti ArijanaStreet W.No.12
+(5) - Ruthravathi (T.P) Sungiliyampalayam VeeramathiKovil Street W.No.15
+(6) - Ruthravathi (T.P) Sungiliyampalayam ArijanaStreet W.No.15",All Voters,All India Anna Dravida Munnetra Kazhagam,351,241,110,Dravida Munnetra Kazhagam,2,1,3,4,14.19354838709677,3
+23,23,147,254,16,124,1,0,0,1,1,544,0,4,548,0,23,"Panchayat Union Elementary School,Ammapalayam, East facing Building (South Portion)","(1) - Nanthavanampalayam (R.V) and (P), Kalipalayam W.No.4
+(2) - Nanthavanampalayam (R.V) and (P), Ammapalayam W.No.5 (999) - OVERSEAS ELECTORS",All Voters,All India Anna Dravida Munnetra Kazhagam,254,147,107,Dravida Munnetra Kazhagam,2,1,3,4,19.66911764705882,3
+24,24,130,161,14,134,0,1,1,1,0,442,0,5,447,0,24,"Panchayat Union Elementary School, Kannikampatti, East Facing Building (South Portion)","(1) - Nanthavanampalayam (R.V) and (P), Thangayipudur W.No.3
+(2) - Nanthavanampalayam (R.V) and (P), Kannikampatti W.No.6",All Voters,All India Anna Dravida Munnetra Kazhagam,161,134,27,Tamilaga Vettri Kazhagam,3,1,2,4,6.108597285067873,3
+25,25,249,279,19,96,1,0,1,0,2,647,0,7,654,0,25,"PUMS, Eragampatti-638702,North Facing Building","(1) - Eragampatti (R.V) Sadaiyapalayam (P), Easwara chetti palayam W.No.3
+(2) - Eragampatti (R.V) Sadaiyapalayam (P), Senbaga gounda palayam
+(3) - Eragampatti (R.V) Sadaiyapalayam (P), Chandirapuram Thirumalapuram W.No.4",All Voters,All India Anna Dravida Munnetra Kazhagam,279,249,30,Dravida Munnetra Kazhagam,2,1,3,4,4.636785162287481,4
+26,26,214,221,9,103,0,0,1,1,7,556,0,4,560,0,26,"PUMS, Eragampatti - 638702,East facing building (North side)","(1) - Eragampatti (R.V) Sadaiyapalayam (P), Erakampatti Narayanapuram W.No.4
+(2) - Eragampatti (R.V) Sadaiyapalayam (P), Chettipalayam W.No.4",All Voters,All India Anna Dravida Munnetra Kazhagam,221,214,7,Dravida Munnetra Kazhagam,2,1,3,4,1.258992805755396,9
+27,27,154,343,18,93,1,0,0,1,1,611,0,4,615,0,27,"Panchayat Union Ele.School Ottapalayam 638702,North Facing Tiled Building Western Side","(1) - Eragampatti (R.V) Sadaiyapalayam (P), Velliyam palayam W.No.1
+(2) - Eragampatti (R.V) Sadaiyapalayam (P), Singaripalayam west W.No.1
+(3) - Eragampatti (R.V) Sadaiyapalayam (P), Ootappalayam W.No.1",All Voters,All India Anna Dravida Munnetra Kazhagam,343,154,189,Dravida Munnetra Kazhagam,2,1,3,4,30.9328968903437,3
+28,28,114,350,18,94,0,0,0,0,1,577,0,4,581,0,28,"Panchayat Union Ele.School Ottapalayam 638702,North Facing Tiled Building (Eastern Side)","(1) - Eragampatti (R.V) Sadaiyapalayam (P), Sadaiyampalayam W.No.1
+(2) - Eragampatti (R.V) Sadaiyapalayam (P), Singaripalayam East W.No.1",All Voters,All India Anna Dravida Munnetra Kazhagam,350,114,236,Dravida Munnetra Kazhagam,2,1,3,4,40.90121317157712,1
+29,29,149,356,13,124,0,0,1,1,2,646,0,2,648,0,29,"P.U.M.School, Manoorpalayam-641 671,Building facing West","(1) - Manoorpalayam (R.V) Sadaiyampalayam (P), Pettaikalai palayam W.No.2
+(2) - Manoorpalayam (R.V) Sadaiyampalayam (P), Kolanthapalayam W.No.2",All Voters,All India Anna Dravida Munnetra Kazhagam,356,149,207,Dravida Munnetra Kazhagam,2,1,3,4,32.04334365325077,4
+30,30,181,296,12,120,0,0,1,0,1,611,0,3,614,0,30,"P.U.M.School, Manoorpalayam-641
+671,Building facing East","(1) - Manoorpalayam (R.V) Sadaiyampalayam (P), Manurpalayam w.no.2",All Voters,All India Anna Dravida Munnetra Kazhagam,296,181,115,Dravida Munnetra Kazhagam,2,1,3,4,18.82160392798691,2
+31,31,107,226,11,144,2,2,0,0,0,492,0,2,494,0,31,"P.U.E.School, West Sadayapalayam,South facing building","(1) - Manoorpalayam (R.V) Sadaiyampalayam (P), West sadaiyampalayam w.no.4",All Voters,All India Anna Dravida Munnetra Kazhagam,226,144,82,Tamilaga Vettri Kazhagam,3,1,2,4,16.66666666666666,4
+32,32,144,252,9,102,0,0,0,0,1,508,0,6,514,0,32,"Village Porverty Reduction Committee Building, Karuppattipalayam, East Facing
+Building","(1) - Manoorpalayam (R.V) Sadaiyampalayam (P), Karuppatti palayam W.No.2",All Voters,All India Anna Dravida Munnetra Kazhagam,252,144,108,Dravida Munnetra Kazhagam,2,1,3,4,21.25984251968504,1
+33,33,148,354,12,179,0,0,0,0,3,696,0,4,700,0,33,"P.U.E.S, Thottianthurai,Building facing East","(1) - Manoorpalayam (R.V) Sadaiyampalayam (P), Niraiyur W.No.3
+(2) - Manoorpalayam (R.V) Sadaiyampalayam (P), Kallivalasu Udaiyarpalayam W.No.3",All Voters,All India Anna Dravida Munnetra Kazhagam,354,179,175,Tamilaga Vettri Kazhagam,3,1,2,4,25.14367816091954,3
+34,34,159,191,12,120,0,0,0,0,0,482,0,4,486,0,34,"P.U.E.S, Thottianthurai,Building facing North","(1) - Manoorpalayam (R.V) Sadaiyampalayam (P), Thottiyanthurai W.No.3",All Voters,All India Anna Dravida Munnetra Kazhagam,191,159,32,Dravida Munnetra Kazhagam,2,1,3,4,6.639004149377594,0
+35,35,196,365,23,135,3,0,0,0,1,723,0,7,730,0,35,"Panchayat Union Ele.School, Muthaiampatti 638702,North facing building","(1) - Muthiyampatti (R.V) and (P), Muthiyampatti W.No.1",All Voters,All India Anna Dravida Munnetra Kazhagam,365,196,169,Dravida Munnetra Kazhagam,2,1,3,4,23.37482710926694,4
+36,36,69,108,3,58,0,0,0,0,2,240,0,0,240,0,36,"Anganwadi Center, Muthaiampatti 638702,North facing building (Separate Poration)","(1) - Muthiyampatti (R.V) and (P), Nallipalayam puthur W.No.2
+(2) - Muthiyampatti (R.V) and (P), Nalliyampalayam W.No.3",All Voters,All India Anna Dravida Munnetra Kazhagam,108,69,39,Dravida Munnetra Kazhagam,2,1,3,4,16.25,2
+37,37,158,275,21,147,2,0,1,0,2,606,0,2,608,0,37,"Panchayat Union Middle School, Periyakumarapalayam, East facing Building (South Portion)","(1) - Periyakumara palayam (R.V) and (P), Periyakumarapalayamn East W.No.2
+(2) - Periyakumara palayam (R.V) and (P), Periyakumara palayam Maiyam W.No.1
+(4) - Periyakumara palayam (R.V) and (P), Periyakumara palayam west W.No.1
+(3) - Periyakumara palayam (R.V) and (P), Periyakumara palayam Theinkilakku W.No.1",All Voters,All India Anna Dravida Munnetra Kazhagam,275,158,117,Dravida Munnetra Kazhagam,2,1,3,4,19.30693069306931,5
+38,38,284,430,22,101,2,0,1,4,1,845,0,10,855,0,38,"Panchayat Union Middle School, Periyakumarapalayam,Building facing East (North side)","(1) - Periyakumara palayam (R.V) and (P), Periyakumarapalayam Vadamerkku W.No.3
+(2) - Poyeekumara palayam (R.V) and (P), Mutur chinna Poolavadi W.No.2",All Voters,All India Anna Dravida Munnetra Kazhagam,430,284,146,Dravida Munnetra Kazhagam,2,1,3,4,17.27810650887574,8
+39,39,147,259,6,116,1,0,0,1,0,530,0,0,530,0,39,"Panchayat Union Ele.School, Kuppanaickenpatti-642201,Building facing South","(1) - Navanari (R.V) and (p), Kuppanayakkanpatti w.no.1",All Voters,All India Anna Dravida Munnetra Kazhagam,259,147,112,Dravida Munnetra Kazhagam,2,1,3,4,21.13207547169812,2
+40,40,137,275,8,70,0,1,1,0,0,492,0,4,496,0,40,"Panchayat Union Elementary School, Kallipalayam, North facing Tiled Building (West Portion)","(1) - Navanari (R.V)and (P), Navanari W.No.2
+(2) - Navanari (R.V) and (P), Kallipalayam W.No.3",All Voters,All India Anna Dravida Munnetra Kazhagam,275,137,138,Dravida Munnetra Kazhagam,2,1,3,4,28.04878048780488,2
+41,41,243,370,27,174,1,1,0,0,1,817,0,3,820,0,41,"PUES, Bellampatti-638702 ,Building facing west","(1) - Bellampatti (R.V) and (P), Bellampatti Kilakku street Merkkunstreet W.No
+(2) - Bellampatti (R.V) and (P), Devangu chettiyar street Mathari street W.No",All Voters,All India Anna Dravida Munnetra Kazhagam,370,243,127,Dravida Munnetra Kazhagam,2,1,3,4,15.54467564259486,3
+42,42,122,325,8,77,1,0,0,0,0,533,0,5,538,0,42,"Panchayat Union Ele School, Bellampatti-638702,Building facing North","(1) - Bellampatti (R.V) and (P), Bellamatti Veeramathikovilstreet W.No.2
+(2) - Bellampatti (R.V) and (P), Molavalasu W.No.2
+(3) - Bellampatti (R.V) and (P), Maravapalayam W.No.2",All Voters,All India Anna Dravida Munnetra Kazhagam,325,122,203,Dravida Munnetra Kazhagam,2,1,3,4,38.08630393996248,1
+43,43,162,419,16,150,1,0,0,0,3,751,0,4,755,0,43,"Panchayat Union Ele.School, Marudur-642206,Building facing North","(1) - Maruthur (R.V) and (P), Maruthur Kaspa W.No.1
+(2) - Maruthur (R.V) and (P), Thangayee Puthu W.No.2
+(3) - Maruthur (R.V) and (P), Nagalingapuram W.No.3
+(4) - Maruthur (R.V) and (P), Nochipalayam W.No.4
+(5) - Maruthur (R.V) and (P), Sengattupalayam W.No.5",All Voters,All India Anna Dravida Munnetra Kazhagam,419,162,257,Dravida Munnetra Kazhagam,2,1,3,4,34.22103861517976,4
+44,44,139,267,5,65,1,0,1,2,4,484,0,2,486,0,44,"Panchayat Union Elementary School,Angitholuvu,East facing Tiled Building","(1) - Ponnapuram (R.V) and (P), Anghitholuvu W.No.1 (999) - OVERSEAS ELECTORS",All Voters,All India Anna Dravida Munnetra Kazhagam,267,139,128,Dravida Munnetra Kazhagam,2,1,3,4,26.44628099173554,8
+45,45,170,461,12,85,1,1,0,0,1,731,0,5,736,0,45,"P.U.E.S, Pethampatti,Building
+facing North (East Portion)","(1) - Ponnapuram (R.V) and (P), Panapalayam Ward No 2
+(2) - Ponnapuram (R.V) and (P), Pethampatty Ward No 3",All Voters,All India Anna Dravida Munnetra Kazhagam,461,170,291,Dravida Munnetra Kazhagam,2,1,3,4,39.80848153214774,3
+46,46,148,248,19,117,0,0,0,0,1,533,0,2,535,0,46,"P.U.E.S, Bommanaickenpatti,North facing Tiled Building","(1) - Munduvelampatti (R.V) Pottikampalayam (P), Bommanaickenpatti W.No1",All Voters,All India Anna Dravida Munnetra Kazhagam,248,148,100,Dravida Munnetra Kazhagam,2,1,3,4,18.76172607879925,1
+47,47,130,278,16,55,1,0,0,1,2,483,0,4,487,0,47,"Panchayat Union Elementary School, Erukkalampalayam, East facing Building","(1) - Munduvelampatti (R.V) Pottikampalayam (P), Nallore W.No.1
+(2) - Munduvelampatti (R.V) Pottikampalayam (P), Erukalampalayam W.No.1",All Voters,All India Anna Dravida Munnetra Kazhagam,278,130,148,Dravida Munnetra Kazhagam,2,1,3,4,30.64182194616977,4
+48,48,183,294,11,65,2,0,0,0,1,556,0,2,558,0,48,"Govt High School, Pottickampalayam,South facing building (West Portion)","(1) - Munduvelampatti (R.V) Pottikampalayam (P), Kangeyampalayam Ward No 2
+(2) - Munduvelampatti (R.V) Pottikampalayam (P), Potikanpalayam Ward No 2",All Voters,All India Anna Dravida Munnetra Kazhagam,294,183,111,Dravida Munnetra Kazhagam,2,1,3,4,19.96402877697842,3
+49,49,188,276,7,53,0,2,1,0,0,527,0,4,531,0,49,"Govt High School, Pottickampalayam,South facing building (East Portion)","(1) - Munduvelampatti (R.V) Pottikampalayam (P), Popanayakanpalayam Ward No 2
+(2) - Munduvelampatti (R.V) Pottikampalayam (P), Chandrapuram W.No.3",All Voters,All India Anna Dravida Munnetra Kazhagam,276,188,88,Dravida Munnetra Kazhagam,2,1,3,4,16.69829222011385,3
+50,50,216,517,29,117,2,1,0,1,3,886,0,4,890,0,50,"Panchayat Union Ele.School, Munduvelampatti,Tiled building facing East","(1) - Munduvelampatti (R.V) Pottikampalayam (P), Sithur Mundu Vellapan South W,No.3
+(2) - Munduvelampatti (R.V) Pottikampalayam (P), Munduvellappan W.No.4
+(3) - Munduvelampatti (R.V) Pottikampalayam (P), Kariyakalipudur W.no.4",All Voters,All India Anna Dravida Munnetra Kazhagam,517,216,301,Dravida Munnetra Kazhagam,2,1,3,4,33.97291196388262,7
+51,51,242,187,12,129,0,0,0,0,0,570,0,1,571,0,51,"P.U.E.School, Naranapuram-
+638657,Building facing East","(1) - Naranapuram (R.V) and (P), Narayanapuram East W.No.2",All Voters,Dravida Munnetra Kazhagam,242,187,55,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,9.649122807017543,0
+52,52,113,171,8,65,0,2,0,1,1,361,0,4,365,0,52,"Panchayat Union Elementary School, Naranapuram, East facing Building (North Portion)","(1) - Naranapuram (R.V) and (P), Narayanapuram West W.No.2",All Voters,All India Anna Dravida Munnetra Kazhagam,171,113,58,Dravida Munnetra Kazhagam,2,1,3,4,16.06648199445983,4
+53,53,150,206,16,160,0,0,1,1,4,538,0,8,546,0,53,"P.U.M School,Ponnapuram,East Facing Terraced Building South Side","(1) - Ponnapuram (R.V) and (P), Vavipalayam Kallipalayam W.No.3
+(2) - Ponnapuram (R.V) and (P), Dasarpatti W.No.4",All Voters,All India Anna Dravida Munnetra Kazhagam,206,160,46,Tamilaga Vettri Kazhagam,3,1,2,4,8.550185873605948,6
+54,54,188,215,17,158,0,0,0,1,1,580,0,8,588,0,54,"P.U.M School,Ponnapuram,South Facing Building ( Middle Portion)","(1) - Ponnapuram (R.V) and (P), Ponnapuram W.No.3",All Voters,All India Anna Dravida Munnetra Kazhagam,215,188,27,Dravida Munnetra Kazhagam,2,1,3,4,4.655172413793104,2
+55,55,184,459,41,138,2,0,0,5,3,832,0,13,845,0,55,"P.U.E.S, Nattukkalpalayam,Building facing South","(1) - Ponnapuram (R.V) and (P), Karingalyvalasu Ward No 4
+(2) - Ponnapuram (R.V) and (P), Nattukalpalayam Ward No 4",All Voters,All India Anna Dravida Munnetra Kazhagam,459,184,275,Dravida Munnetra Kazhagam,2,1,3,4,33.05288461538461,10
+56,56,352,416,20,144,0,1,2,0,5,940,0,4,944,0,56,"P.U.E.S, Devanallur,North facing Tiled Building (East Side)","(1) - Chinnakampalayam (T.P) Kumarapalayam East School Street Ward No 12
+(2) - Chinnakampalayam (T.P) Kumarapalayam West School Street Ward No 12
+(3) - Chinnakampalayam (T.P) Kumarapalayam Boyar Street Ward No 12
+(4) - Chinnakampalayam (T.P) Kumarapalayam Pothu Street Ward No 12
+(5) - Chinnakampalayam (T.P), Devnallur North Kuditheru Ward No 1
+(6) - Chinnakampalayam (T.P), Devanallur School Street Ward No 1
+(7) - Chinnakampalayam (T.P), Devanallur kovil Street Ward No 1
+(8) - Chinnakampalayam (T.P) Harichana Theru Ward No 2",All Voters,All India Anna Dravida Munnetra Kazhagam,416,352,64,Dravida Munnetra Kazhagam,2,1,3,4,6.808510638297872,8
+57,57,297,449,29,148,1,0,0,2,2,928,0,3,931,0,57,"Panchayat Union Elementary, School, Kottamuthampalayam-638672, West facing Building","(1) - Chinnakampalayam (T.P), Kottamuthampalayam School Street Ward No 2
+(2) - Chinnakampalayam (T.P) Kottamuthampalayam North Kuditheru Street Ward No.2
+(3) - Chinnakampalayam (T.P), Mariamman Koyil South Street Ward No 2
+(4) - Chinnakampalayam (T.P), Marriamman Kovil North Street Ward No 3
+(5) - Chinnakampalayam (T.P), West kuddi Theru Ward No 1",All Voters,All India Anna Dravida Munnetra Kazhagam,449,297,152,Dravida Munnetra Kazhagam,2,1,3,4,16.37931034482759,5
+58,58,68,316,12,136,1,3,0,1,1,538,0,7,545,0,58,"P.U.E.School, Kallivalasu,East facing Tiled Building","(1) - Chinnakampalayam (T.P) East Sowndamman Kovil Theru Ward No 15
+(2) - Chinnakampalayam (T.P) West soundamman Kovil Street Ward No.15
+(3) - Chinnakampalayam (T.P) S.K School Street Ward No 14
+(4) - Chinnakampalayam (T.P) S.K School Street Ward No 14",All Voters,All India Anna Dravida Munnetra Kazhagam,316,136,180,Tamilaga Vettri Kazhagam,3,1,2,4,33.45724907063197,6
+59,59,126,160,9,89,2,0,0,0,0,386,0,2,388,0,59,"Panchayat Union Elementary School,Kallivalasu, East facing Tiled Building (North Portion)","(1) - Chinnakampalayam (T.P) S.K West School Street Ward No 14
+(2) - Chinnakampalayam (T.P), West Harichana Street Ward No 13
+(3) - Chinnakampalayam (T.P) Post Office Street Ward No 15
+(4) - Chinnakampalayam (T.P) Harichana Street Ward No 15
+(5) - Chinnakampalayam (T.P) Kuditheru Ward No 15",All Voters,All India Anna Dravida Munnetra Kazhagam,160,126,34,Dravida Munnetra Kazhagam,2,1,3,4,8.808290155440414,2
+60,60,306,360,28,232,2,4,3,2,4,941,0,6,947,0,60,"P.U.M.School, Kangayampalayam,East facing building (South side building)","(1) - Chinnakampalayam (T.P) S.K Vinayagar Kovil Theru Ward No 14
+(2) - Chinnakampalayam (T.P), S.k.Kadai Street Ward No 13
+(3) - Chinnakampalayam (T.P) North Harichan Street Ward No 13 & 15
+(4) - Chinnakampalayam (T.P) North kuditheru Ward No 12
+(5) - Chinnakampalayam (T.P) Chandrapuram Ward No 11",All Voters,All India Anna Dravida Munnetra Kazhagam,360,306,54,Dravida Munnetra Kazhagam,2,1,3,4,5.738575982996812,15
+61,61,176,321,19,113,1,2,0,0,2,634,0,5,639,0,61,"P.U.M.School, Chikkinapuram,North facing RCC Building","(1) - Chinnakampalayam (T.P), Ranjithapuram East Street Ward No 7
+(2) - Chinnakampalayam (T.P), Ranjitha Puaram South Street Ward No 7
+(3) - Chinnakampalayam (T.P), Ranjitha Puram North Street Ward No 7
+(4) - Chinnakampalayam (T.P), Sikannapuram Boyar Street Ward No 7",All Voters,All India Anna Dravida Munnetra Kazhagam,321,176,145,Dravida Munnetra Kazhagam,2,1,3,4,22.87066246056782,5
+62,62,282,247,9,186,1,1,1,1,3,731,0,10,741,0,62,"P.U.M.School, Chikkinapuram,South facing Building","(1) - Chinnakampalayam (T.P), Sikkanapuram Kudditheru Ward No 7,8
+(2) - Chinnakampalayam (T.P), Sikannapuram South Street Ward No 8
+(3) - Chinnakampalayam (T.P), Thaneer Panthal Ward No 8
+(4) - Chinnakampalayam (T.P), Harichana Theru Ward No 8",All Voters,Dravida Munnetra Kazhagam,282,247,35,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,4.78796169630643,7
+63,63,124,147,11,90,0,0,0,0,0,372,0,1,373,0,63,"P.U.E.S, Selampalayam,Building facing North (East Portion)","(1) - Chinnakampalayam (T.P), Selampalayam East Theru Ward No 9
+(2) - Chinnakampalayam (T.P), Selampalayam East Sowdamman Koil Theru
+(3) - Chinnakampalayam (T.P), Selampalayam Office Street Ward NO 9
+(4) - Chinnakampalayam (T.P) Selampalayam North Sowdamman Theru Ward No.9
+(5) - Chinnakampalayam (T.P), Selampalayam North Street Ward No 9
+(6) - Chinnakampalayam (T.P), Post School Street Ward No 9",All Voters,All India Anna Dravida Munnetra Kazhagam,147,124,23,Dravida Munnetra Kazhagam,2,1,3,4,6.182795698924731,0
+64,64,227,218,12,127,0,0,1,1,1,587,0,1,588,0,64,"P.U.E.School, Selampalayam 638672,Building facing North (Center Portion)",(1) - Chinnakampalayam (T.P) Selampalayam Kadai Street Ward No 10,All Voters,Dravida Munnetra Kazhagam,227,218,9,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,1.533219761499148,3
+65,65,268,288,35,154,1,0,1,0,1,748,0,3,751,0,65,"C.S.I. Primary School, Somanuthu-638672,East facing Terraced Building","(1) - Chinnakampalayam (T.P), Christhuva Street Ward No 3
+(2) - Chinnakampalayam (T.P), Somanuthu Marriamman Kovil Theru Ward No 3
+(3) - Chinnakampalayam (T.P), Somanuthu East Harichana Theru Ward No 4
+(4) - Chinnakampalayam (T.P), Somanuhtu Kuddi Theru Ward No 4
+(5) - Chinnakampalayam (T.P), Somanuhtu West Harichana Theru Ward No 4
+(6) - Chinnakampalayam (T.P) Somanuthu Ganapathy Street (Madankattuputhur) Ward No.5",All Voters,All India Anna Dravida Munnetra Kazhagam,288,268,20,Dravida Munnetra Kazhagam,2,1,3,4,2.67379679144385,3
+66,66,171,367,21,134,0,0,0,1,0,694,0,5,699,0,66,"P.U.E.School, (Hindu) Chennakkalpalayam,North facing
+building (Eastern side)","(1) - Dhalavaipattinam(R.V) and (P), Sennakal Palayam Ward No 3
+(2) - Dhalavaipattinam(R.V) and (P), Sennakal Palayam Military Colony Ward No",All Voters,All India Anna Dravida Munnetra Kazhagam,367,171,196,Dravida Munnetra Kazhagam,2,1,3,4,28.24207492795389,1
+67,67,130,225,28,150,0,2,2,2,1,540,0,4,544,0,67,"Panchayat Union Elementary School, Panchapatti,North facing Building (East Portion)","(1) - Dhalavaipattinam(R.V) and (P), Panchapatti Ward No 3 (999) - OVERSEAS ELECTORS",All Voters,All India Anna Dravida Munnetra Kazhagam,225,150,75,Tamilaga Vettri Kazhagam,3,1,2,4,13.88888888888889,7
+68,68,298,295,11,193,1,0,1,0,0,799,0,6,805,0,68,"Panchayat Union Elementary School, Chinnakkampalayam 638657 North facing Building (West Portion)","(1) - Chinnakampalayam (T.P), Chinnakampalayam Harichana Street Ward No 6
+(2) - Chinnakampalayam (T.P), Chinnakampalayam South Street Ward No 6
+(3) - Chinnakampalayam (T.P), Chinnakampalayam North Street Ward No 6",All Voters,Dravida Munnetra Kazhagam,298,295,3,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,0.3754693366708385,2
+69,69,275,243,21,127,1,0,3,2,0,672,0,1,673,0,69,"Panchayat Union Elementary School, Chinnakkampalayam 638657 North facing Building (West Portion) HM Room","(1) - Chinnakampalayam (T.P) Seelanaickanpatti East kuditheru Ward No 5
+(2) - Chinnakampalayam (T.P) Seelanaickanpatti West kuditheru Ward No 5
+(3) - Chinnakampalayam (T.P) Madangattupudur W.No.5
+(4) - Chinnakampalayam (T.P), Ashirpuram Ward No 5",All Voters,Dravida Munnetra Kazhagam,275,243,32,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,4.761904761904762,6
+70,70,142,191,6,76,0,0,0,0,1,416,0,0,416,0,70,"P.U.M.School, Govindapuram-
+638657,Building facing South","(1) - Govindapuram (R.V) and (P), Chettipalayam Kaliyapalayam Ward No 3",All Voters,All India Anna Dravida Munnetra Kazhagam,191,142,49,Dravida Munnetra Kazhagam,2,1,3,4,11.77884615384615,1
+71,71,291,221,15,194,0,2,0,2,1,726,0,3,729,0,71,"P.U.M.School, Govindapuram-638657,North facing building (Eastern side)","(1) - Govindhapuram (R.V) and (P), Govindhapuram(P)(east) ward no 1",All Voters,Dravida Munnetra Kazhagam,291,221,70,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,9.641873278236915,5
+72,72,173,349,10,101,0,1,0,1,4,639,0,7,646,0,72,"P.U.M.School, Govindapuram-638657,North facing building (Western side)","(1) - Govindhapuram (R.V) and (P), Govindhapuram (P)(west) ward no2 (999) - OVERSEAS ELECTORS",All Voters,All India Anna Dravida Munnetra Kazhagam,349,173,176,Dravida Munnetra Kazhagam,2,1,3,4,27.54303599374022,6
+73,73,219,297,11,107,1,0,0,0,0,635,0,2,637,0,73,"PUMS, Periyaputhur-638657,Building facing East (South Portion)","(1) - Govindapuram (R.V) and (P), Venkittipalayam ward No 3
+(2) - Govindapuram (R.V) and (P), Mathiyapuram Ward No 3
+(3) - Govindapuram (R.V) and (P), Nanjundapuram Kalipalayam Ward No 4",All Voters,All India Anna Dravida Munnetra Kazhagam,297,219,78,Dravida Munnetra Kazhagam,2,1,3,4,12.28346456692913,1
+74,74,207,286,19,121,0,0,0,1,1,635,0,2,637,0,74,"P.U.M.S Periaputhur,Building facing
+East (Northern side)","(1) - Govindapuram (R.V) and (P), Periyapudur Ward No 4",All Voters,All India Anna Dravida Munnetra Kazhagam,286,207,79,Dravida Munnetra Kazhagam,2,1,3,4,12.44094488188976,2
+75,75,211,269,17,110,0,0,0,0,2,609,0,2,611,0,75,"C.S.I.Ele.School, Chinnaputhur-
+638657 East facing Building","(1) - Chinnaputhur (R.V) and (P), Rettypalayam Ward No 1
+(2) - Chinnaputhur (R.V) and (P), Kolappanayakkan Palayam Ward No 2",All Voters,All India Anna Dravida Munnetra Kazhagam,269,211,58,Dravida Munnetra Kazhagam,2,1,3,4,9.523809523809524,2
+76,76,186,327,17,125,1,2,1,0,0,659,0,4,663,0,76,"Panchayat Union Library, Chinnaputhur,Building Facing East","(1) - Chinnaputhur (R.V) and (P), Chinnaputhur South Ward No 2
+(2) - Chinnaputhur (R.V) and (P), Chinnaputhur North Pulyamarathupalayam",All Voters,All India Anna Dravida Munnetra Kazhagam,327,186,141,Dravida Munnetra Kazhagam,2,1,3,4,21.39605462822458,4
+77,77,228,280,21,152,1,0,0,2,2,686,0,5,691,0,77,"Village Porverty Reduction Committee Building, chinnaputhur-638657, South Facing Building (Centre Portion)","(1) - Chinnaputhur (R.V) and (P), Vellur Pappanoothu Ward No 3",All Voters,All India Anna Dravida Munnetra Kazhagam,280,228,52,Dravida Munnetra Kazhagam,2,1,3,4,7.580174927113703,5
+78,78,230,244,17,151,0,0,1,0,0,643,0,4,647,0,78,"P.U.E.S, Mettupalayam,Building
+facing North","(1) - Govindapuram(R.V) and (P), Mettupalayam Ward No1
+(2) - Govindapuram(R.V) and (P), Kuruvappanaickenpalayam ward No 1",All Voters,All India Anna Dravida Munnetra Kazhagam,244,230,14,Dravida Munnetra Kazhagam,2,1,3,4,2.177293934681182,1
+79,79,149,259,18,91,0,0,0,2,2,521,0,4,525,0,79,"P.U.Elementary School,
+Panamarathupalayam,Building facing East (North side)","(1) - Gethelrew(R.V) and (P), Vanna patti W.No.2
+(2) - Gethelrew(R.V) and (P), Thimmanaikkanpalayam Athimarathu palayam",All Voters,All India Anna Dravida Munnetra Kazhagam,259,149,110,Dravida Munnetra Kazhagam,2,1,3,4,21.11324376199616,4
+80,80,126,315,16,129,0,1,1,1,2,591,0,3,594,0,80,"P.U.E.School, Panamarathupalayam,Building facing East (South side)","(1) - Gethelrew(R.V) and (P), Molarapatti Velayuthampalayam W.No.4
+(2) - Gethelrew(R.V) and (P), Thasampattin Panaimarathupalayam W.No.4",All Voters,All India Anna Dravida Munnetra Kazhagam,315,129,186,Tamilaga Vettri Kazhagam,3,1,2,4,31.47208121827411,5
+81,81,213,333,15,127,0,1,0,2,0,691,0,9,700,0,81,"P.U.M.S, Kallivalasu-638702,Building facing North","(1) - Molarapatti (R.V) and (P), Kallivalasu (KIlpuram) W.No.1
+(2) - Molarapatti (R.V) and (P), Kallivalasu (Melpuram) W.No.2
+(3) - Molarapatti (R.V) and (P), Molarapatti W.No.3
+(4) - Molarapatti (R.V) and (P), Senapathi Gavundan puthur W.No.14",All Voters,All India Anna Dravida Munnetra Kazhagam,333,213,120,Dravida Munnetra Kazhagam,2,1,3,4,17.36613603473227,3
+82,82,171,274,6,66,0,0,0,0,1,518,0,1,519,0,82,"P.U.E.S, Devarajpattinam-638702,Building facing North","(1) - Velautham palayam (R.V) and (P), Devaraj pattanam Kuppichi palayam W.No
+(2) - Velayuthampalayam (P), Chinnaripalayam W.No.2",All Voters,All India Anna Dravida Munnetra Kazhagam,274,171,103,Dravida Munnetra Kazhagam,2,1,3,4,19.88416988416988,1
+83,83,237,280,25,143,0,0,0,0,0,685,0,0,685,0,83,"Panchayat Union Elementary School, Gethelrew,Building facing East (North side)","(1) - Gethelrew(R.V) and (P), Ponnali palayam W.No.1
+(2) - Gethelrew(R.V) and (P), Thondamuthur Vannapatti W.No.4",All Voters,All India Anna Dravida Munnetra Kazhagam,280,237,43,Dravida Munnetra Kazhagam,2,1,3,4,6.277372262773723,0
+84,84,176,322,20,111,0,0,0,3,0,632,0,4,636,0,84,"Panchayat Union Elementary School, Gethelrew,Building faciing East (South side)","(1) - Gethelrew(R.V) and (P), Kolinjikattupudur W.No.2
+(2) - Gethelrew(R.V) and (P), KethelrevuP Rangam palayam W.No.",All Voters,All India Anna Dravida Munnetra Kazhagam,322,176,146,Dravida Munnetra Kazhagam,2,1,3,4,23.10126582278481,3
+85,85,118,428,17,57,0,0,1,2,0,623,0,2,625,0,85,"P.U.M.School, Thoppampati-638657,East Facing Building (South Portion)","(1) - Thoppampatti (R.V) and (P) Ward 4, Kaliappagoundenputhur
+(2) - Thoppampatti ( R.V) and ( P) Ward 5, AlagiaGoundenpalayam,S.K.Puthur
+(3) - Thoppampatti (R.V) and (P) Ward 4, Kinathukattu puthur",All Voters,All India Anna Dravida Munnetra Kazhagam,428,118,310,Dravida Munnetra Kazhagam,2,1,3,4,49.75922953451043,3
+86,86,188,331,13,109,2,0,0,2,2,647,0,1,648,0,86,"P.U.M.School, Thoppampati-638657,East Facing Building (North Portion)","(1) - Thoppampatti (R.V) and (P) Ward 4, Rangampalayam
+(2) - Thoppampatti (R.V) and (P) Ward 4, Thoppampatti",All Voters,All India Anna Dravida Munnetra Kazhagam,331,188,143,Dravida Munnetra Kazhagam,2,1,3,4,22.10200927357032,6
+87,87,168,469,14,113,1,0,1,0,0,766,0,4,770,0,87,"Panchayat Union Ele.School, S.Kanchipuram-638702,Building facing South","(1) - Suriyanallur (R.V) and (P), Kuppannan Kovil W.No.3
+(2) - Suriyanallur (R.V) and (P), Koppanna Koundanpalayam W.No.2
+(3) - Suriyanallur (R.V) and (P), S Kanjchipuram Ramanathapuram W.No.2",All Voters,All India Anna Dravida Munnetra Kazhagam,469,168,301,Dravida Munnetra Kazhagam,2,1,3,4,39.29503916449087,2
+88,88,173,245,6,110,0,1,0,2,0,537,0,1,538,0,88,"Panchayat Union Middle School Surianallur 638702,West Facing Terraced Building","(1) - Suriyanallur (R.V) and (P), Suriyanallur W.No.1
+(2) - Suriyanallur (R.V) and (P), Servaraganpalayam W.No.1
+(3) - Suriyanallur (R.V) and (P), Arasamarathu Pudur W.No.8",All Voters,All India Anna Dravida Munnetra Kazhagam,245,173,72,Dravida Munnetra Kazhagam,2,1,3,4,13.40782122905028,3
+89,89,265,294,15,165,1,1,1,4,2,748,0,6,754,0,89,"Panchayat Union Middle School, Suriyanallur,East facing building
+(Center Portion)","(1) - Suriyanallur (R.V) and (P), Sennimalaipalayam Road W.No.3
+(2) - Suriyanallur (R.V) and (P), Kathappullapatti W.No.3
+(3) - Suriyanallur (R.V) and (P), Idaiyankinaur W.No.17",All Voters,All India Anna Dravida Munnetra Kazhagam,294,265,29,Dravida Munnetra Kazhagam,2,1,3,4,3.877005347593583,9
+90,90,130,218,17,131,1,0,1,0,2,500,0,4,504,0,90,"PUMS Vengipalayam 638702,North Facing Building (West Portion)","(1) - Suriyanallur (R.V) and (P), Palaiya Navakombu W.No.4
+(2) - Suriyanallur (R.V) and (P), Maravapalayam W.No.4",All Voters,All India Anna Dravida Munnetra Kazhagam,218,131,87,Tamilaga Vettri Kazhagam,3,1,2,4,17.4,4
+91,91,136,384,25,128,0,1,0,1,0,675,0,2,677,0,91,"PUMS Vengipalayam 638702,North Facing Building (East Portion)","(1) - Suriyanallur (R.V) and (P), Venkepalayam W.No.4",All Voters,All India Anna Dravida Munnetra Kazhagam,384,136,248,Dravida Munnetra Kazhagam,2,1,3,4,36.74074074074074,2
+92,92,152,275,22,91,0,1,0,0,1,542,0,2,544,0,92,"Anganwadi Centre, Vengipalayam-638702, East facing Building","(1) - Suriyanallur (R.V) and (P), Pilikampatti W.No.4
+(2) - Suriyanallaur (R.V) and (P), Mettampalayam W.No.4
+(3) - Suriyanallur (R.V) and (P), Semmam palayam W.No.4
+(4) - Suriyanallur (R.V) and (P), Kuppurangam puthur W.No.4
+(5) - Suryanallur (R.V) and (P), East puthur W.No.4",All Voters,All India Anna Dravida Munnetra Kazhagam,275,152,123,Dravida Munnetra Kazhagam,2,1,3,4,22.69372693726937,2
+93,93,148,256,24,68,0,1,1,0,0,498,0,5,503,0,93,"Panchayat Union Ele.School, Thambureddipalayam-638716,Building facing East (South
+Portion)","(1) - Kolumankkuli (R.V) and (P), Andipalayam w.no.1
+(2) - Kolumankkuli (R.V) and (P), Rasipalayam W.No.1
+(3) - Kolumankkuli (R.V) and (P), Ooramputhur Kammalapalayam W.No.2",All Voters,All India Anna Dravida Munnetra Kazhagam,256,148,108,Dravida Munnetra Kazhagam,2,1,3,4,21.68674698795181,2
+94,94,206,318,35,176,1,0,0,1,0,737,0,9,746,0,94,"Panchayat Union Ele.School, Thambureddipalayam-638716,Building facing East (North Portion)","(2) - Kolumankkuli (R.V) and (P), Thambureddy palayam North W.No.3
+(3) - Kolumankkuli (R.V) and (P), Kolumangali
+(1) - Kolumankkuli (R.V) and (P), Kallipalayam W.No.2",All Voters,All India Anna Dravida Munnetra Kazhagam,318,206,112,Dravida Munnetra Kazhagam,2,1,3,4,15.19674355495251,2
+95,95,201,428,29,140,0,2,0,3,2,805,0,11,816,0,95,"P.U.E.School Nochipalayam 638706,Eastfacing Building","(1) - Sirukinar (R.V) and (P) ward 2, Velliampalayam
+(2) - Sirukinar (R.V) and (P) Ward 2, Sellakumarapalayam
+(3) - Sirukinar (R.V) and (P) Ward 2, Senkattur
+(4) - Sirukinar (R.V) and (P) Ward 3, Nochipalayam
+(5) - Sirukinar (R.V) and (P) Ward 3, Alagiyapalayam
+(6) - Sirukinar (R.V) and (P) Ward 3, Kungumampalayam",All Voters,All India Anna Dravida Munnetra Kazhagam,428,201,227,Dravida Munnetra Kazhagam,2,1,3,4,28.19875776397516,7
+96,96,175,319,16,73,0,0,0,0,0,583,0,3,586,0,96,"P.U.E.School Sirukinnar-638706,East facing Building (South wing)","(1) - Sirukinar (R.V)and (P) ward1, Alampalayam
+(2) - Sirukinar (R.V) and (P) Ward 1, Kullagounden Puthur
+(3) - Sirukinar (R.V) and(P) Ward 1, Sirukinar East
+(4) - Sirukinar(R.V) and (P) Ward 1, Sirukinar West
+(5) - Sirukinar (R.V) and (P) Ward 2, Karaiputhur",All Voters,All India Anna Dravida Munnetra Kazhagam,319,175,144,Dravida Munnetra Kazhagam,2,1,3,4,24.69982847341338,0
+97,97,177,287,21,93,0,0,1,1,0,580,0,4,584,0,97,"P.U.E.School Pungadurai 638706,Eastfacing Building","(1) - Pungandurai (R.V) and (P) Ward 1, Vengakkalpalayam
+(2) - Pungandurai (R.V) and (P) Ward 1, S.M.Puthur,Pungandurai Puthur,Karaipalayam
+(3) - Pungandurai (R.V) and (P) Ward 1, Kalipalayam
+(4) - Pungandurai (R.V) and (P) Ward 1, Sokkanathapuram,Valasupalayam
+(5) - Pungandurai (R.V) and (P) Ward 1, Pungandurai",All Voters,All India Anna Dravida Munnetra Kazhagam,287,177,110,Dravida Munnetra Kazhagam,2,1,3,4,18.96551724137931,2
+98,98,193,161,26,69,0,1,0,1,3,454,0,1,455,0,98,"P.U.E.School, P.Kothanur-638706,North facing Building (East Portion)","(1) - Pungandurai (R.V) and (P) Ward 2, Adukkalpalayam,Kothanur
+(2) - Pungandurai (R.V) and (P) Ward 2, Manthittu Palayam",All Voters,Dravida Munnetra Kazhagam,193,161,32,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,7.048458149779736,5
+99,99,120,418,29,121,0,2,0,1,0,691,0,6,697,0,99,"P.U.E.School Sankarandampalayam 638706,Northfacing Building","(1) - Sankarandampalayam (R.V) and (P) Ward 1, Koil Kothanur
+(2) - Sankarandampalayam (R.V) and (P) Ward 1, Sankarandampalayam
+(3) - Sankarandampalayam (R.V) and (P) Ward 1, Velappampalayam
+(4) - Sankarandampalayam (R.V) and (P) Ward 1, Rangapalayam
+(5) - Sankarandampalayam (R.V) and (P) Ward 1, SellapillaGoudenputhur",All Voters,All India Anna Dravida Munnetra Kazhagam,418,121,297,Tamilaga Vettri Kazhagam,3,1,2,4,42.98118668596238,3
+100,100,119,318,18,78,1,0,0,0,0,534,0,5,539,0,100,"P.U.E.School Puthupalayam 638706
+,Northfacing Building","(1) - Sankarandampalayam (R.V) and (P) Ward 2, Puthupalayam
+(2) - Sankarandampalayam (R.V) and (P) Ward 2, Karunagalpalayam
+(3) - Sankarandampalayam (R.V) and (P) Ward 2, Nallakumara Gouden pudur
+(4) - Sankarandampalayam (R.V) and (P) Ward 2, Erasinampalayam",All Voters,All India Anna Dravida Munnetra Kazhagam,318,119,199,Dravida Munnetra Kazhagam,2,1,3,4,37.26591760299625,1
+101,101,127,182,28,83,1,1,0,0,1,423,0,3,426,0,101,"P.U.E.School Vadugamaravapalayam 638706
+,Northfacing Building","(1) - Sankarandampalayam (R.V) and (P) Ward 2, Vellaigoundenpudur
+(2) - Sankarandampalayam (R.V) and (P) Ward 2,
+Vadugamaravapalayam,Kovil.m.Palayam,MGR.nagar
+(3) - Sankarandampalayam (R.V) and (P) Ward 2, Vadugamaravapalayam J.J Nagar",All Voters,All India Anna Dravida Munnetra Kazhagam,182,127,55,Dravida Munnetra Kazhagam,2,1,3,4,13.00236406619385,3
+102,102,113,244,17,136,1,0,0,0,2,513,0,5,518,0,102,"Panchayat Union Elementary School, Kullakalipalayam 638706 South Facing Building","(1) - Vadugapalayam (R.V) Sankarandampalayam (P) Ward 3, Soliya valasu
+(2) - Vadugapalayam (R.V) Sankarandampalayam (P) Ward 3, Kullakali Palayam North
+(3) - Vadugapalayam (R.V) Sankarandampalayam (P) Ward 3, Kullakalipalayam South
+(4) - Sankarandampalayam (R.V) and (P) Ward 2, Amaravathy Gounden pudur",All Voters,All India Anna Dravida Munnetra Kazhagam,244,136,108,Tamilaga Vettri Kazhagam,3,1,2,4,21.05263157894737,3
+103,103,87,259,11,97,0,1,0,0,0,455,0,1,456,0,103,"Govt High School Nallimadam-638706, North facing Building (East Portion)","(1) - Vadugapalayam (R.V) Sankarandampalayam (P) Ward 3, Nallimadam
+(2) - Vadugapalayam (R.V) Sankarandampalayam (P) Ward 3, Itchipatti
+(3) - Vadugapalayam (R.V) Sankarandampalayam (P) Ward 3, SivanmalaiGounden Valasu KoilPalayam",All Voters,All India Anna Dravida Munnetra Kazhagam,259,97,162,Tamilaga Vettri Kazhagam,3,1,2,4,35.60439560439561,1
+104,104,96,140,4,67,0,0,0,0,0,307,0,1,308,0,104,"P.U.M.School, Veerachimangalam
+,South Facing Building (East Portion)","(1) - Veerachimanagalam (R.V) and (P) Ward 1, Athukkal puthur",All Voters,All India Anna Dravida Munnetra Kazhagam,140,96,44,Dravida Munnetra Kazhagam,2,1,3,4,14.33224755700326,0
+105,105,307,225,41,253,0,1,1,0,0,828,0,5,833,0,105,"P.U.M.School, Veerachimangalam,South Facing Building (Centre Portion)","(1) - Veerachimanagalam (R.V) and (P) Ward 6,7, Veerachimanagalam (999) - OVERSEAS ELECTORS",All Voters,Dravida Munnetra Kazhagam,307,253,54,Tamilaga Vettri Kazhagam,1,3,2,4,6.521739130434782,2
+106,106,146,110,17,104,0,0,0,0,0,377,0,0,377,0,106,"Panchayat Union Middle School,Veerachimangalam, East Facing Building (North building of South campus)","(1) - Veerachimanagalam (R.V) and (P) Ward 1,2,3, Veerachimanagalam East",All Voters,Dravida Munnetra Kazhagam,146,110,36,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,9.549071618037134,0
+107,107,137,142,6,112,0,0,1,0,1,399,0,2,401,0,107,"Panchayat Union middle School, Veerachimangalam, East facing Building (South Building of South Campus)","(1) - Veerachimanagalam (R.V) and (P) Ward 1,2,3, Veerachimanagalam East",All Voters,All India Anna Dravida Munnetra Kazhagam,142,137,5,Dravida Munnetra Kazhagam,2,1,3,4,1.2531328320802,2
+108,108,107,172,9,51,1,0,0,0,0,340,0,1,341,0,108,"P U E School, Madhukkampalayam 638673,East Facing Building","(1) - Veerachimanagalam ( R.V) and (P) Ward 4, Kattur
+(2) - Veerachimanagalam (R.V) and (P) Ward 4, Madukkampalayam",All Voters,All India Anna Dravida Munnetra Kazhagam,172,107,65,Dravida Munnetra Kazhagam,2,1,3,4,19.11764705882353,1
+109,109,142,386,73,107,1,0,0,1,0,710,0,3,713,0,109,"P.U.M.School, Thalakarai,Building facing South (Western side)","(1) - Vadugapalayam (R.V) Sankarandampalayam (P) ward 4, Thalakarai west
+(2) - Vadugapalayam (R.V) Sankarandampalayam (P) Ward 4, Thalakarai South",All Voters,All India Anna Dravida Munnetra Kazhagam,386,142,244,Dravida Munnetra Kazhagam,2,1,3,4,34.36619718309859,2
+110,110,146,309,27,113,2,1,1,2,1,602,0,3,605,0,110,"P.U.M.School, Thalakarai,Building facing South (Eastern side)","(1) - Vadugapalayam (R.V) Sankarandampalayam (P) Ward 4, Vadugapalayam West
+(2) - Vadugapalayam (R.V) Sankarandampalayam (P) Ward 4, Thalakarai East
+(3) - Vadugapalayam (R.V) Sankarandampalayam (P) Ward 4, Vadugapalayam East",All Voters,All India Anna Dravida Munnetra Kazhagam,309,146,163,Dravida Munnetra Kazhagam,2,1,3,4,27.07641196013289,7
+111,111,164,322,15,108,2,0,0,1,5,617,0,3,620,0,111,"PUES, Kullaipalayam,North facing
+building","(1) - Kannag kovil (R.V) and (p), Kannag kovil w.n. 1
+(2) - Kannan kovil (R.V) and (P), Alampalayam W.No.2",All Voters,All India Anna Dravida Munnetra Kazhagam,322,164,158,Dravida Munnetra Kazhagam,2,1,3,4,25.60777957860616,8
+112,112,134,199,3,80,0,0,0,1,1,418,0,4,422,0,112,"Anganwadi Centre Kullaipalayam,West Facing Building (Separate Portion)","(1) - Kannan kovil (R.V) and (P), Salaiyur W.No.1
+(2) - Kannan kovil (R.V) and (P), Kullayipalayam W.No.2",All Voters,All India Anna Dravida Munnetra Kazhagam,199,134,65,Dravida Munnetra Kazhagam,2,1,3,4,15.55023923444976,2
+113,113,146,292,14,114,0,1,0,0,1,568,0,3,571,0,113,"Panchayat Union Ele.School, Varapalayam ,Building facing East (North Portion)","(1) - Varapalayam (R.V) Thoppampatti (P) Ward 1, Velankattuputhur
+(2) - Varapalayam (R.V) Thoppampatti (P) Ward 1, Varapalayam East
+(3) - Varapalayam (R.V) Thoppampatti (P) Ward 1, Konapuram Pirivu (999) - OVERSEAS ELECTORS",All Voters,All India Anna Dravida Munnetra Kazhagam,292,146,146,Dravida Munnetra Kazhagam,2,1,3,4,25.70422535211268,2
+114,114,167,243,20,102,0,0,0,2,0,534,0,4,538,0,114,"Panchayat Union Ele.School, Varapalayam ,East facing building (South Portion)","(1) - Varapalayam (R.V) Thoppampatti (P) Ward 1, Varapalayam West
+(2) - Varapalayam (R.V) Thoppampatti (P) Ward 1, Kangayam Pirivu
+(3) - Varapalayam (R.V) Thoppampatti (P) Ward 1, Sunnambukadu",All Voters,All India Anna Dravida Munnetra Kazhagam,243,167,76,Dravida Munnetra Kazhagam,2,1,3,4,14.23220973782771,2
+115,115,211,279,8,57,0,2,0,0,2,559,0,1,560,0,115,"P U E School , Chinniyagoundempalayam 638657,East Facing Building (South Portion)","(1) - Madathupalayam (R.V) Thoppampatti (P) Ward 2, Chinniyagoundampalayam Kudi Street
+(2) - Madathupalayam (R.V) Thoppampatti (P) Ward 2, Chinniagoundanpalayam
+Harijana Colony",All Voters,All India Anna Dravida Munnetra Kazhagam,279,211,68,Dravida Munnetra Kazhagam,2,1,3,4,12.16457960644007,4
+116,116,166,259,15,119,1,0,0,1,2,563,0,0,563,0,116,"P U E School , Chinniyagoundempalayam 638657,East Facing Building (North Portion)","(1) - Madathupalayam (R.V) Thoppampatti (P) Ward 2, Thandarpalayam Harijana Colony
+(2) - Madathupalayam (R.V) Thoppampatti (P) Ward 5, Venkikalpalayam
+(3) - Madathupalayam (R.V) Thoppampatti (P) Ward 5, Kallimettuthottam
+(4) - Madathupalayam (R.V) Thoppampatti (P) Ward 5, Konapuram",All Voters,All India Anna Dravida Munnetra Kazhagam,259,166,93,Dravida Munnetra Kazhagam,2,1,3,4,16.51865008880995,4
+117,117,183,567,30,143,1,1,1,0,2,928,0,7,935,0,117,"P U E School, Madathupalayam 638657,East Facing Building","(1) - Madthupalayam (R.V) Thoppampatti (P) Wart 3, Madthupalayam
+(2) - Madthupalayam (R.V) Thoppampatti (P) Ward 3, Pullaikoilputhur
+(3) - Madthupalayam (R.V) Thoppampatti (P) Ward 3, Milmedu
+(4) - Madthupalayam (R.V) Thoppampatti (P) Ward 3, Venkittipalayam",All Voters,All India Anna Dravida Munnetra Kazhagam,567,183,384,Dravida Munnetra Kazhagam,2,1,3,4,41.37931034482759,5
+118,118,139,204,24,63,1,0,0,0,1,432,0,4,436,0,118,"P U E School, Sagunipalayam
+638657,North Facing Building","(1) - Varapalayam (R.V) Thoppampatti (P) Ward 3, Sagunipalayam",All Voters,All India Anna Dravida Munnetra Kazhagam,204,139,65,Dravida Munnetra Kazhagam,2,1,3,4,15.0462962962963,2
+119,119,244,245,20,163,0,0,0,1,3,676,0,0,676,0,119,"Govt.High School, Nanjiampalayam-638657,West facing building (South Portion)","(1) - Nanjiampalayam (R.V) and (P) Ward 2, Nanjiampalayam,East
+(2) - Nanjiampalayam (R.V) and (P) Ward 2, Nanjiampalayam Harijan Colony",All Voters,All India Anna Dravida Munnetra Kazhagam,245,244,1,Dravida Munnetra Kazhagam,2,1,3,4,0.1479289940828402,4
+120,120,149,149,35,168,0,0,0,0,0,501,0,3,504,0,120,"Govt.High School, Nanjiampalayam-638657,Building facing South (West Portion)","(1) - Nanjiampalayam (R.V) and (P) Ward 1, Therkalur Sunnambu Thottam",All Voters,Tamilaga Vettri Kazhagam,168,149,19,All India Anna Dravida Munnetra Kazhagam,2,2,1,4,3.792415169660679,0
+121,121,159,266,14,160,0,1,2,1,0,603,0,2,605,0,121,"Govt High School , Nanjiampalayam 638657,Building facing West (North Portion)","(1) - Nanjiampalayam (R.V) and (P) Ward 1, Nanjiampalayam west
+(2) - Nanjiampalayam (R.V) and (P) Ward 3, Kuppuchipalayam East",All Voters,All India Anna Dravida Munnetra Kazhagam,266,160,106,Tamilaga Vettri Kazhagam,3,1,2,4,17.5787728026534,4
+122,122,161,243,10,197,2,3,1,0,1,618,0,5,623,0,122,"Govt High School , Nanjiampalayam-638657,Building facing North (East Portion)","(1) - Nanjiampalayam (R.V) and (P) Ward 3, Kuppuchipallayam West",All Voters,All India Anna Dravida Munnetra Kazhagam,243,197,46,Tamilaga Vettri Kazhagam,3,1,2,4,7.443365695792881,7
+123,123,143,452,26,128,0,0,0,1,2,752,0,2,754,0,123,"P.U.E.School, Kumarapalayam,South Facing Building","(1) - Nanjiampalayam (R.V) and (P) Ward 3, Kumarapalayam",All Voters,All India Anna Dravida Munnetra Kazhagam,452,143,309,Dravida Munnetra Kazhagam,2,1,3,4,41.0904255319149,3
+124,124,65,85,11,91,0,0,0,0,0,252,0,2,254,0,124,"Govt High School, Nanjiampalayam-638657,Building facing South (East Portion)","(1) - Nanjiampalayam (R.V) and (P) Ward 4, Moyyagoundenpadugai Nettaikali thottam",All Voters,Tamilaga Vettri Kazhagam,91,85,6,All India Anna Dravida Munnetra Kazhagam,3,2,1,4,2.380952380952381,0
+125,125,237,307,32,215,0,0,0,1,1,793,0,3,796,0,125,"P.U.E.School, Goundachipudur,Building Facing South (East Side)","(1) - Chittravuthanpalayam (R.V) Koundachipudur (P), Koundachipudur Ward No4
+(2) - Chittravuthanpalayam (R.V) Koundachipudur (P), Samathur Ward NO 4
+(3) - Chittravuthanpalayam (R.V) Koundachipudur (P), Balasubramaniyam Nagar Ward No 4
+(999) - OVERSEAS ELECTORS",All Voters,All India Anna Dravida Munnetra Kazhagam,307,237,70,Dravida Munnetra Kazhagam,2,1,3,4,8.827238335435057,2
+126,126,241,186,29,174,0,0,0,1,0,631,0,7,638,0,126,"P.U.E.School, Goundachipudur,Building Facing South (West Side)","(1) - Chittravuthanpalayam (R.V) Koundachipudur (P), M.P.S Colony Ward No 4
+(2) - Chittravuthanpalayam (R.V) Koundachipudur (P), Fathima Nagar No 4
+(3) - Chittravuthanpalayam (R.V) Koundachipudur (P), Kannaki Nagar Ward No 4
+(4) - Chittravuthanpalayam (R.V) Koundachipudur (P), Sampatha Nagar Ward No 4",All Voters,Dravida Munnetra Kazhagam,241,186,55,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,8.716323296354993,1
+127,127,258,229,22,269,0,1,1,0,1,781,0,5,786,0,127,"P.U.E.S, Ammapatti,South facing
+Building (East Portion)","(1) - Chittravuthanpalayam (R.V) Koundachipudur (P), Ammapatti Chithravuthan
+Palayam Ward No 3",All Voters,Tamilaga Vettri Kazhagam,269,258,11,Dravida Munnetra Kazhagam,2,3,1,4,1.408450704225352,3
+128,128,81,200,12,93,0,0,0,0,0,386,0,2,388,0,128,"P.U.E.S(Old School Building), Kottapulipalayam,Building facing East (separate Building)","(1) - Chittravuthanpalayam (R.V) Koundachipudur (P), Kottamppuli Chinniyagounder valasu Ward No2",All Voters,All India Anna Dravida Munnetra Kazhagam,200,93,107,Tamilaga Vettri Kazhagam,3,1,2,4,27.72020725388601,0
+129,129,244,273,42,242,1,0,0,1,2,805,0,3,808,0,129,"P.U.E.S, Kondarasampalayam-638657,East Facing Terraced Building Southern Side","(1) - Chittravuthanpalayam (R.V) Koundachipudur (P), Kondarasampalayam East Ward No 1
+(2) - Chittravuthanpalayam (R.V) Koundachipudur (P), Maruthi Nagar Ward No 2",All Voters,All India Anna Dravida Munnetra Kazhagam,273,244,29,Dravida Munnetra Kazhagam,2,1,3,4,3.602484472049689,4
+130,130,196,250,27,175,0,0,0,0,0,648,0,3,651,0,130,"Panchayat Union Elementary School, Kondarasampalayam 638657, East facing Building,(North
+Portion)","(1) - Chittravuthanpalayam (R.V) Koundachipudur (P), Vinovanagar ,Serannagar , NAS Nagar, Kumaran Nagar ,Kurunchi Nagar",All Voters,All India Anna Dravida Munnetra Kazhagam,250,196,54,Dravida Munnetra Kazhagam,2,1,3,4,8.333333333333332,0
+131,131,218,223,26,195,1,0,2,0,2,667,0,1,668,0,131,"Panchayat Union Elementary School, Kondarasampalayam 638657 South Facing Building(West Portion)","(2) - Chittravuthanpalayam (R.V) Koundachipudur (P), Ramnagar Ward No 1
+(1) - Chittravuthanpalayam (R.V) Koundachipudur (P), Gandhinagar South Ward No 1
+(3) - Chittravuthanpalayam (R.V) Koundachipudur (P), Udumalai Road (Salavaiyalar Nagar Ward No1 )
+(4) - Chittravuthanpalayam (R.V) Koundachipudur (P), Maragatham Nagar Lakshmi Ward No 1",All Voters,All India Anna Dravida Munnetra Kazhagam,223,218,5,Dravida Munnetra Kazhagam,2,1,3,4,0.7496251874062968,5
+132,132,186,412,35,238,0,0,1,0,1,873,0,6,879,0,132,"Panchayat Union Elementary School, Kondarasampalayam 638657, South facing Building,East Portion","(3) - Chittravuthanpalayam (R.V) Koundachipudur (P), Seethakadu Ward No 1
+(1) - Chittravuthanpalayam (R.V) Koundachipudur (P), Udumalai Road ( Salavaiyalar Nagar Ward No 1
+(2) - Chittravuthanpalayam (R.V) Koundachipudur (P), Alangiyam Road Ward No 1",All Voters,All India Anna Dravida Munnetra Kazhagam,412,238,174,Tamilaga Vettri Kazhagam,3,1,2,4,19.93127147766323,2
+133,133,213,292,24,146,0,0,0,0,2,677,0,2,679,0,133,"Anganwadi Centre, Kondarasampalayam, South Facing Building","(1) - Chittravuthanpalayam (R.V) Koundachipudur (P), Anandhajothi Valagam Ward No 1
+(2) - Chittravuthanpalayam (R.V) Koundachipudur (P), West Harijanacolony Annanagar Ward
+(3) - Chittravuthanpalayam (R.V) Koundachipudur (P), VinobaNagar ,Serannagar , NAS Nagar, Kumaran Nagar ,Kurunchi Nagar",All Voters,All India Anna Dravida Munnetra Kazhagam,292,213,79,Dravida Munnetra Kazhagam,2,1,3,4,11.66912850812408,2
+134,134,169,292,28,286,0,0,0,0,2,777,0,3,780,0,134,"Mpl.Middle School, Kolinjivadi-638673,Building Facing North (East Portion)",(1) - Dharapuram (M) Uppuduraipalayam Ward No 10,All Voters,All India Anna Dravida Munnetra Kazhagam,292,286,6,Tamilaga Vettri Kazhagam,3,1,2,4,0.7722007722007722,2
+135,135,347,90,13,162,0,0,0,0,0,612,0,5,617,0,135,"Mpl.Middle School, Kolinjivadi-638673,South Facing Building (West Portion)","(1) - Dharapuram (M) Uppuduraipalayam Harijanastreet Ward No 10
+(2) - Dharapuram (M) Arasupalli Palayam Ward No 10",All Voters,Dravida Munnetra Kazhagam,347,162,185,Tamilaga Vettri Kazhagam,1,3,2,4,30.22875816993464,0
+136,136,213,164,7,201,0,0,1,0,1,587,0,2,589,0,136,"Mpl.Middle School, Kolinjivadi-638673,Building facing North (West side Room) Eastern side building of North-South Road)",(1) - Dharapuram (M) Meenakshipuram ward No.9,All Voters,Dravida Munnetra Kazhagam,213,201,12,Tamilaga Vettri Kazhagam,1,3,2,4,2.044293015332197,2
+137,137,370,112,11,168,0,0,0,0,0,661,0,2,663,0,137,"Mpl.Middle School, Kolinjivadi-638673,Building facing North (Center Room) Eastern side building
+of North-South Road",(1) - Dharapuram (M) Sokkanathapalayam Ward No 9,All Voters,Dravida Munnetra Kazhagam,370,168,202,Tamilaga Vettri Kazhagam,1,3,2,4,30.55975794251135,0
+138,138,160,182,25,126,0,1,0,0,0,494,0,4,498,0,138,"Mpl.Middle School, Kolinjivadi-638673,Building facing North (East side Room) Eastern side building of North South Road)(5th Std)","(1) - Dharapuram (M) Kolinjivadi Agraharam ward No 8
+(2) - Dharapuram (M) Kolinjivadi Kuddi Theru Ward No 8",All Voters,All India Anna Dravida Munnetra Kazhagam,182,160,22,Dravida Munnetra Kazhagam,2,1,3,4,4.453441295546559,1
+139,139,204,192,12,141,1,0,0,0,1,551,0,0,551,0,139,"Mpl.Middle School, Kolinjivadi-638673,Building facing North (East side Room) Eastern side building of North South Road) (Store Room)","(1) - Dharapuram (M) Kolinjivadi Harijana Street Ward No 8
+(2) - Dharapuram (M) Kolinjivadi Iratai Street Ward No.8",All Voters,Dravida Munnetra Kazhagam,204,192,12,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,2.177858439201452,2
+140,140,116,210,13,155,0,0,0,0,1,495,0,3,498,0,140,"Govt.Higher Sec.School, Dharapuram-638656,North facing building West Portion (Room No.52)",(1) - Dharapuram (M) Anumanthapuram Ahraharam Ward No 11 (999) - OVERSEAS ELECTORS,All Voters,All India Anna Dravida Munnetra Kazhagam,210,155,55,Tamilaga Vettri Kazhagam,3,1,2,4,11.11111111111111,1
+141,141,136,168,15,186,0,0,0,0,0,505,0,2,507,0,141,"Govt.Higher Sec.School, Dharapuram,North facing Building, East Portion (Room No.51)","(1) - Dharapuram (M) Anumanthapuram Kuddi Theru Ward No 11
+(2) - Dharapuram (M) V.M.Kandasamy Nagar Ward No.11",All Voters,Tamilaga Vettri Kazhagam,186,168,18,All India Anna Dravida Munnetra Kazhagam,3,2,1,4,3.564356435643564,0
+142,142,277,173,12,275,1,2,0,1,0,741,0,1,742,0,142,"Govt.Higher Sec.School, Dharapuram,South facing RCC building (East Portion) Room No-21","(1) - Dharapuram (M) Solakkadai Street Ward No.7
+(2) - Dharapuram (M) Kottai Mettu Theru Ward No 7",All Voters,Dravida Munnetra Kazhagam,277,275,2,Tamilaga Vettri Kazhagam,1,3,2,4,0.2699055330634278,4
+143,143,196,287,26,331,0,2,0,1,2,845,0,2,847,0,143,"Govt.Higher Sec.School, Dharapuram,South facing RCC building (West Portion) Room No-23","(1) - Dharapuram (M) Sollakadai Kurruku Street Ward No 7
+(2) - Dharapuram (M) Kaliamman Kovil Street Ward No 7",All Voters,Tamilaga Vettri Kazhagam,331,287,44,All India Anna Dravida Munnetra Kazhagam,3,2,1,4,5.207100591715976,5
+144,144,238,213,24,272,2,0,0,0,0,749,0,1,750,0,144,"Municipal Middle School, O.P.S.Road, Dharapuram, West facing building, North Portion","(1) - Dharapuram (M) Jawlikadai Street Ward No 12 and 17
+(2) - Dharapuram (M) Chairman Street Ward No 12
+(3) - Dharapuram (M) Mariamman Kovil Street Ward No 12",All Voters,Tamilaga Vettri Kazhagam,272,238,34,Dravida Munnetra Kazhagam,2,3,1,4,4.539385847797063,2
+145,145,476,21,9,109,0,0,0,0,0,615,0,4,619,0,145,"Noon Meal Centre, Jinnamaidanam, Dharapuram,Building Facing East","(1) - Dharapuram (M) Aththar Majith Theru Ward No 5
+(2) - Dharapuram (M) Muslim Theru Ward No 6
+(3) - Dharapuram (M), Jamal Puthur Ward No 5",All Voters,Dravida Munnetra Kazhagam,476,109,367,Tamilaga Vettri Kazhagam,1,3,2,4,59.67479674796748,0
+146,146,473,47,6,118,1,0,0,0,0,645,0,3,648,1,146,"Mpl.Middle School, OPS Street, Dharapuram,Building Facing West (Separate Building) 8th Std","(1) - Dharapuram (M) Seerasahif Theru Ward No 6
+(2) - Dharapuram (M) Raja Vaikal Muslim Theru Ward No 6
+(3) - Dharapuram (M) Kollar Street Ward No 12",All Voters,Dravida Munnetra Kazhagam,473,118,355,Tamilaga Vettri Kazhagam,1,3,2,4,55.03875968992248,1
+147,147,399,36,8,96,0,1,0,0,2,542,0,3,545,0,147,"Mpl.Middle School, OPS Street, Dharapuram,Building facing East (South Portion) 2nd Std","(1) - Dharapuram (M) Old Police Station Street Ward No 12
+(2) - Dharapuram (M), West Muslim Theru Ward No 6
+(3) - Dharapuram (M) V.O.C Theru Ward No 5",All Voters,Dravida Munnetra Kazhagam,399,96,303,Tamilaga Vettri Kazhagam,1,3,2,4,55.9040590405904,3
+148,148,506,27,11,75,0,0,0,0,0,619,0,2,621,0,148,"Municipal Middle School, O.P.S.Road, Dharapuram 638656, East facing Building (Middle Portion)","(1) - Dharapuram (M), Attavanai Majith Theru Ward No 6",All Voters,Dravida Munnetra Kazhagam,506,75,431,Tamilaga Vettri Kazhagam,1,3,2,4,69.62843295638126,0
+149,149,162,183,12,188,0,1,0,0,0,546,0,4,550,0,149,"Mpl.Middle School, OPS Street, Dharapuram,Building facing East (North Portion) 5th Std","(1) - Dharapuram (M) Sundaram Agraharam Kuddi Theru Ward No 5
+(2) - Dharapuram (M) Sundaram Aghraharam Ward No 13
+(3) - Dharapuram (M) Sundaram Setimai Theru Ward No 13",All Voters,Tamilaga Vettri Kazhagam,188,183,5,All India Anna Dravida Munnetra Kazhagam,3,2,1,4,0.9157509157509158,1
+150,150,159,90,3,165,0,1,0,1,0,419,0,1,420,0,150,"Municipal Middle School, O.P.S.Road, Dharapuram 638656, West facing building, South Portion,7 th Standard Room","(2) - Dharapurma (M) West Bajanai Madathere ward 13
+(1) - Dharapuram (M) West Bajanai Madatheru (kariyakaliamman Kiol Street) Ward No 13",All Voters,Tamilaga Vettri Kazhagam,165,159,6,Dravida Munnetra Kazhagam,2,3,1,4,1.431980906921241,2
+151,151,261,161,29,247,0,0,0,0,1,699,0,5,704,0,151,"C.S.I.Ele.School, Kamankovil Street,Building facing South (Western side)","(1) - Dharapuram (M) North Theru Ward No 2
+(2) - Dharapuram (M), Kamarajapuram Muthal KurrukuTheru Ward No 1",All Voters,Dravida Munnetra Kazhagam,261,247,14,Tamilaga Vettri Kazhagam,1,3,2,4,2.002861230329041,1
+152,152,352,88,38,361,0,0,0,0,0,839,0,2,841,0,152,"C.S.I.Ele.School, Kammankovil Street, Dharapuram,Building facing
+South (East Portion)","(1) - Dharapuram (M) North Roman Catholic Christian Street Ward No 2
+(2) - Dharapuram (M), Errachi Masthan Nagar Ward No 1",All Voters,Tamilaga Vettri Kazhagam,361,352,9,Dravida Munnetra Kazhagam,2,3,1,4,1.072705601907032,0
+153,153,259,145,34,289,1,0,0,0,2,730,0,7,737,0,153,"C.S.I.Ele.School, Kammankovil Street, Dharapuram,Building facing West (2nd Std)","(1) - Dharapuram (M) Kamarajapuram Muthal Theru Ward No 2
+(2) - Dharapuram (M) Kamarajapuram Second Street Ward No 2
+(3) - Dharapuram (M) Kamarajapuram 3 street Ward No 2",All Voters,Tamilaga Vettri Kazhagam,289,259,30,Dravida Munnetra Kazhagam,2,3,1,4,4.10958904109589,3
+154,154,288,176,26,252,1,0,1,1,1,746,0,4,750,0,154,"C.S.I.Elementary School, Kamankovil St,Dharapuram 638656, West facing building (North
+Portion)","(1) - Dharapuram (M), Kamarajapuram Third Street Ward No 1
+(2) - Dharapuram (M), Kamarajapuram 5th Street
+(3) - Dharapuram (M) Erraichi Masthan Nagar ( Arasu Oliyar Colony) Ward No.1",All Voters,Dravida Munnetra Kazhagam,288,252,36,Tamilaga Vettri Kazhagam,1,3,2,4,4.825737265415549,4
+155,155,289,99,36,192,1,0,0,0,2,619,0,1,620,0,155,"St.Antony Middle School, Poolavadi Road, Dharapuram,Building facing East (North Portion)","(1) - Dharapuram (M), Kaman Koil Theru Ward No 4",All Voters,Dravida Munnetra Kazhagam,289,192,97,Tamilaga Vettri Kazhagam,1,3,2,4,15.67043618739903,3
+156,156,292,111,32,242,0,1,0,0,1,679,0,6,685,0,156,"St.Antony Middle School, Poolavadi Road, Dharapuram,Building facing East (South Portion)","(1) - Dharapuram (M), Thirupur Road Ward No 4",All Voters,Dravida Munnetra Kazhagam,292,242,50,Tamilaga Vettri Kazhagam,1,3,2,4,7.363770250368189,2
+157,157,255,131,30,291,0,0,0,0,0,707,0,5,712,0,157,"St Antony Middle School, Poolavadi Road, Dharapuram, East facing Building (Middle Portion)","(1) - Dharapuram (M), Thirupur Road Ward No 4
+(2) - Dharapuram (M) Thiruvalluvar Theru Ward No 4
+(3) - Dharapuram (M), Sitharavuthan Palayam Oddaitheru Ward No 3",All Voters,Tamilaga Vettri Kazhagam,291,255,36,Dravida Munnetra Kazhagam,2,3,1,4,5.091937765205092,0
+158,158,187,139,31,214,0,1,0,0,2,574,0,1,575,0,158,"St.Antony Middle School, Poolavadi Road, Dharapuram,Building facing South (West Portion)","(1) - Dharapuram (M), Nachiyam Palayam Theru Puthur Ward No 2
+(2) - Dharapuram(M) Sitharavuthan Palayam Palayur Ward No 3
+(3) - Dharapuram (M) Agri office Near Jallikuli Ward No.3",All Voters,Tamilaga Vettri Kazhagam,214,187,27,Dravida Munnetra Kazhagam,2,3,1,4,4.70383275261324,3
+159,159,237,200,35,257,1,1,1,0,4,736,0,3,739,0,159,"St.Antony Middle School, Poolavadi Road, Dharapuram,Building facing South (East Portion)",(1) - Dharapuram (M) Chithravuthanpalayam Katoor Ward No 3,All Voters,Tamilaga Vettri Kazhagam,257,237,20,Dravida Munnetra Kazhagam,2,3,1,4,2.717391304347826,7
+160,160,322,198,19,254,0,0,0,0,0,793,0,3,796,0,160,"Mpl.Ele.School, Bajanai Mada Street, Dharapuram,Building facing East",(1) - Dharapuram (M) Nehru Nagar Ward No 14,All Voters,Dravida Munnetra Kazhagam,322,254,68,Tamilaga Vettri Kazhagam,1,3,2,4,8.575031525851198,0
+161,161,331,124,10,133,0,0,0,1,0,599,0,3,602,0,161,"Mpl.Ele.School, Bajanai Mada
+Street, Dharapuram, Building facing North (West Portion)",(1) - Dharapuram (M) Nethaji Street Ward No 14,All Voters,Dravida Munnetra Kazhagam,331,133,198,Tamilaga Vettri Kazhagam,1,3,2,4,33.0550918196995,1
+162,162,181,101,7,110,0,1,0,0,0,400,0,2,402,0,162,"Ponnu Govt Girls High School, Bajanai Mada Street, Dharapuram, West facing Building(Middle Portion)","(1) - Dharapuram (M) Thiruneelakandar Street Ward No 5
+(2) - Dharapuram (M) Vetrillaikara Theru Ward No 5
+(3) - Dharapuram (M) Chithravuthan Palayam West Theru Ward No 3",All Voters,Dravida Munnetra Kazhagam,181,110,71,Tamilaga Vettri Kazhagam,1,3,2,4,17.75,1
+163,163,148,122,17,169,1,0,0,0,0,457,0,2,459,0,163,"Mpl.Ele.School, Bajanai Mada Street, Dharapuram,Building facing North (East Portion) 2nd Std",(1) - Dharapuram (M) Kollathupunchai Theru Ward No 16,All Voters,Tamilaga Vettri Kazhagam,169,148,21,Dravida Munnetra Kazhagam,2,3,1,4,4.595185995623632,1
+164,164,165,164,14,169,0,1,0,0,0,513,0,3,516,0,164,"Anganwadi Certer, Bajanai Mada Street, Dharapuram,Building facing South (Separate Portion)","(1) - Dharapuram (M) N.g.g.o colony Ward No.16
+(2) - Dharapuram (M) R K R Nagar Ward No 15 (999) - OVERSEAS ELECTORS",All Voters,Tamilaga Vettri Kazhagam,169,165,4,Dravida Munnetra Kazhagam,2,3,1,4,0.7797270955165692,1
+165,165,255,146,17,185,0,2,1,1,0,607,0,4,611,0,165,"Ponnu Govt.Girls High School, Bajanai Mada Street, Dharapuram
+,Building facing West (North Portion)","(1) - Dharapuram (M) Bajanaimada South Theru Ward No 16
+(2) - Dharapuram (M) Bajanai Mada Middle Theru Ward No 16
+(3) - Dharapuram (M) Kuppusamy Theru Ward No 16
+(4) - Dharapuram (M) Vasantha Road Ward No 20
+(5) - Dharapuram (M) Vasantha Road Kurruku Theru ( C.S.I Valagam ) Ward No 20",All Voters,Dravida Munnetra Kazhagam,255,185,70,Tamilaga Vettri Kazhagam,1,3,2,4,11.53212520593081,4
+166,166,194,156,26,158,1,1,0,1,1,538,0,3,541,0,166,"Ponnu Govt. Girls High School,Bajanai Mada St, Dharapuram,Building facing West (South Portion)","(1) - Dharapuram (M) Vasntha Road Kurruku Theru (Annanagar) Ward No 20
+(2) - Dharapuram (M) Vasantha Raod Kurruku Theru (M.S.P Nagar) Ward No 20",All Voters,Dravida Munnetra Kazhagam,194,158,36,Tamilaga Vettri Kazhagam,1,3,2,4,6.691449814126393,4
+167,167,234,155,20,180,1,0,0,0,1,591,0,1,592,0,167,"C.S.I Boys Hr.Sec.School, Pollachi Road, dharapuram, Building facing West (South Portion)","(1) - Dharapuram (M) C.S.I Nagar Ward No 20
+(2) - Dharapuram (M)Elliesh Nagar Ward No 15
+(3) - Dharapuram (M) Palaniyappa Nagar Ward No 15
+(4) - Dharapuram (M) C.S.I Boys High School Compound Ward 15
+(5) - Dharapuram (M) Sagunipalayam Road Ward No 15
+(6) - Dharapuram (M) Ellish nagar West Sivasakthi Nagar Ward No 15",All Voters,Dravida Munnetra Kazhagam,234,180,54,Tamilaga Vettri Kazhagam,1,3,2,4,9.137055837563452,2
+168,168,283,181,16,262,0,0,1,1,0,744,0,3,747,0,168,"N.C.P.Mpl.Hr.Sec.School, Pollachi Road, Dharapuram,Building facing West (Centre Portion)","(1) - Dharapuram (M) Periyakadai Street Ward No.5,12,17 and 18
+(2) - Dharapuram (M) Nallammal pettai Street Ward No 17
+(3) - Dharapuram (M) Sankar Mill Backside Ward No 5",All Voters,Dravida Munnetra Kazhagam,283,262,21,Tamilaga Vettri Kazhagam,1,3,2,4,2.82258064516129,2
+169,169,196,201,26,198,0,0,0,0,0,621,0,2,623,0,169,"N.C.P.Mpl.Hr.Sec.School, Pollachi Road, Dharapuram,Building facing East (South Side)",(1) - Dharapuram (M) Nachimuhtu Puthur Ward No 21,All Voters,All India Anna Dravida Munnetra Kazhagam,201,198,3,Tamilaga Vettri Kazhagam,3,1,2,4,0.4830917874396135,0
+170,170,182,263,23,182,0,0,2,0,1,653,0,7,660,0,170,"C.S.I Boys Hr.Sec.School, Pollachi Road, dharapuram, Building facing East (Centre Portion)","(1) - Dharapuram (M) N.M Puthur Krruku Theru Merpuram Ward No 22
+(2) - Dharapuram (M) N. M Puthur Cross Street 2 (NMP Nagar) Ward No 22
+(3) - Dharapuram (M) N.M Theru II Asiriyar Colony Ward No 22
+(4) - Dharapuram (M), Bagathil Vasikathavargal (999) - OVERSEAS ELECTORS",All Voters,All India Anna Dravida Munnetra Kazhagam,263,182,81,Tamilaga Vettri Kazhagam,2,1,2,4,12.40428790199081,3
+171,171,164,94,12,136,0,0,1,0,0,407,0,3,410,0,171,"C.S.I Boys Hr.Sec.School, Pollachi Road, dharapuram, Building facing East (North side)",(1) - Dharapuram (M) old Veetu Vasathi Variya kuddiyirrupu Ward No 23,All Voters,Dravida Munnetra Kazhagam,164,136,28,Tamilaga Vettri Kazhagam,1,3,2,4,6.87960687960688,1
+172,172,202,93,12,114,0,0,0,1,1,423,0,5,428,0,172,"C S I Boys Higher Secondary  School, Pollachi Road, Dharapuram, North facing Building (Middle
+Portion)",(1) - Dharapuram (M) old Veetu Vasathi Variya kuddiyirrupu Ward No 23,All Voters,Dravida Munnetra Kazhagam,202,114,88,Tamilaga Vettri Kazhagam,1,3,2,4,20.80378250591016,2
+173,173,489,22,4,125,0,0,0,0,0,640,0,2,642,0,173,"Municipal Middle School, Valaiyakkara Street, Dharapuram-638656,Building facing South (West Portion)",(1) - Dharapuram (M) Sulthaniya Theru Ward No 17,All Voters,Dravida Munnetra Kazhagam,489,125,364,Tamilaga Vettri Kazhagam,1,3,2,4,56.875,0
+174,174,229,116,13,129,0,0,0,0,0,487,0,0,487,0,174,"Municipal Middle School, Valaiyakaran Street,Dharapuram-638656,West facing Building","(1) - Dharapuram (M) Bairavan Kovil Street Ward No 18
+(2) - Dharapuram (M) Puthumajith Theru Ward No 18",All Voters,Dravida Munnetra Kazhagam,229,129,100,Tamilaga Vettri Kazhagam,1,3,2,4,20.53388090349076,0
+175,175,144,105,14,151,0,1,0,0,0,415,0,2,417,0,175,"Municipal Middle School, Valayakkar street, Dharapuram, East facing Building (South Portion)","(1) - Dharapuram (M) Nallamman Pettai Street Ward No 17
+(2) - Dharapuram (M) Vallaiyakara Theru Ward No 17
+(3) - Dharapuram (M) Soundamman Kovil Theru Ward No 17",All Voters,Tamilaga Vettri Kazhagam,151,144,7,Dravida Munnetra Kazhagam,2,3,1,4,1.686746987951807,1
+176,176,139,94,23,272,0,0,0,1,0,529,0,2,531,0,176,"St.Alocious Girls.Hr.Sec.School, Church Road, Dharapuram-638656,Building facing South (West
+Portion) Room No-2","(1) - Dharapuram (M) Devendra Street Ward No 19
+(2) - Dharapuram (M) Devendra Kurruku Theru -2 Ward No 19",All Voters,Tamilaga Vettri Kazhagam,272,139,133,Dravida Munnetra Kazhagam,2,3,1,4,25.14177693761815,1
+177,177,225,108,11,233,2,0,0,0,2,581,0,2,583,0,177,"St.Alocious Elementary School, Church Road, Dharapuram-638 656,Building facing East (North Portion)","(1) - Dharapuram (M) Christhuva Sandhu Ward No 19
+(2) - Dharapuram (M) Christhuva Anuppar Theru Ward No 18",All Voters,Tamilaga Vettri Kazhagam,233,225,8,Dravida Munnetra Kazhagam,2,3,1,4,1.376936316695353,4
+178,178,169,122,8,148,0,0,0,0,0,447,0,1,448,0,178,"St.Alocious Elementary School, Church Road, Dharapuram-638 656,Building facing East (South
+Portion)","(1) - Dharapuram (M), Church Street ward No 19
+(2) - Dharapuram (M), Subramaniyasamy Kovil Theru Ward No 19
+(3) - Dharapuram (M), New Police Station Street Ward No 19",All Voters,Dravida Munnetra Kazhagam,169,148,21,Tamilaga Vettri Kazhagam,1,3,2,4,4.697986577181208,0
+179,179,197,175,27,272,0,0,0,1,0,672,0,4,676,0,179,"St.Aloycious Girls.Hr.Sec.School, Church Street, Dharapuram-638656,West facing building (Room No-54)","(1) - Dharapuram (M), Bharathiyar Theru Ward NO 21",All Voters,Tamilaga Vettri Kazhagam,272,197,75,Dravida Munnetra Kazhagam,2,3,1,4,11.16071428571429,1
+180,180,234,102,17,237,0,0,2,0,3,595,0,4,599,0,180,"St.Aloysius Girls.Higher Sec
+.School, Church road, Dharapuram, Church Road, 638656 South facing Building (East Portion 2nd Room)","(1) - Dharapuram (M) South Ambedkar Theru Ward No 26
+(2) - Dharapuram (M) New South Ambedkar Theru Ward No 26
+(3) - Dharapuram (M) Pookara Theru Ward No 30",All Voters,Tamilaga Vettri Kazhagam,237,234,3,Dravida Munnetra Kazhagam,2,3,1,4,0.5042016806722689,5
+181,181,163,148,18,157,0,0,0,0,1,487,0,1,488,0,181,"St.Alocious Girls Hr.Sec.School, Church Road, Dharapuram-638656,South facing building (East Portion) Room No-4","(1) - Dharapuram (M) Thalavaipattinam Road Ward No 26
+(2) - Dharapuram (M) Alangiyam Road Ward No 26",All Voters,Dravida Munnetra Kazhagam,163,157,6,Tamilaga Vettri Kazhagam,1,3,2,4,1.232032854209446,1
+182,182,217,126,19,292,0,0,0,0,2,656,0,6,662,0,182,"St Aloysius Girls Higher Sec School, Church road, Dharapuram, South facing Building (East Portion-First Room)","(1) - Dharapuram (M) Devendra Kurruku Theru Ward No 19
+(2) - Dharapuram (M), Narayanan Theru Ward No 21",All Voters,Tamilaga Vettri Kazhagam,292,217,75,Dravida Munnetra Kazhagam,2,3,1,4,11.43292682926829,2
+183,183,172,132,21,164,0,0,0,0,0,489,0,1,490,0,183,"C.S.I.Girls Hr.Sec.School, Udumalai Road, Dharapuram-638 656,Building facing East (South Portion)","(1) - Dharapuram (M) Udumalai Road Ward No 19, 21 and 25
+(2) - Dharapuram (M) Udumalai Road Kurruku Theru 1 Ward No 25
+(3) - Dharapuram (M) Udumalai Road Kurruku Theru Vitalbai Nagar Ward No.25",All Voters,Dravida Munnetra Kazhagam,172,164,8,Tamilaga Vettri Kazhagam,1,3,2,4,1.6359918200409,0
+184,184,167,119,20,154,1,0,0,0,1,462,0,8,470,0,184,"C.S.I.Girls Hr.Sec.School, Udumalai Road, Dharapuram-638 656,Building facing East (North Portion)","(1) - Dharapuram (M) Manniyammai Nagar (Kottapuli Palayam Road) Ward No 21
+(2) - Dharapuram (M) Bus Stand South Side Housing Unit Ward No.21
+(3) - Dharapuram (M) CSI Hospital Backside Ward No 21",All Voters,Dravida Munnetra Kazhagam,167,154,13,Tamilaga Vettri Kazhagam,1,3,2,4,2.813852813852814,2
+185,185,212,213,26,107,1,0,0,0,0,559,0,2,561,0,185,"C.S.I.Girls Hr.Sec.School, Udumalai Road, Dharapuram-638 656,Building facing South (West Portion)","(1) - Dharapuram (M) Udumalai Road Kuruku Theru 4 (Senniyappa Nagar Ward No.25
+(2) - Dharapuram (M) Udumalai Kurruku Theru 5 ( Rajendra Nagar) Ward No.25
+(3) - Dharapuram (M) Udumalai Road Kurruku Theru Geetha Nagar Ward No 24
+(4) - Dharapuram (M) Udumalai Road Kurruku Theru 7 (Nadesa Nagar) Ward No 24
+(5) - Dharapuram (M) Arasu Aluvalar Vadagai Kuddirrupu Paguthi Ward No.24 (999) - OVERSEAS ELECTORS",All Voters,All India Anna Dravida Munnetra Kazhagam,213,212,1,Dravida Munnetra Kazhagam,2,1,3,4,0.1788908765652952,1
+186,186,150,195,25,293,2,1,1,1,3,671,0,1,672,0,186,"Srinivasa Aided School, Bheemar Agraharam,Dharapuram 638656,East Facing Building (North Portion)",(1) - Dharapuram (M) Gandhipuram Ward No 29 and 30,All Voters,Tamilaga Vettri Kazhagam,293,195,98,All India Anna Dravida Munnetra Kazhagam,3,2,1,4,14.60506706408346,8
+187,187,158,146,18,244,0,0,0,1,0,567,0,1,568,0,187,"Srinivasa Aided School, Bheemar Agraharam,Dharapuram 638656,East Facing Building (South Portion)","(1) - Dharapuram (M), Gandhipuram",All Voters,Tamilaga Vettri Kazhagam,244,158,86,Dravida Munnetra Kazhagam,2,3,1,4,15.16754850088183,1
+188,188,175,99,10,99,0,1,0,0,0,384,0,2,386,0,188,"Mpl.Middle School,Chittravuthanpalayam,North Facing Building (East Portion) 8th Std","(1) - Dharapuram (M) Gandhipuram Kurruku Theru 1 (Kannan Nagar) Ward 24
+(2) - Dharapuram (M) Gandhipuram Kurruku Theru 2 (Kannan Nagar) Ward 24",All Voters,Dravida Munnetra Kazhagam,175,99,76,Tamilaga Vettri Kazhagam,1,2,2,4,19.79166666666666,1
+189,189,153,158,13,134,1,0,0,0,0,459,0,0,459,0,189,"Mpl.Middle School,Chittravuthanpalayam,West Facing Building (Middle Portion) 7th Std","(1) - Dharapuram (M) Gandhipuram Kuruku Theru 3 (Kannan Nagar ) Ward 24
+(2) - Dharapuram (M) Gandhipuram Kurruku Theru 4 ( Vellayappa Nagar) Ward No.30
+(3) - Dharapuram (M) Gandhipuram KurukuTheru 5, Ward.30 (L.G.G.S Colony)",All Voters,All India Anna Dravida Munnetra Kazhagam,158,153,5,Dravida Munnetra Kazhagam,2,1,3,4,1.089324618736383,1
+190,190,171,173,23,290,1,0,0,0,1,659,0,4,663,0,190,"Municipal Middle School, Chittravuthanpalayam, Dharapuram-638656,West facing building (South Portion)","(1) - Dharapuram (M) Periyar West Street Ward No 30
+(2) - Dharapuram (M) Periyar East Street Ward No 30
+(3) - Dharapuram (M) Old Beemar Kurruku Theru ( Aladdikalampathai) Ward No.30",All Voters,Tamilaga Vettri Kazhagam,290,173,117,All India Anna Dravida Munnetra Kazhagam,3,2,1,4,17.75417298937785,2
+191,191,200,181,27,227,0,2,0,2,1,640,0,3,643,0,191,"Municipal Middle School, Chittravuthanpalayam, Dharapuram 638656, West Facing Building (North Portion)","(1) - Dharapuram (M) Bhimar Agraharam New Street Ward No 28
+(2) - Dharapuram (M) Bhimar Agraharam Main Street ward No 28
+(3) - Dharapuram (M) Bhimar Agraharam Main Street Cross Street-1 ward No 27",All Voters,Tamilaga Vettri Kazhagam,227,200,27,Dravida Munnetra Kazhagam,2,3,1,4,4.21875,5
+192,192,195,95,10,315,0,0,1,0,1,617,0,2,619,0,192,"Municipal Middle School, Chittravuthanpalayam, Dharapuram,Building facing South (Eastern side)","(1) - Dharapuram (M) West Katcheri Street Ward No 28
+(2) - Dharapuram (M) Katcheri Street Ward No 28
+(3) - Dharapuram (M) Jawahar Nagar Ward No 27",All Voters,Tamilaga Vettri Kazhagam,315,195,120,Dravida Munnetra Kazhagam,2,3,1,4,19.44894651539708,2
+193,193,167,142,20,211,0,0,1,0,0,541,0,2,543,0,193,"Municipal Middle School, Chittravuthanpalayam, Dharapuram, South facing Building (West Portion)","(1) - Dharapuram (M) Bhimar Agraharam Main Street Ward No 28
+(2) - Dharapuram (M) Bhimar Agraharam Main Street Cross Street Ward No 28
+(3) - Dharapuram (M) Palaiya Beemar Aghraharam Ward No 30",All Voters,Tamilaga Vettri Kazhagam,211,167,44,Dravida Munnetra Kazhagam,2,3,1,4,8.133086876155268,1
+194,194,218,276,17,174,1,0,0,0,1,687,0,3,690,0,194,"P U E School, Seerampalayam 638673,South Facing Building West Part","(1) - Kolathupalayam (TP) Ward 1 Meenatchipuram Main Street
+(2) - Kolathupalayam (TP) Ward 1 NaickerStreet (Ellappanaickenvalasu) J.J.Nagar
+(3) - Kolathupalayam (TP) Ward 1 Seerampalayam South Street",All Voters,All India Anna Dravida Munnetra Kazhagam,276,218,58,Dravida Munnetra Kazhagam,2,1,3,4,8.442503639010189,2
+195,195,196,152,13,216,2,0,0,2,3,584,0,1,585,0,195,"P.U.E.School, Seerampalayam
+,Building facing South (East Portion)","(1) - Kolathupalayam (TP) Ward 2 Seerampalayam Pallivasal Street
+(2) - Kolathupalayam (TP) Ward 2 Mettu Valasu Vinayagar Kovil Street
+(3) - Kolathupalayam (TP) Ward 11, Ambedkar Nagar(Kolathupalayam )",All Voters,Tamilaga Vettri Kazhagam,216,196,20,Dravida Munnetra Kazhagam,2,3,1,4,3.424657534246575,7
+196,196,401,149,18,199,0,1,0,1,0,769,0,3,772,0,196,"P.U.M.S, Kalipalayam-638 661,Building facing South (East Portion)","(1) - Kolathupalayam (TP) Ward 4 Mill Gate
+(2) - Kolathupalayam (TP) Ward 2 Kalipalayam Karur Main Road
+(3) - Kolathupalayam (TP) Ward 4 Kalipalayam MiddleStreet
+(4) - Kolathupalayam (TP) Ward 10 Karurmainroad RamamoorthyNagar",All Voters,Dravida Munnetra Kazhagam,401,199,202,Tamilaga Vettri Kazhagam,1,3,2,4,26.26788036410923,2
+197,197,264,151,21,226,0,0,0,0,1,663,0,4,667,0,197,"PUMS Kalipalayam-638 661,Building facing South (West Portion)","(1) - Kolathupalayam (TP) Ward 3 Kalipalayam west street
+(2) - Kolathupalayam (TP) Ward 3 Kalipalayam Harijan Street",All Voters,Dravida Munnetra Kazhagam,264,226,38,Tamilaga Vettri Kazhagam,1,3,2,4,5.731523378582202,1
+198,198,273,143,24,219,0,0,1,0,0,660,0,1,661,0,198,"PUMS Kalipalayam-638 661,Building facing East (North
+Portion)","(1) - Kolathupalayam (TP) Ward 3 Mariamman koil Street
+(2) - Kolathupalayam (TP) Ward 10, Ramamoorthy Nagar
+(3) - Kolathupalayam (TP) Ward 2 M.G.R.Nagar",All Voters,Dravida Munnetra Kazhagam,273,219,54,Tamilaga Vettri Kazhagam,1,3,2,4,8.181818181818182,1
+199,199,281,222,41,204,0,1,1,0,3,753,0,3,756,0,199,"Panchayat Union Elementary School, Ramapatinam 638661 South Facing Building","(1) - Kolathupalayam (TP) Ward 5 Ramapattinam karur Main Road
+(2) - Kolathupalayam (TP) Ward 5 Ramapattinam Vinayagar Kovil Street
+(3) - Kolathupalayam (TP) Ward 5 Ramapattinam West Street
+(4) - Kolathupalayam (TP) Ward 5 Ramapattinam East Street",All Voters,Dravida Munnetra Kazhagam,281,222,59,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,7.835325365205843,5
+200,200,230,218,21,114,0,0,1,1,2,587,0,3,590,0,200,"Govt.Hr.Sec.School, Kolathupalayam-638 661,Building facing South (West side) West Room","(1) - Kolathupalayam (TP) Ward 6 Karuppampalayam
+(2) - Kolathupalayam (TP) Ward 6 Nathakattur
+(3) - Kolathupalayam (TP) Ward 8 Karaiyur Karur Main Road (999) - OVERSEAS ELECTORS",All Voters,Dravida Munnetra Kazhagam,230,218,12,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,2.044293015332197,4
+201,201,217,290,36,188,1,1,0,2,2,737,0,6,743,0,201,"Govt.Hr.Sec.School, Kolathupalayam-638 661,Building facing South West side (East Room)","(1) - Kolathupalayam (TP) Ward 8 Karaiyurpalaiya Kudumbar Street
+(2) - Kolathupalayam (TP) Ward 8 Karaiyurkudumbar New Street
+(3) - Kolathupalayam (TP) Ward 6 Goundaiyan Valasu Road (Karaiyur)",All Voters,All India Anna Dravida Munnetra Kazhagam,290,217,73,Dravida Munnetra Kazhagam,2,1,3,4,9.905020352781547,6
+202,202,229,335,14,87,1,0,1,1,3,671,0,7,678,0,202,"Govt.Hr.Sec.School, Kolathupalayam-638 661,Building facing South East side (West Room)","(1) - Kolathupalayam (TP) Ward 15 Raja Street
+(2) - Kolathupalayam (TP) Ward 15 Kolathupalayam South Thotta Street
+(3) - Kolathupalayam (TP) Ward 15 Kolathupalayam West Street
+(4) - Kolathupalayam (TP) Ward 6 Krishnapuram",All Voters,All India Anna Dravida Munnetra Kazhagam,335,229,106,Dravida Munnetra Kazhagam,2,1,3,4,15.7973174366617,6
+203,203,281,345,21,121,1,0,0,0,1,770,0,6,776,0,203,"Govt.Hr.Sec.School, Kolathupalayam-638 661,Building facing South East Side (East Room)","(1) - Kolathupalayam (TP) Ward 9 Karur Main Road Street
+(2) - Kolathupalayam (TP) Ward 9 Pallikuda Street
+(3) - Kolathupalayam (TP) Ward 9 Pallivasal Street
+(4) - Kolathupalayam (TP) Ward 9 Maniakarar Street
+(5) - Kolathupalayam (TP) Ward 9 North Valasu Street",All Voters,All India Anna Dravida Munnetra Kazhagam,345,281,64,Dravida Munnetra Kazhagam,2,1,3,4,8.311688311688311,2
+204,204,215,491,9,98,0,0,1,0,1,815,0,2,817,0,204,"Anganwadi Maiyam, Kulukkapalayam 638673 West Facing Building","(1) - Kolathupalayam (TP) Ward 16 Karungalivalasu
+(2) - Kolathupalayam (TP) Ward 16 Karungalivalasu Harijan Street
+(3) - Kolathupalayam (TP) Ward 14 Kulukkapalayam",All Voters,All India Anna Dravida Munnetra Kazhagam,491,215,276,Dravida Munnetra Kazhagam,2,1,3,4,33.86503067484662,2
+205,205,273,134,43,215,1,0,0,0,0,666,0,2,668,0,205,"P U M School, Gandhijinagar,
+Kalipalayam 638661,South Facing Building","(1) - Kolathupalayam (TP) Ward 10, Gandhiji nagar",All Voters,Dravida Munnetra Kazhagam,273,215,58,Tamilaga Vettri Kazhagam,1,3,2,4,8.708708708708707,1
+206,206,197,506,33,195,0,2,0,1,4,938,0,8,946,0,206,"P U E School ,Ganapathypalayam 638673,South Facing Building","(1) - Kolathupalayam (TP) Ward 14 Chettiyar Puthur Main Street
+(2) - Kolathupalayam (TP) Ward 13 Karuvelampalayam
+(3) - Kolathupalayam (TP) Ward 11, Ganapathypalayam North Street
+(4) - Kolathupalayam (TP) Ward 11, Ganapathypalayam South Street",All Voters,All India Anna Dravida Munnetra Kazhagam,506,197,309,Dravida Munnetra Kazhagam,2,1,3,4,32.94243070362473,7
+207,207,180,276,15,303,1,0,0,1,1,777,0,7,784,0,207,"Panchayat Union Elementary
+School, Aachiyur 638673 South facing Building (West Portion)","(1) - Kolathupalayam (TP) Ward 13 Thullukkanur
+(2) - Kolathupalayam (TP) Ward 13 NalliGoundenthottam
+(3) - Kolathupalayam (TP) Ward 13 Ram Nagar",All Voters,Tamilaga Vettri Kazhagam,303,276,27,All India Anna Dravida Munnetra Kazhagam,3,2,1,4,3.474903474903475,3
+208,208,214,288,25,231,1,1,1,2,0,763,0,3,766,0,208,"Panchayat Union Elementary School, Aachiyur 638673 South Facing Building (East Portion )","(1) - Kolathupalayam (TP) Ward 12, Aachiyur Puthur Main Street
+(2) - Kolathupalayam (TP) Ward 12 Aachiyur Durkkaiamman Kovil Street
+(3) - Kolathupalayam (TP) Ward 12 Aachiyur Kaliamman Kovil Street",All Voters,All India Anna Dravida Munnetra Kazhagam,288,231,57,Tamilaga Vettri Kazhagam,3,1,2,4,7.470511140235911,5
+209,209,206,273,24,192,1,0,0,2,3,701,0,5,706,0,209,"P.U.E.S, Kollapatti,Building facing
+North (East Portion)","(1) - Manakadavu (R.V) and (P), Mangalampalayam Ward No 1
+(2) - Manakadavu (R.V) and (P), Katamman Puthur Ward No 1",All Voters,All India Anna Dravida Munnetra Kazhagam,273,206,67,Dravida Munnetra Kazhagam,2,1,3,4,9.557774607703282,6
+210,210,221,157,10,191,0,2,1,0,0,582,0,3,585,0,210,"P.U.E.S, Kollapatti,Building facing
+North (West Portion)","(1) - Manakadavu (R.V) and (P), Kollapatti Ward No 1",All Voters,Dravida Munnetra Kazhagam,221,191,30,Tamilaga Vettri Kazhagam,1,3,2,4,5.154639175257731,3
+211,211,173,359,20,180,0,1,0,1,3,737,0,4,741,0,211,"PUES, Therpatti-638673,East facing
+building","(1) - Manakadavu (R.V) and (P), Thopampatti East Ward No 2
+(2) - Manakadavu (R.V) and (P), Thombatti West Ward No 2",All Voters,All India Anna Dravida Munnetra Kazhagam,359,180,179,Tamilaga Vettri Kazhagam,3,1,2,4,24.2876526458616,5
+212,212,60,189,21,53,0,0,0,1,0,324,0,1,325,0,212,"PUES, Pachapalayam-638673,East facing building (Separate Portion)","(1) - Manakadavu (R.V) and (P), Pachapalayam Ward No 3",All Voters,All India Anna Dravida Munnetra Kazhagam,189,60,129,Dravida Munnetra Kazhagam,2,1,3,4,39.81481481481482,1
+213,213,356,324,27,229,0,0,0,0,0,936,0,0,936,0,213,"Govt High.School, Manakkadavu,West facing building (North side)","(1) - Manakadavu (R.V) and (P), Manakadavu East Ward No 4",All Voters,Dravida Munnetra Kazhagam,356,324,32,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,3.418803418803419,0
+214,214,184,298,20,120,0,0,0,0,2,624,0,0,624,0,214,"Govt High.School, Manakkadavu,Building facing North (South side)","(1) - Manakadavu (R.V) and (P), Manakadavu West Ward No 3
+(2) - Manakadavu (R.V) and (P), MANAKADAVU WEST Ward No 3",All Voters,All India Anna Dravida Munnetra Kazhagam,298,184,114,Dravida Munnetra Kazhagam,2,1,3,4,18.26923076923077,2
+215,215,246,257,22,199,1,0,0,1,2,728,0,0,728,0,215,"P.U.M.School, Narasingapuram,
+South facing Building","(1) - Dhalavaipattinam(R.V) and (P), Thirumalayampalayam East Ward No 4",All Voters,All India Anna Dravida Munnetra Kazhagam,257,246,11,Dravida Munnetra Kazhagam,2,1,3,4,1.510989010989011,4
+216,216,160,199,13,147,1,2,0,1,6,529,0,4,533,0,216,"P.U.M.School, Narasingapuram,Building facing South","(1) - Dhalavaipattinam(R.V) and (P), Thirumalayampalayam West Ward No 4
+(2) - Dhalavaipattinam(R.V) and (P), Narasingapuran Ward No 4
+(3) - Dhalavaipattinam(R.V) and (P), Ayyampalayam Athikalam Ward No 4",All Voters,All India Anna Dravida Munnetra Kazhagam,199,160,39,Dravida Munnetra Kazhagam,2,1,3,4,7.372400756143667,10
+217,217,267,243,32,161,1,0,1,0,2,707,0,7,714,0,217,"P.U.E.S, Dhalavaipattinam,Building facing South (West Portion)","(1) - Dhalavaipattinam(R.V) and (P), Thalavaipattnam Ward No 1",All Voters,Dravida Munnetra Kazhagam,267,243,24,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,3.394625176803395,4
+218,218,279,251,20,177,0,0,2,1,0,730,0,2,732,0,218,"P.U.E.S, Dhalavaipattinam,Building facing South (East Portion)","(1) - Dhalavaipattinam(R.V) and (P), Thalavaipattnam Ward No 1",All Voters,Dravida Munnetra Kazhagam,279,251,28,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,3.835616438356165,3
+219,219,275,184,25,221,0,0,0,1,3,709,0,7,716,0,219,"P.U.E.School, Dhalavoipattinam 638672,Norht Facing Building (West
+portion)","(1) - Dhalavaipattinam(R.V) and (P), Thalavaipattnam Ward No 2",All Voters,Dravida Munnetra Kazhagam,275,221,54,Tamilaga Vettri Kazhagam,1,3,2,4,7.6163610719323,4
+220,220,245,168,25,166,0,0,0,1,3,608,0,8,616,0,220,"P.U.E.School, Dhalavoipattinam 638672,North Facing Building (East Side)","(1) - Dhalavaipattinam(R.V) and (P), Thalavaipattnam",All Voters,Dravida Munnetra Kazhagam,245,168,77,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,12.66447368421053,4
+221,221,241,295,16,113,0,1,1,0,5,672,0,5,677,0,221,"Panchayat Union Elementary School, Dhalavoipattinam 638672, North facing Building, West Port-East Portion","(1) - Dhalavaipattinam(R.V) and (P), Uthupalayam Ward No 2",All Voters,All India Anna Dravida Munnetra Kazhagam,295,241,54,Dravida Munnetra Kazhagam,2,1,3,4,8.035714285714286,7
+222,222,270,190,27,231,1,0,0,0,1,720,0,2,722,0,222,"P.U.E.S, Dhalavaipattinam,Building facing North (East Portion)","(1) - Dhalavaipattinam(R.V) and (P), Pudhu arizana colony sakthi kaliamman nagar",All Voters,Dravida Munnetra Kazhagam,270,231,39,Tamilaga Vettri Kazhagam,1,3,2,4,5.416666666666667,2
+223,223,115,81,11,70,0,0,0,0,0,277,0,1,278,0,223,"Panchayat Union Elementary School, Dhalavoipattinam, East facing Building","(1) - Dhalavaipattinam(R.V) and (P), Uthupalayam Ward No 4",All Voters,Dravida Munnetra Kazhagam,115,81,34,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,12.27436823104693,0
+224,224,251,250,29,202,0,0,0,0,0,732,0,2,734,0,224,"Govt.Hr.Sec.School, Alangiam,Building facing North (West Portion)","(1) - Alangiam (R.V) and (P), Alangiyam Kamarajar Nagar Annanagar Ward No 1",All Voters,Dravida Munnetra Kazhagam,251,250,1,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,0.1366120218579235,0
+225,225,334,91,11,126,0,0,0,0,1,563,0,0,563,0,225,"Govt.Hr.Sec.School, Alangiam 638657, North facing Building (East Portion)","(1) - Alangiam (R.V) and (P), AlamgiyamEast Theru (Block,2) MuslimTheru Ward
+(2) - Alangiam (R.V) and (P), Alangiyam East Theru (Block,3) Anthoniyar Koil",All Voters,Dravida Munnetra Kazhagam,334,126,208,Tamilaga Vettri Kazhagam,1,3,2,4,36.9449378330373,1
+226,226,331,123,9,172,1,0,0,1,2,639,0,6,645,0,226,"Govt.Hr.Sec.School, Alangiam 638657, North facing Building (West Portion)","(1) - Alangiam (R.V) and (P), Alangiyam South Harijantheru (Block,4) South Muslim
+(2) - Alangiam (R.V) and (P), Alangiyam South Harijantheru (Block 5) Deena Nagar",All Voters,Dravida Munnetra Kazhagam,331,172,159,Tamilaga Vettri Kazhagam,1,3,2,4,24.88262910798122,4
+227,227,278,213,17,145,0,1,3,0,2,659,0,0,659,0,227,"P.U.E.S, Alangiam,Building facing South","(1) - Alangiam (R.V) and (P), Alangiyam South Muslim Street (Block 6)
+Chinnapallivasal
+(2) - Alangiam (R.V) and (P), PeriyapalliVasal Theru West Theru (Block,9)Ward No",All Voters,Dravida Munnetra Kazhagam,278,213,65,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,9.863429438543248,6
+228,228,351,289,23,230,1,1,1,0,3,899,0,3,902,0,228,"P.U.E.S, Alangiam,Building facing North (West Portion)","(1) - Alangiam (R.V) and (P), Alangiyam west theru (Block,7) Ward No 2
+(2) - Alangiam (R.V) and (P), West Theru (Block,8 Ward No 3
+(3) - Alangiam (R.V) and (P), Alangiyam Harichana Theru (Gandhi Nagar Ward No 4",All Voters,Dravida Munnetra Kazhagam,351,289,62,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,6.896551724137931,6
+229,229,344,224,32,254,2,0,0,2,4,862,0,7,869,0,229,"Panchayat Union Elementary
+School, Alangiam 638657,North facing Building,(East Portion)","(1) - Alangiam (R.V) and (P), Alangiyam Harichana Theru (Gandhi Nagar Ward No 4",All Voters,Dravida Munnetra Kazhagam,344,254,90,Tamilaga Vettri Kazhagam,1,3,2,4,10.44083526682135,8
+230,230,249,319,22,140,1,0,2,0,0,733,0,5,738,0,230,"P.U.E.S,
+Vellaigoundenvalasu,Building facing East","(1) - Bommanallur (R.V) and (P), Vellakoundan valsu Kuddi Theru Ward No 2
+(2) - Bommanallur (R.V) and (P), Vellakoundarn Valsu HarijanaColony Karupai",All Voters,All India Anna Dravida Munnetra Kazhagam,319,249,70,Dravida Munnetra Kazhagam,2,1,3,4,9.549795361527966,3
+231,231,151,256,12,115,0,1,0,1,1,537,0,3,540,0,231,"Panchayat Union Elementary School, Mettuvalasu-638673, North facing Building","(1) - Bommanallur (R.V) and (P), Koundachi Valasu Ward No 1
+(2) - Bommanallur (R.V) and (P), MetuValsu Ward No 1
+(3) - Bommanallur (R.V) and (P), Pommanallur Ward No 1",All Voters,All India Anna Dravida Munnetra Kazhagam,256,151,105,Dravida Munnetra Kazhagam,2,1,3,4,19.55307262569832,3
+232,232,128,134,11,77,0,0,0,0,1,351,0,0,351,0,232,"Panchayat Union Elementary School, Kattampatti-638673, North facing Building (West portion)","(1) - Kongur(R.V) and (P), Kattampatti Ward No 1",All Voters,All India Anna Dravida Munnetra Kazhagam,134,128,6,Dravida Munnetra Kazhagam,2,1,3,4,1.70940170940171,1
+233,233,184,453,12,93,0,0,0,0,0,742,0,3,745,0,233,"P.U.E.School, Undarapatti ,Building Facing North West Side","(1) - Kongur(R.V) and (P), Undarapatti East Ward No 4
+(2) - Kongur(R.V) and (P), Undarampatti West Ward No 4",All Voters,All India Anna Dravida Munnetra Kazhagam,453,184,269,Dravida Munnetra Kazhagam,2,1,3,4,36.25336927223719,0
+234,234,218,423,29,174,1,1,0,1,2,849,0,4,853,0,234,"P.U.E.S, Dasanaickenpatti,Tiled building facing East (South Portion)","(1) - Kongur(R.V) and (P), Thasanayakanpatti Ward No 3
+(2) - Kongur(R.V) and (P), Kuppanvalsu Ward No 2
+(3) - Kongur(R.V) and (P), Kongoor Ward No 2",All Voters,All India Anna Dravida Munnetra Kazhagam,423,218,205,Dravida Munnetra Kazhagam,2,1,3,4,24.14605418138987,5
+235,235,176,211,7,80,0,1,0,1,2,478,0,3,481,0,235,"P U E School, Anaipalayam 638673,South Facing Building","(1) - Ponnivadi (R.V) and (P) Ward 4, Salakadai,Anaipalayam
+(2) - Ponnivadi (R.V) and (P) Ward 4, Bommanaickenvalasu
+(3) - Ponnivadi (R.V) and (P) Ward 2, UchanValasu",All Voters,All India Anna Dravida Munnetra Kazhagam,211,176,35,Dravida Munnetra Kazhagam,2,1,3,4,7.322175732217573,4
+236,236,173,187,45,106,2,0,0,0,0,513,0,2,515,0,236,"Govt.Hr.Sec.School,Elugamvalasu, East facing Building (South Portion)","(1) - Ponnivadi (R.V) and (P) Ward 3, V.puram, thirumalaipalayam, p.palayam,avinashipuram",All Voters,All India Anna Dravida Munnetra Kazhagam,187,173,14,Dravida Munnetra Kazhagam,2,1,3,4,2.729044834307992,2
+237,237,345,344,24,161,6,0,0,0,1,881,0,2,883,0,237,"Govt Hr Sec School, Elugamvalasu,Building facing west (Center Room)","(1) - Ponnivadi (R.V) and (P) Ward 2, Elugam valasu(Block 7)
+(2) - Ponnivadi (R.V) and (P) Ward 2, Elugam Valasu (Block 8)
+(3) - Ponnivadi (R.V) and (P) Ward 2, Elugam Valasu(Block 9)
+(4) - Ponnivadi (R.V) and (P) Ward 2, Elugamvalasu (Block 10)",All Voters,Dravida Munnetra Kazhagam,345,344,1,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,0.1135073779795687,7
+238,238,160,190,10,80,0,0,1,0,1,442,0,1,443,0,238,"P U E School, Ellapalayam 638673,West Facing Building","(1) - Ponnivadi (R.V) and (P) Ward 1, Manjampatti e.palayam north,p.k.valasu
+(2) - Ponnivadi (R.V) and (P) Ward 1, Ellapalayam South
+(3) - Ponnivadi (R.V) and (P) Ward 2, Animanthan Kottai, Nadu Valasu",All Voters,All India Anna Dravida Munnetra Kazhagam,190,160,30,Dravida Munnetra Kazhagam,2,1,3,4,6.787330316742081,2
+239,239,262,356,30,200,0,2,0,0,1,851,0,4,855,0,239,"P U E School, Ponnivadi 638673,North Facing Building","(1) - Ponnivadi (R.V) and (P) Ward 1, Kosavalasu bagavan koil
+(2) - Ponnivadi (R.V) and (P) Ward 1, Kullanthalli Valasu
+(3) - Ponnivadi (R.V) and (P) Ward 1, Ponnivadi
+(4) - Ponnivadi (R.V) and (P) Ward 1, AthiMarathu Puthur",All Voters,All India Anna Dravida Munnetra Kazhagam,356,262,94,Dravida Munnetra Kazhagam,2,1,3,4,11.04582843713279,3
+240,240,264,351,26,181,0,0,1,1,0,824,0,5,829,0,240,"P U E School ,Koneripatti 638673,East Facing Building","(1) - Ponnivadi (R.V) and (P) Ward 3, Koneripatti (Black 12)
+(2) - Ponnivadi (R.V) and (P) Ward 3, Koneripatti (Block 13)
+(3) - Ponnivadi (R.V) and (P) Ward 3, Krishnapuaram,Veerappangoundan Valasu",All Voters,All India Anna Dravida Munnetra Kazhagam,351,264,87,Dravida Munnetra Kazhagam,2,1,3,4,10.55825242718447,2
+241,241,193,350,22,226,0,0,2,0,1,794,0,2,796,0,241,"P U E School, Eragampatti 638673,North Facing Building","(1) - Ponnivadi (R.V) and (P) Ward 4, Eragampatti North
+(2) - Ponnivadi (R.V) and (P) Ward 4, Rangapalayam
+(3) - Ponnivadi (R.V) and (P) Ward 4, Eragampatti South",All Voters,All India Anna Dravida Munnetra Kazhagam,350,226,124,Tamilaga Vettri Kazhagam,3,1,2,4,15.61712846347607,3
+242,242,190,296,20,141,0,3,0,0,2,652,0,2,654,0,242,"P U E School, Rettaravalasu
+638661,East Facing Building","(1) - Nallampalayam (R.V) and (P) Ward 2, Rettaravalasu north
+(2) - Nallampalayam (R.V) and (P) Ward 2, Rettaravalasu South",All Voters,All India Anna Dravida Munnetra Kazhagam,296,190,106,Dravida Munnetra Kazhagam,2,1,3,4,16.25766871165644,5
+243,243,69,134,9,54,1,0,0,3,3,273,0,4,277,0,243,"Panchayat Union Elementary School, Puliavalasu, North Facing Building","(1) - Nallampalayam (R.V) and (P) Ward 3, Puliavalasu",All Voters,All India Anna Dravida Munnetra Kazhagam,134,69,65,Dravida Munnetra Kazhagam,2,1,3,4,23.80952380952381,7
+244,244,155,251,5,138,0,0,0,0,1,550,0,4,554,0,244,"P U E School, Palanigoundenvalasu 638661,North Facing Building","(1) - Nallampalayam (R.V) and (P) Ward 1, Nallampalayam
+(2) - Nallampalayam (R.V) and (P) Ward 2, PalaniGoundanValasu",All Voters,All India Anna Dravida Munnetra Kazhagam,251,155,96,Dravida Munnetra Kazhagam,2,1,3,4,17.45454545454546,1
+245,245,139,287,15,61,1,1,1,0,0,505,0,3,508,0,245,"Panchayat Union Middle School,D.Kumarapalayam, West Facing Building (North Portion)","(1) - Kolathupalayam (TP) Ward 17 Velliampalayam
+(2) - Kolathupalayam (TP) Ward 17 Salarapatti
+(3) - Kolathupalayam (TP) Ward 18 Seeranga gounden Puthur
+(4) - Kolathupalayam (TP) Ward 18 Harijan Street",All Voters,All India Anna Dravida Munnetra Kazhagam,287,139,148,Dravida Munnetra Kazhagam,2,1,3,4,29.3069306930693,3
+246,246,80,157,14,139,0,1,0,1,1,393,0,1,394,0,246,"Panchayat Union Middle School, D.Kumarapalayam, West Facing Building (South Portion)","(1) - Kolathupalayam (TP) Ward 18 Kumarapalayam
+(2) - Kolathupalayam (TP) Ward 18 Bhagavan Koil Steet
+(3) - Kolathupalayam (TP) Ward 18 Harijan Street (Kumarapalayam)",All Voters,All India Anna Dravida Munnetra Kazhagam,157,139,18,Tamilaga Vettri Kazhagam,3,1,2,4,4.580152671755725,3
+247,247,256,331,18,160,0,2,0,1,2,770,0,8,778,0,247,"C.S.I.Elementary School, Alampalayam,East Facing Building","(1) - Kolathupalayam (TP) Ward 7 Savadi Thottam Street
+(2) - Kolathupalayam (TP) Ward 1 Aalampalayam
+(3) - Kolathupalayam (TP) Ward 17 Aalampalayam Harijan Street
+(4) - Kolathupalayam (TP) Ward 17 Aandipalayam Harijan Street
+(5) - Kolathupalayam (TP) Ward 16 Marutha Gounden Valasu",All Voters,All India Anna Dravida Munnetra Kazhagam,331,256,75,Dravida Munnetra Kazhagam,2,1,3,4,9.740259740259742,5
+248,248,153,366,18,95,1,0,0,1,0,634,0,3,637,0,248,"P U E School, Muthugoundenvalasu,North Facing Building","(1) - Kolathupalayam (TP) Ward 7 Goundaiyan Valasu
+(2) - Kolathupalayam (TP) Ward 7 Muthu Gounden Valasu
+(3) - Kolathupalayam (TP) Ward 7 Sennakkal Valasu",All Voters,All India Anna Dravida Munnetra Kazhagam,366,153,213,Dravida Munnetra Kazhagam,2,1,3,4,33.59621451104101,2
+249,249,212,400,19,126,0,1,1,1,2,762,0,2,764,0,249,"P U E School, Illiyampati 638106,South Facing Building","(1) - Peramium (R.V) and (P) Ward 1, Bommipalayam
+(2) - Peramium (R.V) and (P) Ward 1, Illiampatti East
+(3) - Peramium (R.V) and (P) Ward 1, Illiampatti West
+(4) - Peramium (R.V) and (P) Ward 1, Mallipatti
+(5) - Peramium (R.V) and (P) Ward 2, Erukkalankattu Puthur",All Voters,All India Anna Dravida Munnetra Kazhagam,400,212,188,Dravida Munnetra Kazhagam,2,1,3,4,24.67191601049869,5
+250,250,153,187,7,96,0,1,0,0,2,446,0,0,446,0,250,"P.U.E.School, Peramiam,Building facing East","(1) - Peramium (R.V) and (P) Ward 2, Nalligoundenpalayam
+(2) - Peramium(R.V) and (P) Ward 2, Nalli gounden palayam
+(3) - Peramium(R.V) and (P) Ward 2, Nalligounden palayam",All Voters,All India Anna Dravida Munnetra Kazhagam,187,153,34,Dravida Munnetra Kazhagam,2,1,3,4,7.623318385650224,3
+251,251,266,352,22,172,0,0,0,1,1,814,0,3,817,0,251,"P U E School Peramiam 638661,North facing Tiled Building (Western side)","(1) - Peramium (R.V) and (P) Ward 3, Peramiam",All Voters,All India Anna Dravida Munnetra Kazhagam,352,266,86,Dravida Munnetra Kazhagam,2,1,3,4,10.56511056511057,2
+252,252,222,437,24,147,0,4,0,1,3,838,0,1,839,0,252,"P U E School,Thoddampalayam 638106,South Facing Building","(1) - Nathampalayam (R.V) and (P) , Nathampalayam
+(2) - Nathampalayam (R.V) and (P) , Thottampalayam
+(3) - Nathampalayam (R.V) and (P) , Thottiampalayam West
+(4) - Nathampalayam (R.V) and (P) , Thottiapalayam East
+(5) - Nathampalayam (R.V) and (P) , Ayyampalayam",All Voters,All India Anna Dravida Munnetra Kazhagam,437,222,215,Dravida Munnetra Kazhagam,2,1,3,4,25.6563245823389,8
+253,253,274,405,34,176,1,1,0,1,0,892,0,7,899,0,253,"Panchayat Union Elementary School, Akkaraipalayam 638106, North Facing Building","(1) - Mambadi (R.V) and (P) Ward 2, Akkaraipalayam
+(2) - Mambadi (R.V) and (P) Ward 1, Gurunathan Kottai",All Voters,All India Anna Dravida Munnetra Kazhagam,405,274,131,Dravida Munnetra Kazhagam,2,1,3,4,14.68609865470852,3
+254,254,99,203,15,74,1,1,0,0,1,394,0,1,395,0,254,"Panchayat Service Centre, Akkaraipalayam 638106, North Facing Building","(1) - Mambadi (R.V) and (P) Ward 4, Kumarasamy Kottai",All Voters,All India Anna Dravida Munnetra Kazhagam,203,99,104,Dravida Munnetra Kazhagam,2,1,3,4,26.39593908629442,3
+255,255,181,262,19,92,0,1,0,0,0,555,0,4,559,0,255,"Anganwadi Centre, Akkaraipalayam, South facing Building","(1) - Mambadi (R.V) and (P) Ward 3, Puliampatti
+(2) - Mambadi (R.V) and (P) Ward 4, Mambadi",All Voters,All India Anna Dravida Munnetra Kazhagam,262,181,81,Dravida Munnetra Kazhagam,2,1,3,4,14.59459459459459,1
+256,256,135,264,24,61,1,0,0,0,0,485,0,2,487,0,256,"P U E School, Kolanthagoundenvalasu 638106,South Facing Building","(1) - Thurambadi (R.V) and (P) Ward 1, Vathakkalivalasu
+(2) - Thurambadi (R.V) and (P) Ward 1, Kolantha Gounden Valasu
+(3) - Thurambadi (R.V) and (P) Ward 2, Valliappagounden Valasu",All Voters,All India Anna Dravida Munnetra Kazhagam,264,135,129,Dravida Munnetra Kazhagam,2,1,3,4,26.5979381443299,1
+257,257,204,191,17,69,0,0,0,0,1,482,0,2,484,0,257,"P U E School, Olapalayam, East
+Facing Building","(1) - Thurambadi (R.V) and (P) Ward 1, Olappalayam",All Voters,Dravida Munnetra Kazhagam,204,191,13,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,2.697095435684647,1
+258,258,186,250,8,64,0,0,0,0,1,509,0,4,513,0,258,"P U M School, Nathapalayam 638106,North Facing Building West Wing","(1) - Thurambadi (P) Ward 3, Ayyan thottam,sanarpalayam
+(2) - Thurambadi (R.V) and (P) Ward 2, Chinnaiayagounden Valasu
+(3) - Thurambadi (R.V) and (P) Ward 3, Nainagounden Valasu",All Voters,All India Anna Dravida Munnetra Kazhagam,250,186,64,Dravida Munnetra Kazhagam,2,1,3,4,12.57367387033399,1
+259,259,271,251,12,112,1,0,1,1,0,649,0,3,652,0,259,"P U M School, Nathapalayam 638106,East Facing Building West Side","(1) - Thurambadi (R.V) and (P) Ward 3, Nathampalayam South
+(2) - Thurambadi (R.V) and (P) Ward 2, Nathampalayam North",All Voters,Dravida Munnetra Kazhagam,271,251,20,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,3.081664098613251,3
+260,260,213,321,13,86,0,0,0,1,2,636,0,3,639,0,260,"P U E School,Kottai Moolanur 638106,North Facing Building","(1) - Mulanur(TP) Ward 1, Komaragounden valasu
+(2) - Mulanur(TP) Ward 1, Kottaimoolanur
+(3) - Mulanur(TP) Ward 1, Aadidiravidar St Kottai Moolanur
+(4) - Mulanur(TP) Ward 1, M.Kollampatti
+(5) - Mulanur(TP) Ward 1, Aadidiravidar St
+(6) - Mulanur(TP) Ward 1, PeriyanaGounden Valasu",All Voters,All India Anna Dravida Munnetra Kazhagam,321,213,108,Dravida Munnetra Kazhagam,2,1,3,4,16.9811320754717,3
+261,261,181,399,21,116,0,0,2,0,1,720,0,3,723,0,261,"P U M School, Somankottai 638661,South Facing Building","(1) - Mulanur(TP) Ward 11 Mettu valasu
+(2) - Mulanur(TP)Ward 11 Mettu Valasu (Harijana St)
+(3) - Mulanur(TP) Ward 12 Polarai
+(4) - Mulanur(TP) Ward 11 Ganapathypalayam
+(5) - Mulanur(TP) Ward 11 Vanjipalayam
+(6) - Mulanur(TP)) Ward 7 Gandhi St (Thulluka valasu)
+(7) - Mulanur(TP) Ward 7 Anna St
+(8) - Mulanur (TP) Ward 11 Somankottai
+(9) - Mulanur (TP) Ward 11 Ranagiya Gounden Valasu
+(10) - Mulanur (TP) Ward 11 Neeliappa Gounden Valasu",All Voters,All India Anna Dravida Munnetra Kazhagam,399,181,218,Dravida Munnetra Kazhagam,2,1,3,4,30.27777777777778,3
+262,262,149,176,12,97,0,0,0,2,4,440,0,5,445,0,262,"P U E School, Chinnakampati 638661,East Facing Building","(1) - Mulanur (TP) Ward 12 Nehru st (chinnakkampatti)
+(2) - Mulanur (TP) Ward 12 Sasthri Street (chinnakkampatti)
+(3) - Mulanur (TP) Ward 12 Thiruvalluvar St (chinnakkampatti)
+(4) - Mulanur (TP) Ward 12 Thiruneelagandar St(chinnakkampatti)
+(5) - Mulanur (TP) Ward 12 Kamber St (chinnakkampatti)
+(6) - Mulanur (TP) Ward 12 Arisana St (Chinnakkampatti)",All Voters,All India Anna Dravida Munnetra Kazhagam,176,149,27,Dravida Munnetra Kazhagam,2,1,3,4,6.136363636363637,6
+263,263,221,335,19,127,0,0,0,0,1,703,0,2,705,0,263,"P U E School,Vellavavipudhur 638661,North Facing Building","(1) - Mulanur (TP) Ward 13 Annastreet (vellavavipudhur)
+(2) - Mulanur (TP) Ward 13 Gandhi Street (Vellavavi puthur)
+(3) - Mulanur (TP) Ward 13 Harijan Street (Vellevavi Puthur)
+(4) - Mulanur (TP) Ward 13 Pallipatti
+(5) - Mulanur (TP) Ward 13 Harijan St (Pallipatti)
+(6) - Mulanur (TP) Ward 13 Uchana Valasu
+(7) - Mulanur (TP) Ward 13, Elanthamadaiputhur",All Voters,All India Anna Dravida Munnetra Kazhagam,335,221,114,Dravida Munnetra Kazhagam,2,1,3,4,16.21621621621622,1
+264,264,203,359,19,150,0,1,0,2,1,735,0,2,737,0,264,"P.U.E.School, Peranaickenvalasu,North facing Building (West Portion)","(1) - Mulanur (TP) Ward 10 Kasilingampalayam
+(2) - Mulanur (TP) Ward 10 Harijan Street Kasilingampalayam
+(3) - Mulanur (TP) Ward 10 Peranaicken Valasu
+(4) - Mulanur (TP) Ward 10 Harijan Street (Peranaicken Valasu)
+(5) - Mulanur(TP) Ward 10 Veerappagounden Valasu
+(6) - Mulanur(TP) Ward 10 Harijan Street (Veerappa Gounden Valasu)
+(7) - Mulanur (TP) Ward 11 Uraanaicken Valasu
+(8) - Mulanur (TP) Ward 11 ArijanaStreet (Uranaicken Valasu)",All Voters,All India Anna Dravida Munnetra Kazhagam,359,203,156,Dravida Munnetra Kazhagam,2,1,3,4,21.22448979591837,4
+265,265,224,223,16,156,1,1,0,0,2,623,0,2,625,0,265,"P U E School, Kalipalayam 638106,North Facing Building","(1) - Kalipalayam (R.V) and (P) Ward 1, Kalipalayam sanarpathy, v.n.valasu kilapuram
+(2) - Kalipalayam (R.V) and (P) Ward 1, V.N.Valasu Melpuram
+RajivNagar,K.M.K.pudur",All Voters,Dravida Munnetra Kazhagam,224,223,1,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,0.1605136436597111,4
+266,266,164,339,18,172,0,0,0,1,1,695,0,3,698,0,266,"P.U.Middle School, Vellakovil Road, Moolanur,North Facing Building","(1) - Mulanur(TP) Ward 15 Mathuraiveeran kovil st (sinnaravalasu)
+(2) - Mulanur (TP) Ward 15 Savadi St (Sinnaravalasu)
+(3) - Mulanur (TP) Ward 15 Samuthiravalasu
+(4) - Mulanur (TP) Ward 15 Aadidiravidar Colony (Samuthiravalasu)
+(5) - Mulanur (TP) Ward 15 East Street(Sanarpalayam)
+(6) - Mulanur (TP)Ward 15 Main Street (Sanar Palayam)",All Voters,All India Anna Dravida Munnetra Kazhagam,339,172,167,Tamilaga Vettri Kazhagam,3,1,2,4,24.02877697841727,2
+267,267,257,255,14,185,0,0,2,0,0,713,0,1,714,0,267,"P.U.Middle School, Vellakovil Road, Moolanur,Building facing East","(1) - Mulanur (TP) Ward 15 Tank street (sanarpalayam)
+(2) - Mulanur (TP)Ward 14 Yesu Street (Sanarpalaym)
+(3) - Mulanur (TP)) Ward 14 Kaliamman Kovil Street
+(4) - Mulanur (TP) Ward 14 West Aadidiravidar Colony",All Voters,Dravida Munnetra Kazhagam,257,255,2,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,0.2805049088359046,2
+268,268,168,278,20,122,0,1,0,1,1,591,0,3,594,0,268,"P U E School, Muthugoundenvalasu 638106,North Facing Building","(1) - Mulanur (TP) Ward 5 Muthugoundenvalasu
+(2) - Mulanur (TP)Ward 5 Natchipalayam
+(3) - Mulanur (TP) Ward 5 Harijan colony Natchipalayam
+(4) - Mulanur (TP)Ward 5 Pudukottai Main Street
+(5) - Mulanur (TP) Ward 5 Aadi Diravidar Street PuthuKottai",All Voters,All India Anna Dravida Munnetra Kazhagam,278,168,110,Dravida Munnetra Kazhagam,2,1,3,4,18.61252115059222,3
+269,269,160,177,13,167,0,0,0,1,0,518,0,2,520,0,269,"Govt Hr Sec School ,Moolanur 638106,West Facing Main Building North Part","(1) - Mulanur (TP) Ward 8 Sanarpalayam road
+(2) - Mulanur (TP) Ward 2 Police Line St
+(3) - Mulanur (TP)Ward 3 Old Chandai St
+(4) - Mulanur (TP)Ward 3 Savadi St (999) - Overseas Section",All Voters,All India Anna Dravida Munnetra Kazhagam,177,167,10,Tamilaga Vettri Kazhagam,3,1,2,4,1.93050193050193,1
+270,270,182,155,10,163,1,0,2,0,0,513,0,5,518,0,270,"Govt Hr Sec School ,Moolanur 638106,West Facing Main Building South Part","(1) - Mulanur (TP) Ward 7 Vellakoil Road
+(2) - Mulanur (TP) Ward 3 Eswaran Koil St
+(3) - Mulanur (TP) Ward 7 Gandhi St
+(4) - Mulanur (TP) Ward 2 Anna St
+(5) - Mulanur (TP) Ward 3 Odaipuram Pokku St",All Voters,Dravida Munnetra Kazhagam,182,163,19,Tamilaga Vettri Kazhagam,1,3,2,4,3.703703703703703,3
+271,271,180,195,20,162,2,0,0,0,0,559,0,2,561,0,271,"Govt Hr Sec School, Moolanur 638106,East Facing Main Building North Portion","(1) - Mulanur (TP) Ward 6 O.h.tank st
+(2) - Mulanur (TP) Ward 6 Pettai St
+(3) - Mulanur (TP) Ward 7, Subbaiya Gounder St
+(4) - Mulanur (TP) Ward 6,7 Bazzar St",All Voters,All India Anna Dravida Munnetra Kazhagam,195,180,15,Dravida Munnetra Kazhagam,2,1,3,4,2.683363148479427,2
+272,272,220,180,40,239,0,0,0,2,0,681,0,4,685,0,272,"Govt Hr Sec School, Moolanur 638106,East Facing Main Building South Portion","(1) - Mulanur (TP)) Ward 6 Vadugapatti Road 1St Street
+(2) - Mulanur (TP) Ward 6 Vadugapatti Road 2nd St
+(3) - Mulanur (TP) Ward 8 Vadugapatti Road 3rd St
+(4) - Mulanur (TP) Ward 6 Nochipalayam Road,
+(5) - Mulanur (TP) Ward 6 Movendar Nagar",All Voters,Tamilaga Vettri Kazhagam,239,220,19,Dravida Munnetra Kazhagam,2,3,1,4,2.790014684287812,2
+273,273,177,226,25,217,1,0,3,0,0,649,0,0,649,0,273,"Govt.Hr.Sec.School, Moolanur-638106,Building facing East (South Portion)","(1) - Mulanur (TP) Ward 2 Anna nagar east st
+(2) - Mulanur (TP)Ward 2 Anna Nagar Main St",All Voters,All India Anna Dravida Munnetra Kazhagam,226,217,9,Tamilaga Vettri Kazhagam,3,1,2,4,1.386748844375963,4
+274,274,216,249,22,336,0,0,1,0,0,824,0,9,833,0,274,"Govt.Hr.Sec.School, Moolanur-638106,Building facing East (North Portion)","(1) - Mulanur (TP) Ward 9 Periyar Nagar
+(2) - Mulanur (TP) Ward 9 Anna Nagar West
+(3) - Mulanur (TP) Ward 9 Arivoli Nagar
+(4) - Mulanur (TP) Ward 9 Venkatachalapathy Colony",All Voters,Tamilaga Vettri Kazhagam,336,249,87,All India Anna Dravida Munnetra Kazhagam,3,2,1,4,10.55825242718447,1
+275,275,283,283,36,147,2,0,1,1,5,758,0,7,765,0,275,"P U E School, Vanjivalasu 638106,South Facing Building","(1) - Mulanur (TP)Ward 3 Nadupathi
+(2) - Mulanur (TP) Ward 3 Merkku pathi
+(3) - Mulanur (TP)Ward 3 Vadakku pathi
+(4) - Mulanur (TP) Ward 4 Thattakadu valasu
+(5) - Mulanur (TP)Ward 4 Vanchivalasu
+(6) - Mulanur (TP)Ward 4 Mettupatti
+(7) - Mulanur (TP) Ward 4 Ganesan Puthur
+(8) - Mulanur (TP) Ward 4 Sunnambukattu Valasu
+(9) - Mulanur (TP) Ward 3 A.P.S. Nagar (Nadu Pathi)
+(10) - Mulanur (TP) Ward 2, E.B.Colony
+(11) - Mulanur (TP)Ward 2, Udayampalayam",All Voters,Dravida Munnetra Kazhagam,283,283,0,Dravida Munnetra Kazhagam,1,1,3,4,0.0,9
+276,276,201,255,9,94,0,0,1,0,0,560,0,1,561,0,276,"P U M School, Karuppanvalasu 638111,North Facing Building West Side","(1) - Mulayampoondi (R.V) Karuppanvalasu ( P) Ward 2, Ellapalayam
+(2) - Mulayampoondi (R.V) KaruppanValasu (P) Ward 2, Palanigounden Valasu Harijan Natham
+(3) - Mulayampoondi (R.V) KaruppanValasu (P) Ward 3,
+Manuvakttuputhur,Karukkampalayamputhur
+(4) - Mulayampoondi (R.V) KaruppanValasu (P) Ward 3, Karaivalasu Harijananatham",All Voters,All India Anna Dravida Munnetra Kazhagam,255,201,54,Dravida Munnetra Kazhagam,2,1,3,4,9.642857142857144,1
+277,277,197,259,13,84,0,0,0,0,2,555,0,1,556,0,277,"P U M School, Karuppanvalasu 638111,North Facing Building East side","(1) - Mulayampoondi (R.V) KaruppanValasu (P) Ward 2, Nallasellipalayam
+(2) - Mulayampoondi (R.V) KaruppanValasu (P) Ward 2, KovilmettuPuthur
+(3) - Mulayampoondi (R.V) KaruppanValasu (P) Ward 2, PalaniGounden Valasu
+(4) - Mulayampoondi (R.V) KaruppanValasu (P) Ward 2, Karuppagounden Puthur,KaruppanValasu
+(5) - Mulayampoondi (R.V) KaruppanValasu (P) Ward 3, Pattathipalayam",All Voters,All India Anna Dravida Munnetra Kazhagam,259,197,62,Dravida Munnetra Kazhagam,2,1,3,4,11.17117117117117,2
+278,278,188,220,8,132,0,0,0,0,0,548,0,0,548,0,278,"P U E School Mulaiyampoondi 638111,East Facing Terraced Building Northern Side","(1) - Mulayampoondi (R.V) KaruppanValasu (P) Ward 1, Kuppampalayam
+(2) - Mulayampoondi (R.V) KaruppanValasu (P) Ward 2, NorthValasu Harijana Natam
+(3) - Mulayampoondi (R.V) KaruppanValasu (P) Ward 3, SaravanaGounden Valasu",All Voters,All India Anna Dravida Munnetra Kazhagam,220,188,32,Dravida Munnetra Kazhagam,2,1,3,4,5.839416058394161,0
+279,279,248,244,15,81,0,0,2,0,1,591,0,3,594,0,279,"P U E School Mulaiyampoondi
+638111,East Facing Terraced Building Southern Side","(1) - Mulayampoondi (R.V) KaruppanValasu (P) Ward 1, Kumarapalayam
+(2) - Mulayampoondi (R.V) KaruppanValasu (P) Ward 1, MulaiyamPoondi",All Voters,Dravida Munnetra Kazhagam,248,244,4,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,0.676818950930626,3
+280,280,151,264,11,95,0,0,0,0,0,521,0,4,525,0,280,"P.U Ele.School, Puduppai,Building facing North (West Building)","(2) - Puduppai (R.V) and (P) Ward 3, Karuvelankattu puthur KadaiStreet
+(3) - Puduppai(R.V) and (P) Ward 3, Naickenputhur
+(4) - Puduppai (R.V) and(P) Ward 3, Kombai MettuPuthur
+(1) - Puduppai (R.V) and (P) Ward 1, Kasthuripalayam",All Voters,All India Anna Dravida Munnetra Kazhagam,264,151,113,Dravida Munnetra Kazhagam,2,1,3,4,21.68905950095969,0
+281,281,184,239,32,199,3,1,1,1,1,661,0,2,663,0,281,"P.U.E.School, Puduppai,Building facing North (East Building)","(1) - Puduppai (R.V) and (P) Ward 3, Lingamnaickenpalayam
+(2) - Puduppai (R.V) and (P) Ward 3, Thangamedu
+(3) - Puduppai (R.V) and (P) Ward 3, Senthalaiampalayam
+(4) - Puduppai(R.V) and (P) Ward 3, Ganesan Puthur",All Voters,All India Anna Dravida Munnetra Kazhagam,239,199,40,Tamilaga Vettri Kazhagam,3,1,2,4,6.051437216338881,7
+282,282,164,243,7,119,0,0,0,1,0,534,0,1,535,0,282,"P.U.E.School, Puduppai,Building
+facing West","(1) - Puduppai (R.V) and (P) Ward 2, Pudhuppai",All Voters,All India Anna Dravida Munnetra Kazhagam,243,164,79,Dravida Munnetra Kazhagam,2,1,3,4,14.7940074906367,1
+283,283,120,284,14,103,0,0,1,1,1,524,0,2,526,0,283,"Panchayat Union Elementary school, Nattarmangalam, East facing Building (South side)","(1) - Thattaravalasu (R.V) and (P) Ward 1, Puliampatti
+(2) - Thattaravalasu (R.V) and (P) Ward 2, Thattaravalasu,Rakkiyavalasu,Paraivalasu",All Voters,All India Anna Dravida Munnetra Kazhagam,284,120,164,Dravida Munnetra Kazhagam,2,1,3,4,31.29770992366413,3
+284,284,146,202,25,68,1,0,0,0,0,442,0,0,442,0,284,"Panchayat Union Elementary School, Nattarmangalam, East facing Building (North side)","(1) - Thattaravalasu (R.V) and (P) Ward 3, Nattarmanagalam NorthPart
+(2) - Thattaravalasu (R.V) and (P) Ward 3, Utthama Gounden Valasu
+(3) - Thattaravalasu (R.V) and (P) Ward 3, Komarayanpalayam",All Voters,All India Anna Dravida Munnetra Kazhagam,202,146,56,Dravida Munnetra Kazhagam,2,1,3,4,12.66968325791855,1
+285,285,146,185,16,64,1,0,2,0,2,416,0,2,418,0,285,"Govt.Aided Elementary School, Rakkiavalasu, North facing Building","(1) - Mulanur(TP) Ward 4 Molagoundenvalasu
+(2) - Mulanur (TP) Ward 4 Savadi Street (Rackiya Valasu)
+(3) - Mulanur (TP) Ward 4 Engal Pandagasalai (Rakkiya valasu)
+(4) - Mulanur(TP) Ward 4 Harijan Street (Rackiya Valasu)
+(5) - Mulanur (TP) Ward 5 Thalakarai
+(6) - Mulanur(TP) Ward 5 Kovilputhur
+(7) - Mulanur (TP) Ward 4 Kovilmedu",All Voters,All India Anna Dravida Munnetra Kazhagam,185,146,39,Dravida Munnetra Kazhagam,2,1,3,4,9.375,5
+286,286,237,349,11,169,0,1,0,1,3,771,0,2,773,0,286,"P U M School, Erasinampalayam 638106,Building facing East","(1) - Erasinampalayam (R.V) and (P) Ward 1, Erasinampalayam north
+(2) - Erasinampalayam(R.V) and (P) Ward 1, Erasinampalayam South",All Voters,All India Anna Dravida Munnetra Kazhagam,349,237,112,Dravida Munnetra Kazhagam,2,1,3,4,14.526588845655,5
+287,287,204,377,18,101,0,0,1,0,0,701,0,0,701,0,287,"P.U.M.School, Erasinampalayam,Building facing North","(1) - Erasinampalayam (R.V) and (P) Ward 1, Naranavalasu
+(2) - Erasinampalayam (R.V) and (P) Ward 3, Ellapalayam
+(3) - Erasinampalayam (R.V) and (P) Ward 1, Mollapalayam
+(4) - Erasinampalayam (R.V) and (P) Ward 4, Puthur Mettur Kurikaran Thuraiputhur",All Voters,All India Anna Dravida Munnetra Kazhagam,377,204,173,Dravida Munnetra Kazhagam,2,1,3,4,24.67902995720399,1
+288,288,122,231,11,97,0,1,0,0,2,464,0,1,465,0,288,"P U E School, Monganallampalayam 639202,North Facing Building","(1) - Kannivadi (TP) Ward 5 Monganallampalayam west St
+(2) - Kannivadi (TP) Ward 6 Monganallapalayam South St",All Voters,All India Anna Dravida Munnetra Kazhagam,231,122,109,Dravida Munnetra Kazhagam,2,1,3,4,23.49137931034483,3
+289,289,186,199,7,77,1,0,0,0,1,471,0,1,472,0,289,"P U E School, Erachappadi 639202,North Facing Building","(1) - Kannivadi (TP) Ward 4, Erachapadi main street east part
+(2) - Kannivadi (TP) Ward 1, Seelempatti
+(3) - Kannivadi (TP) Ward 1, Nadupalayam Street
+(4) - Kannivadi (TP) Ward 1, KannimarKovil Palayam Street
+(5) - Kannivadi (TP) Ward 1, Suripadi
+(6) - Kannivadi (TP) Ward 1, Nagapalayam Street
+(7) - Kannivadi (TP) Ward1, Kanakkampatti
+(8) - Kannivadi (TP) Ward 1, Kulathu Puthur
+(9) - Kannivadi (TP) Ward 4, Erachapadi 1st Street
+(10) - Kannivadi (TP) Ward 4, Erachapadi 2nd Street
+(11) - Kannivadi (TP) Ward 4, Erachapadi 3rd Street
+(12) - Kannivadi (TP) Ward 4, Erachapadi 4th Street
+(13) - Kannivadi (TP) Ward 1 Mettur",All Voters,All India Anna Dravida Munnetra Kazhagam,199,186,13,Dravida Munnetra Kazhagam,2,1,3,4,2.760084925690022,2
+290,290,211,222,16,164,1,0,0,1,3,618,0,4,622,0,290,"P U E School, Orathuppalayam 638106,West Facing Building","(1) - Kannivadi (TP) Ward 2, Orathupalyam main st
+(2) - Kannivadi (TP) Ward 3 Orathupalayam Harijan street
+(3) - Kannivadi (TP) Ward 3, Manalur Street
+(4) - Kannivadi (TP) Ward 8 Ayyanpalayam 1st Street
+(5) - Kannivadi (TP) Ward 2, Orathupalayam 1st Street
+(6) - Kannivadi (TP) Ward 2, Orathupalayam 2nd Street
+(7) - Kannivadi (TP) Ward 3, Orathupalayam Harsanacolony east
+(8) - Kannivadi (TP) Ward 8 Ayyampalayam 2nd Street",All Voters,All India Anna Dravida Munnetra Kazhagam,222,211,11,Dravida Munnetra Kazhagam,2,1,3,4,1.779935275080906,5
+291,291,207,284,14,128,0,0,0,0,3,636,0,4,640,0,291,"P U E School, Nanjaithalaiyur 639204,North Facing Building","(1) - Nanjaithalaiyur (R.V) Punjaithalaiyur (P) Ward 1, Nanjaithalaiyur north
+(2) - Nanjaithalaiyur (R.V) and (P) Ward 1, Edaikadu
+(3) - Nanjaithalaiyur (R.V) Punjaithalaiyur (P) Ward 1, Nanjaithalaiyur East, Allamarathupatti",All Voters,All India Anna Dravida Munnetra Kazhagam,284,207,77,Dravida Munnetra Kazhagam,2,1,3,4,12.10691823899371,3
+292,292,280,319,16,192,1,1,0,0,1,810,0,4,814,0,292,"Govt.High School, Punjaithalaiyur,Building facing South","(1) - Punjaithalaiyur (R.V) and (P) Ward 1, Karuppan valasu puthur
+(2) - Punjaithalaiyur (R.V) and (P) Ward 2, Karuppan Valasu
+(3) - Punjaithalaiyur (R.V) and (P) Ward 2, Punjaithalaiyur West
+(4) - Punjaithalaiyur (R.V) and (P) Ward 2, Punjaithalaiyur East",All Voters,All India Anna Dravida Munnetra Kazhagam,319,280,39,Dravida Munnetra Kazhagam,2,1,3,4,4.814814814814815,3
+293,293,221,315,30,171,1,0,2,0,3,743,0,3,746,0,293,"P U E School, Kathasamipalayam 639204,South Facing Building","(1) - Senapathipalayam (R.V) Punjaithalaiyur (P) Ward 2, Kathasamypalayam east
+(2) - Senapathipalayam (R.V) Punjaithalaiyur (P) Ward 3, Mallampalayam
+(3) - Senapathipalayam (R.V) Punjaithalaiyur (P) Ward 3, Kathasamypalayam West",All Voters,All India Anna Dravida Munnetra Kazhagam,315,221,94,Dravida Munnetra Kazhagam,2,1,3,4,12.6514131897712,6
+294,294,218,366,16,129,1,0,0,0,0,730,0,4,734,0,294,"P.U.E.S, Sundakkampalayam,South facing RCC building (Western side)","(1) - Sundakkampalayam(R.V) and (P) Ward 1, Sundakkampalayam kannanur
+(2) - Sundakkampalayam(R.V) and (P) Ward 1, Moolapatti Mettupalayam",All Voters,All India Anna Dravida Munnetra Kazhagam,366,218,148,Dravida Munnetra Kazhagam,2,1,3,4,20.27397260273973,1
+295,295,177,259,22,117,0,0,0,1,0,576,0,1,577,0,295,"Panchayat Union Elementary School Nanjaikalipalayam -639201,East Facing Building(North Portion)","(1) - Sundakkampalayam(R.V) and (P) Ward 1, Anaipalayam
+(2) - Sundakkampalayam(R.V) and (P) Ward 1, NanjaiKalipalayam Balakumar Nagar (999) - OVERSEAS ELECTORS",All Voters,All India Anna Dravida Munnetra Kazhagam,259,177,82,Dravida Munnetra Kazhagam,2,1,3,4,14.23611111111111,1
+296,296,251,358,21,201,1,1,1,1,0,835,0,3,838,0,296,"P U E School, Ayegoundanpalayam 639201,North Facing Building (West Side)","(1) - Velampoondi (R.V) and (P) Ward 2, Ayeukoundanpalayam north
+(2) - Velampoondi (R.V) and (P) Ward 2, Ayekoundan Palayam West
+(3) - Velampoondi (R.V) and (P) Ward 2, Ayeukoundanpalayam East
+(4) - Velampoondi (R.V) and (P) Ward 2, Ayeukoundanpalayam South
+(5) - Velampoondi (R.V) and (P) Ward 2, Velampoondi Karupparayan Puthur",All Voters,All India Anna Dravida Munnetra Kazhagam,358,251,107,Dravida Munnetra Kazhagam,2,1,3,4,12.81437125748503,4
+297,297,134,322,22,178,2,2,1,0,1,662,0,1,663,0,297,Pathumalaigurukrishnan Nursery School Malamedu 639201 West Facing Building,"(1) - Arikkaranvalasu (R.V) Velampoondi (P) Ward 3, Peruma valasu
+(2) - Arikkaranvalasu (R.V) Velampoondi (P) Ward 3, GounadappaGoundenur
+(3) - Arikkaranvalasu (R.V) Velampoondi (P) Ward 4, Utthur
+(4) - Arikkaranvalasu (R.V) Velampoondi (P) Ward 4, Malamedu",All Voters,All India Anna Dravida Munnetra Kazhagam,322,178,144,Tamilaga Vettri Kazhagam,3,1,2,4,21.75226586102719,6
+298,298,189,262,16,99,0,1,1,0,1,569,0,2,571,0,298,"P U M School, Arikaranvalasu 639201,North Facing Building","(1) - Arikkaranvalasu (R.V) Velampoondi (P) Ward 4, Seethapatti
+(2) - Arikkaranvalasu (R.V) Velampoondi (P) Ward 4, Narisanampatti
+(3) - Arikkaranvalasu (R.V) Velampoondi (P) Ward 4, Arikaran Valasu North
+(4) - Arikkaranvalasu (R.V) Velampoondi (P) Ward 5, Arikkaran Valasu South",All Voters,All India Anna Dravida Munnetra Kazhagam,262,189,73,Dravida Munnetra Kazhagam,2,1,3,4,12.82952548330404,3
+299,299,101,192,13,87,1,1,0,1,0,396,0,3,399,0,299,"P U E School, Osapalayam 639201,East Facing Building","(1) - Arikkaranvalasu (R.V) Velampoondi (P) Ward 5, Mamarathupatti east
+(2) - Arikkaranvalasu (R.V) Velampoondi (P) Ward 5, Kallamadai Puthur
+(3) - Arikkaranvalasu (R.V) Velampoondi (P) Ward 5, Osapalayam North
+(4) - Arikkaranvalasu (R.V) Velampoondi (P) Ward 5, Parappur Sellipalayam Puthur
+(5) - Arikkaranvalasu (R.V) Velampoondi (P) Ward 5, Mamarathupatti West
+(6) - Arikkaranvalasu (R.V) Velampoondi (P) Ward 5, Osapalayam South Harijan Colony",All Voters,All India Anna Dravida Munnetra Kazhagam,192,101,91,Dravida Munnetra Kazhagam,2,1,3,4,22.97979797979798,3
+300,300,140,174,25,87,0,0,0,0,1,427,0,3,430,0,300,"P U E School, Senapathypalayam 639202,East Facing Building","(1) - Senapathipalayam (R.V) and (P) Ward 3, Senapathipalayam, sankarankattuputhur
+(2) - Senapathipalayam (R.V) and (P) Ward 3, Kottarpattiputhur,Anankur,Kottarpatti",All Voters,All India Anna Dravida Munnetra Kazhagam,174,140,34,Dravida Munnetra Kazhagam,2,1,3,4,7.962529274004685,1
+301,301,206,213,28,120,0,0,0,0,0,567,0,2,569,0,301,"P.U.E.School, Kannivadi,Building facing North (West Side)","(1) - Kannivadi (TP) Ward 7 Kannivadi north
+(2) - Kannivadi (TP) Ward 7,9 Kannivadi South
+(3) - Kannivadi (TP) Ward 8 Kannivadi West
+(4) - Kannivadi (TP) Ward 12 Vanchivalasu",All Voters,All India Anna Dravida Munnetra Kazhagam,213,206,7,Dravida Munnetra Kazhagam,2,1,3,4,1.234567901234568,0
+302,302,189,216,15,81,0,0,0,1,0,502,0,3,505,0,302,"Panchayat Union Elementary School, Kannivadi, North Facing Building (East Portion)","(1) - Kannivadi (TP) Ward 7 Kannivadi North 1st Street
+(2) - Kannivadi (TP) Ward 9 Kannivadi South
+(3) - Kannivadi (TP) Ward 8 Velandurai
+(4) - Kannivadi (TP) Ward 8 Sammanduraipathi
+(5) - Kannivadi (TP) Ward 9 Sambakattupathi
+(6) - Kannivadi (TP) Ward 12 Mannankattupathi
+(7) - Kannivadi (TP) Ward 12 Olapalayam
+(8) - Kannivadi (TP) Ward 12 Perumal GoundenValasu
+(9) - Kannivadi (TP) Ward 11 Notchivalasu",All Voters,All India Anna Dravida Munnetra Kazhagam,216,189,27,Dravida Munnetra Kazhagam,2,1,3,4,5.378486055776892,1
+303,303,136,160,15,55,1,0,0,0,0,367,0,2,369,0,303,"P U E School, Kathakotai
+639202,North Facing Building","(1) - Kannivadi (TP) Ward 11 Kathakottai West Street
+(2) - Kannivadi (TP) Ward 11 Kathakottai South Street",All Voters,All India Anna Dravida Munnetra Kazhagam,160,136,24,Dravida Munnetra Kazhagam,2,1,3,4,6.539509536784741,1
+304,304,223,280,39,106,0,1,0,0,2,651,0,5,656,0,304,"P.U.E.S Sakkaraivalasu,North Facing Building","(1) - Edakkalpadi (R.V) and (P) Ward 1, Sallamettupathi, kolakattupathi
+(2) - Edakkalpadi (R.V) and (P) Ward 2, Sakkaravalasu Puliankattupathi Mannangadu
+(3) - Edakkalpadi (R.V) and (P) Ward 3, Merkupalayam,Edakkalpadi",All Voters,All India Anna Dravida Munnetra Kazhagam,280,223,57,Dravida Munnetra Kazhagam,2,1,3,4,8.755760368663594,3
+305,305,192,349,27,121,0,0,0,1,2,692,0,4,696,0,305,"P.U.E.S, Kilangundal-638106,North Facing Terraced Building (West Building)","(1) - Kilangundal (R.V) and (P) Ward 1, Anaipali, mookkutherichampalayam
+(2) - Kilangundal (R.V) and (P) Ward 1, Sulliaporurkkipalayam
+(3) - Kilangundal (R.V) and (P) Ward 1, Rengavalasu,Akilandapuram
+(4) - Kilangundal (R.V) and (P) Ward 1, Pappavalasu",All Voters,All India Anna Dravida Munnetra Kazhagam,349,192,157,Dravida Munnetra Kazhagam,2,1,3,4,22.6878612716763,3
+306,306,215,303,48,111,0,1,1,0,0,679,0,3,682,0,306,"P.U.E.S,Kilangundal-638106,North facing Tiled Building (East Building )","(1) - Kilangundal (R.V) and (P) Ward 2, Perumapalayam
+(2) - Kilangundal (R.V) and (P) Ward 2, Kilangundal",All Voters,All India Anna Dravida Munnetra Kazhagam,303,215,88,Dravida Munnetra Kazhagam,2,1,3,4,12.96023564064801,2
+307,307,166,347,30,156,0,0,0,0,0,699,0,1,700,0,307,"Govt High School, Sesaiyanpalayam 638106,South Facing Building","(1) - Kilangundal (R.V) and (P) Ward 2, Sesaiyanpalayam
+(2) - Kilangundal (R.V) and (P) Ward 3, Putthur Mattaparai, Thoppur
+(3) - Kilangundal (R.V) and (P) Ward 3, SankanValasu",All Voters,All India Anna Dravida Munnetra Kazhagam,347,166,181,Dravida Munnetra Kazhagam,2,1,3,4,25.89413447782546,0
+308,308,149,359,23,202,0,0,0,0,3,736,0,1,737,0,308,"P U E School, Valaiyakaranvalasu 638106,East Facing Building","(1) - Kilangundal (R.V) and (P) Ward 3, Kunjampatti,p.k.valasu,murugur
+(2) - Kilangundal (R.V) and (P) Ward 3, Valaiyakaran Valasu North
+(3) - Kilangundal (R.V) and (P) Ward 3, Anuppapatti (Nachamapallam)
+(4) - Kilangundal (R.V) and (P) Ward 3, Valaiyakaran Valsu South",All Voters,All India Anna Dravida Munnetra Kazhagam,359,202,157,Tamilaga Vettri Kazhagam,3,1,2,4,21.33152173913043,3
+309,309,217,201,4,56,0,0,0,0,1,479,0,3,482,0,309,"Panchayat Union Middle School, Pattuthurai 638106 North Facing Building (West Portion)","(1) - Kilangundal (R.V) and (P) Ward 4, Anaipalayam
+(2) - Kilangundal (R.V) and (P) Ward 4, Pattuthurai",All Voters,Dravida Munnetra Kazhagam,217,201,16,All India Anna Dravida Munnetra Kazhagam,1,2,3,4,3.340292275574112,1
+310,310,147,289,9,57,0,0,0,0,0,502,0,2,504,0,310,"P.U.M.School, Pattuthurai-638106,North Facing Building (East Portion)","(1) - Kilangundal (R.V) and (P) Ward 4, Thulukkavalasu
+(2) - Kilangundal (R.V) and (P) Ward 5, Ayyampalayam Meenachivalasu",All Voters,All India Anna Dravida Munnetra Kazhagam,289,147,142,Dravida Munnetra Kazhagam,2,1,3,4,28.28685258964144,0
+311,311,151,294,13,64,0,0,1,0,2,525,0,5,530,0,311,"P U E School, Semagoundenpudur 638106,North Facing Building","(1) - Kilangundal (R.V) and (P) Ward 5, Venkikalpatti
+(2) - Kilangundal (R.V) and (P) Ward 5, Semmanda Gounden Puthur",All Voters,All India Anna Dravida Munnetra Kazhagam,294,151,143,Dravida Munnetra Kazhagam,2,1,3,4,27.23809523809524,3
+312,312,207,322,16,196,1,1,0,4,0,747,0,6,753,0,312,"PUES Chinniyagoundenvalasu 638106,East Facing Building","(1) - Komarapalayam (R.V) and (P) Ward 4, Nochikattuvalasu,thillaigounden puthur
+(2) - Komarapalayam (R.V) and (P) Ward 5, Karudan Kottal",All Voters,All India Anna Dravida Munnetra Kazhagam,322,207,115,Dravida Munnetra Kazhagam,2,1,3,4,15.39491298527443,6
+313,313,192,298,23,69,0,1,0,0,2,585,0,6,591,0,313,"PUES, Chinniyagoundenvalasu-638106,South Facing Building","(1) - Komarapalayam (R.V) and (P) Ward 5, Chinniyagounden valasu east
+(2) - Komarapalayam (R.V) and (P) Ward 5, ChinniyaGounden Valasu West
+(3) - Komarapalayam (R.V) and (P) Ward 5, ChinniyaGounden Valasu South",All Voters,All India Anna Dravida Munnetra Kazhagam,298,192,106,Dravida Munnetra Kazhagam,2,1,3,4,18.11965811965812,3
+314,314,142,231,16,57,0,0,0,0,1,447,0,1,448,0,314,"P U E School, Silukkanaickanpatti 638106,East Facing Building","(1) - Komarapalayam (R.V) and (P) Ward 3, Sillukkanaickenpatti,kandasamy puthur
+(2) - Komarapalayam (R.V) and (P) Ward 3, Ramapattinam",All Voters,All India Anna Dravida Munnetra Kazhagam,231,142,89,Dravida Munnetra Kazhagam,2,1,3,4,19.91051454138703,1
+315,315,95,185,13,72,0,0,0,0,2,367,0,4,371,0,315,"P U E School, Vannapatti 638106,West Facing Building","(1) - Komarapalayam (R.V) and (P) Ward 2, Naicken puthur vannapatti
+(2) - Komarapalayam (R.V) and (P) Ward 3, Sadaiyappan Puthur,Aruvanakattuvalasu",All Voters,All India Anna Dravida Munnetra Kazhagam,185,95,90,Dravida Munnetra Kazhagam,2,1,3,4,24.52316076294278,2
+316,316,196,215,5,52,0,1,0,3,2,474,0,1,475,0,316,"P U E School, Semmankarai 638106,North Facing Building","(1) - Komarapalayam (R.V) and (P) Ward 2, Periyapothur,chinnapothur
+(2) - Komarapalayam (R.V) and (P) Ward 2, Neduvalasu (a) Ayyampalayam
+(3) - Komarapalayam (R.V) and (P) Ward 2, Sammangarai",All Voters,All India Anna Dravida Munnetra Kazhagam,215,196,19,Dravida Munnetra Kazhagam,2,1,3,4,4.008438818565401,6
+317,317,199,407,17,105,0,0,1,1,2,732,0,9,741,0,317,"P U E School, M Komarapalayam 638106,North Facing Building","(1) - Komarapalayam (R.V) and (P) Ward 1, Komarapalayam ,ellapatti,ilanathoppu
+(2) - Komarapalayam (R.V) and (P) Ward 1, Vadugapatti
+(3) - Komarapalayam (R.V) and (P) Ward 1, Manjakkampatti",All Voters,All India Anna Dravida Munnetra Kazhagam,407,199,208,Dravida Munnetra Kazhagam,2,1,3,4,28.41530054644809,4
+318,318,182,216,10,80,1,0,1,0,2,492,0,2,494,0,318,"P U E School, M Kambaliampatti 638106,North Facing Building","(1) - Chinnamaruthur (R.V) Kottaimaruthur (P) Ward 1, Puliampatti,uppuppalayam
+(2) - Chinnamaruthur (R.V) Kottaimaruthur (P) Ward 1, Kambliyampatti",All Voters,All India Anna Dravida Munnetra Kazhagam,216,182,34,Dravida Munnetra Kazhagam,2,1,3,4,6.910569105691057,4
+319,319,236,264,21,136,0,0,1,0,0,658,0,7,665,0,319,"P U E School, Chinnamaruthur 638106,North Facing Building","(1) - Chinnamaruthur (R.V) Kottaimaruthur (P) Ward 2, Chinnamaruthur
+(2) - Chinnamaruthur (R.V) Kottaimaruthur (P) Ward 2, Killakku Valasu
+(3) - Chinnamaruthur (R.V) Kottaimaruthur (P) Ward 2, Kurunaikkalpatty
+(4) - Chinnamaruthur (R.V) Kottaimaruthur (P) Ward 3, Ellapalayam,Ponnammapudhur",All Voters,All India Anna Dravida Munnetra Kazhagam,264,236,28,Dravida Munnetra Kazhagam,2,1,3,4,4.25531914893617,1
+320,320,219,398,20,155,2,2,0,0,1,797,0,4,801,0,320,"P U E School, Pitchaikkalapatti 638106,North Facing Building","(1) - Chinnamaruthur (R.V) Kottaimaruthur (P) Ward 3, Poolam valasu
+(2) - Chinnamaruthur (R.V) Kottaimaruthur (P) Ward 3, Pichaikalpatti
+(3) - Chinnamaruthur (R.V) Kottaimaruthur (P) Ward 3, KaruppanaGounden Puthur
+(4) - Chinnamaruthur (R.V) Kottaimaruthur (P) Ward 4, Varapatti
+(5) - Chinnamaruthur (R.V) Kottaimaruthur (P) Ward 4, Madavanaickenpatty",All Voters,All India Anna Dravida Munnetra Kazhagam,398,219,179,Dravida Munnetra Kazhagam,2,1,3,4,22.45922208281054,5
