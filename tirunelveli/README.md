@@ -1,64 +1,50 @@
-# 🗳️ Tirunelveli Election Result Analysis
+# 📊 Booth-Level Election Analysis
 
-This folder contains detailed **booth-wise election analysis** for the **Tirunelveli constituency**.
-
----
-
-## 📊 Overview
-
-The analysis includes:
-
-- Booth-level vote distribution  
-- Party-wise performance comparison  
-- Identification of stronghold and weak booths  
-- Detection of critical swing booths  
+## 🔢 Total Booths
+**386**
 
 ---
 
-## 📁 Folder Structure
 
-tirunelveli/
-│
-├── data/
-│   └── tirunelveli_results.xlsx
-│
-├── charts/
-│   └── polling_station_charts/
-│       ├── booth_001_vote_distribution.png
-│       ├── booth_002_vote_distribution.png
-│       └── ...
-│
-└── README.md
+## 🏆 Detailed Booth Performance & Vote Share
+
+| Party Name                                         | Booths Won | Runner-Up | Booths Lost | Vote %    |
+|----------------------------------------------------|-----------:|----------:|------------:|----------:|
+| Tamilaga Vettri Kazhagam (TVK)                     |        235 |       123 |         151 | 34.95%    |
+| Dravida Munnetra Kazhagam (DMK)                    |        100 |       150 |         286 | 29.50%    |
+| All India Anna Dravida Munnetra Kazhagam (AIADMK)  |         36 |        98 |         350 | 21.83%    |
+| Puthiya Tamilagam                                  |         14 |        13 |         372 |  4.87%    |
+| Naam Tamilar Katchi (NTK)                          |          1 |         2 |         385 |  6.93%    |
+| Tamizhaga Vaazhvurimai Katchi                      |          0 |         0 |         386 |  0.25%    |
+| Naam Indiar Party                                  |          0 |         0 |         386 |  0.05%    |
+| Aanaithinthiya Jananayaka Pathukappu Kazhagam      |          0 |         0 |         386 |  0.13%    |
+| Bahujan Dravida Party                              |          0 |         0 |         386 |  0.05%    |
+| Puthiya Makkal Tamil Desam Katchi                  |          0 |         0 |         386 |  0.16%    |
+| Thamizhaka Padaippalar Makkal Katchi               |          0 |         0 |         386 |  0.10%    |
+| Independent                                        |          0 |         0 |         386 |  1.17%    |
+| **Total**                                          |    **386** |   **386** |           — |**100.00%**|
+---
+
+## 📌 Key Observations
+
+- TVK leads in **booth dominance** with 235 wins (~60.9% strike rate)
+- DMK shows **strong runner-up presence** (150 booths)
+- AIADMK retains **significant vote share (21.83%)** but poor booth conversion
+- NTK has **notable vote share (6.93%)** but negligible booth wins → vote fragmentation
+- Smaller parties collectively impact **margin-level outcomes**, not booth wins
 
 ---
 
-## 📌 Key Insights Covered
+## ⚠️ Notes
 
-- ✅ Booth-wise winner identification  
-- ✅ Vote percentage calculation  
-- ✅ Party ranking per booth  
-- ✅ Stronghold vs weak booth analysis  
-- ✅ Critical swing booth detection  
+- "Booths Lost" column omitted due to redundancy  
+  (can be derived as: Total Booths - Booths Won)
 
 ---
 
-## 🚀 How to Use
+## 🧠 Analytical Insight
 
-1. Open Excel file in `data/`  
-2. Review booth-level results  
-3. Use charts in `charts/` for visualization  
-4. Identify key voting trends  
+> This dataset reflects a **multi-cornered contest with inefficient vote distribution**,  
+> where booth conversion efficiency played a critical role in determining the outcome.
 
 ---
-
-## 🎯 Use Case
-
-- Election strategy planning  
-- Booth-level performance tracking  
-- Data-driven insights for campaigns  
-
----
-
-## 📬 Note
-
-This analysis is intended for **informational and analytical purposes**.

@@ -2,6 +2,27 @@
 
 This folder contains detailed **booth-wise election analysis** for the **Kovilpatti constituency**.
 
+# 📊 Booth-Level Election Analysis
+
+## 🔢 Total Booths: 318
+
+---
+
+## 🏆 Detailed Booth Performance & Vote Share
+
+| Party Name                                                                 | Booths Won | Runner-Up | Booths Lost | Vote % |
+|----------------------------------------------------------------------------|-----------:|----------:|------------:|-------:|
+| Tamilaga Vettri Kazhagam (TVK)                                             |        137 |       108 |         181 | 31.46% |
+| Dravida Munnetra Kazhagam (DMK)                                            |        113 |       108 |         205 | 31.80% |
+| All India Anna Dravida Munnetra Kazhagam (AIADMK)                          |         66 |        98 |         252 | 27.40% |
+| Independent                                                                |          2 |         4 |         316 |  2.62% |
+| Naam Tamilar Katchi (NTK)                                                  |          0 |         0 |         318 |  6.11% |
+| Bahujan Samaj Party (BSP)                                                  |          0 |         0 |         318 |  0.10% |
+| Naam Indiar Party                                                          |          0 |         0 |         318 |  0.03% |
+| All India Puratchi Thalaivar Makkal Munnettra Kazhagam                     |          0 |         0 |         318 |  0.23% |
+| Thamizh Perarasu Katchi                                                    |          0 |         0 |         318 |  0.18% |
+| Puthiya Makkal Tamil Desam Katchi                                          |          0 |         0 |         318 |  0.07% |
+| **Total**                                                                  |    **318** |   **318** |           — | **100.00%** |
 ---
 
 ## 📊 Overview
