@@ -1,235 +1,201 @@
 # 🗳️ 2026 Tamil Nadu Election Result Analysis (Booth-Level)
 
-This repository contains **booth-wise election analysis** for multiple constituencies in Tamil Nadu.  
-The project focuses on transforming raw polling data into **actionable insights** for political and data analysis.
+<p align="center">
+  <img src="https://img.shields.io/badge/Data-Analytics-blue" />
+  <img src="https://img.shields.io/badge/Domain-Election%20Analysis-green" />
+  <img src="https://img.shields.io/badge/Level-Booth--Wise-orange" />
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+  <img src="https://img.shields.io/badge/Python-Automation-yellow" />
+</p>
+
+---
+
+## 📌 Project Overview
+
+This repository provides **booth-level election analysis** across multiple constituencies in Tamil Nadu.
+
+The project transforms **raw polling station data** into:
+
+* 📊 Actionable political insights
+* 📈 Visual analytics
+* 🎯 Strategic campaign intelligence
+
+---
+
+## 🚀 Key Features
+
+* ✅ Booth-wise vote analysis
+* ✅ Party performance comparison
+* ✅ Swing booth detection
+* ✅ Cluster-based political segmentation
+* ✅ Stronghold vs battleground classification
+* ✅ Data-driven campaign insights
 
 ---
 
 ## 📍 Constituencies Covered
 
-- Ottapidaram  
-- Srivaikuntam  
-- Thoothukudi  
-- Kovilpatti  
-- Palayamkottai  
-- Tirunelveli  
-- Virudhunagar  
-- Thiruparankundram  
-- Madurai West  
-- Kolathur  
+### 🧭 Core Regions
+
+* Ottapidaram
+* Srivaikuntam
+* Thoothukudi
+* Kovilpatti
+* Palayamkottai
+* Tirunelveli
+
+### 🧭 Extended Analysis
+
+* Virudhunagar
+* Thiruparankundram
+* Madurai West
+* Kolathur
+
+### 🆕 Latest Additions
+
+* Ambasamudram
+* Tiruchirappalli East
+* Maduranthakam
+* Perundurai
+* Dharapuram
 
 ---
 
-## 📊 Project Overview
+## 📊 Sample Insight Visualization
 
-Each constituency analysis includes:
+Below is a **sample cluster distribution insight**:
+---
 
-- 📄 Excel dataset with complete polling station results  
-- 📈 Booth-wise charts (all booths in a constituency)  
-- 📉 Party-wise vote share comparison  
-- 🔍 Identification of critical swing booths  
-- 🏆 Booth-level winner analysis  
+## 🧠 Analytical Approach
+
+### 🔍 Booth-Level Processing
+
+* Raw `.xlsx` → structured datasets
+* Vote count normalization
+* Party ranking (1st, 2nd, 3rd)
+
+### 📊 Cluster Modeling
+
+* K-means / heuristic clustering
+* Margin-based segmentation
+* Multi-party competition modeling
+
+### 🎯 Strategic Classification
+
+* 🔴 Swing Booths
+* 🟡 Deadlock Zones
+* 🟢 Strongholds
+* 🔵 Isolated Pockets
 
 ---
 
 ## 📁 Repository Structure
 
+```
 election-result-analysis/
 │
+├── ambasamudram/
+├── tiruchirappalli_east/
+├── maduranthakam/
+├── perundurai/
+├── dharapuram/
+│
 ├── ottapidaram/
-│   ├── data/
-│   │   └── ottapidaram_results.xlsx
-│   ├── charts/
-│   │   └── polling_station_charts/
-│   └── README.md
-│
 ├── srivaikuntam/
-│   ├── data/
-│   │   └── srivaikuntam_results.xlsx
-│   ├── charts/
-│   │   └── polling_station_charts/
-│   └── README.md
-│
 ├── thoothukudi/
-│   ├── data/
-│   │   └── thoothukudi_results.xlsx
-│   ├── charts/
-│   │   └── polling_station_charts/
-│   └── README.md
-│
 ├── kovilpatti/
-│   ├── data/
-│   │   └── kovilpatti_results.xlsx
-│   ├── charts/
-│   │   └── polling_station_charts/
-│   └── README.md
-│
 ├── palayamkottai/
-│   ├── data/
-│   │   └── palayamkottai_results.xlsx
-│   ├── charts/
-│   │   └── polling_station_charts/
-│   └── README.md
-│
 ├── tirunelveli/
-│   ├── data/
-│   │   └── tirunelveli_results.xlsx
-│   ├── charts/
-│   │   └── polling_station_charts/
-│   └── README.md
 │
 ├── virudhunagar/
-│   ├── data/
-│   │   └── virudhunagar_results.xlsx
-│   ├── charts/
-│   │   └── polling_station_charts/
-│   └── README.md
-│
 ├── thiruparankundram/
-│   ├── data/
-│   │   └── thiruparankundram_results.xlsx
-│   ├── charts/
-│   │   └── polling_station_charts/
-│   └── README.md
-│
 ├── madurai_west/
-│   ├── data/
-│   │   ├── madurai_west_results.xlsx
-│   │   └── processed/
-│   │       ├── Locality_Dominance.csv
-│   │       ├── Swing_Booths.csv
-│   │       └── Party_Performance.csv
-│   ├── charts/
-│   │   └── polling_station_charts/
-│   └── README.md
-│
 ├── kolathur/
-│   ├── data/
-│   │   ├── kolathur_results.xlsx
-│   │   └── processed/
-│   │       └── DMK_Loss_Analysis.xlsx
-│   ├── charts/
-│   │   └── polling_station_charts/
-│   └── README.md
 │
 ├── scripts/
 │   └── excel_to_csv.py
 │
-├── .gitignore
 └── README.md
+```
 
 ---
 
-## 📌 Constituency Highlights
+## 📈 What Makes This Project Strong
 
-### 📍 Ottapidaram
-- Booth-level voting trends and party comparison  
-- Identification of stronghold and weak booths  
-- Key swing areas influencing results  
-
-### 📍 Srivaikuntam
-- Vote share distribution across polling stations  
-- Competitive booth-level analysis  
-- Locality dominance insights  
-
-### 📍 Thoothukudi
-- Urban vs rural voting behavior  
-- Party performance breakdown  
-- Critical booths impacting outcome  
-
-### 📍 Kovilpatti
-- Booth-wise party comparison  
-- High-margin victory identification  
-- Swing regions detection  
-
-### 📍 Palayamkottai
-- Booth-level performance insights  
-- Close margin (swing) booth identification  
-- Locality-based voting patterns  
-
-### 📍 Tirunelveli
-- Detailed booth-wise vote distribution  
-- Party performance comparison  
-- Stronghold vs weak booth identification  
-- Critical swing booth analysis  
-
-### 📍 Virudhunagar
-- Constituency-wide performance analysis  
-- Strong vs weak booth detection  
-- High-impact swing booth identification  
-
-### 📍 Thiruparankundram
-- Booth-level voting pattern analysis  
-- Stronghold and weak booth identification  
-- Swing booth detection based on margin  
-- Party-wise performance insights  
-
-### 📍 Madurai West
-- Booth-level voting pattern analysis  
-- Stronghold and weak booth identification  
-- Swing booth detection using margin analysis  
-- Locality-wise party dominance insights  
-
-### 📍 Kolathur
-- Booth-level DMK loss forensic analysis  
-- Identification of opposition-dominated booths  
-- Vote splitting impact detection  
-- Margin-based loss pattern insights  
----
-
-## 📈 Key Insights Covered
-
-- ✅ Booth-wise winner identification  
-- ✅ Vote percentage calculation  
-- ✅ Party ranking per booth (1st, 2nd, 3rd)  
-- ✅ Critical Swing Booth detection  
-- ✅ Locality-wise dominance analysis  
-
----
-
-## 📦 Data Description
-
-### 📄 Excel Files (.xlsx)
-- Raw polling station data  
-- Vote counts for each party  
-- Structured for deep analysis  
-
-### 📈 Charts (.png)
-- Booth-level visualizations  
-- Easy party comparison  
-- Quick insight generation  
-
----
-
-## 🚀 How to Use
-
-1. Open any constituency folder (e.g., `tirunelveli/`)  
-2. Navigate:
-   - `data/` → Raw datasets  
-   - `charts/` → Visual insights  
-3. Analyze:
-   - Top-performing booths  
-   - Weak areas  
-   - Swing regions  
+* 📌 Real-world dataset application
+* 📌 Multi-constituency comparative analysis
+* 📌 Tactical political insights (rare in public repos)
+* 📌 Scalable analytics framework
 
 ---
 
 ## 🎯 Use Cases
 
-- Election campaign strategy  
-- Booth-level performance analysis  
-- Identifying target improvement areas  
-- Data-driven political insights  
+* 🗳️ Election campaign strategy
+* 📊 Political data analysis
+* 📍 Booth-level targeting
+* 🤖 Data science portfolio
 
 ---
 
-## 🔗 Quick Access
+## ⚙️ How to Use
 
-- 📍 [Palayamkottai Charts](./palayamkottai/charts/polling_station_charts/)
-- 📍 [Tirunelveli Charts](./tirunelveli/charts/polling_station_charts/)
-- 📍 [Thoothukudi Charts](./thoothukudi/charts/polling_station_charts/)
- 
+```bash
+# Clone repo
+git clone https://github.com/<your-username>/election-result-analysis.git
+
+# Navigate to any constituency
+cd tirunelveli/
+```
+
+Then explore:
+## ⚙️ How to Use
+
+Navigate to any constituency folder (e.g., `tirunelveli/`):
+
+* `data/` → Raw datasets (Excel / CSV)
+* `charts/` → Booth-wise visualizations
+* `processed/` → Cleaned & feature-engineered datasets
+* `reports/` → Constituency-level summaries
+* `insights/` → Strategic interpretations & findings
+
+---
+
+### 🔍 What Each Layer Represents
+
+| Folder       | Purpose                                              |
+| ------------ | ---------------------------------------------------- |
+| `data/`      | Source polling station data                          |
+| `processed/` | Structured + cleaned data for analysis               |
+| `charts/`    | Visual comparison of party performance               |
+| `reports/`   | Descriptive summaries (what happened)                |
+| `insights/`  | Strategic conclusions (why it happened & what to do) |
+
+---
+
+---
+
+## 🧪 Future Enhancements
+
+* 🔮 ML-based vote prediction
+* 📊 Interactive dashboards (Streamlit/React)
+* 🗺️ Geo-mapping of booths
+* 📉 Time-series election trend analysis
+
+---
+
+## 👨‍💻 Author
+
+**Karthick Kumarasamy**
+
+* Data Analytics | Telecom | QA Automation
+* Focus: Real-world applied data intelligence
+
+---
+
 ## 📬 Note
 
-This project is intended for **analytical and informational purposes only**.  
-The data is structured to provide **clear, booth-level insights**.
+This project is intended for **analytical and informational purposes only**.
+All insights are derived from structured polling data for research and learning.
+
+---
