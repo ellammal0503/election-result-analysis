@@ -58,6 +58,7 @@ The project transforms **raw polling station data** into:
 * Maduranthakam
 * Perundurai
 * Dharapuram
+* Viralimalai
 
 ---
 
@@ -99,6 +100,7 @@ election-result-analysis/
 ├── maduranthakam/
 ├── perundurai/
 ├── dharapuram/
+├── viralimalai/
 │
 ├── ottapidaram/
 ├── srivaikuntam/
