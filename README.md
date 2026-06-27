@@ -59,12 +59,15 @@ The project transforms **raw polling station data** into:
 * Perundurai
 * Dharapuram
 * Viralimalai
+* **Kadayanallur ✅ (New)**
+* **Sirkazhi ✅ (New)**
 
 ---
 
 ## 📊 Sample Insight Visualization
 
 Below is a **sample cluster distribution insight**:
+
 ---
 
 ## 🧠 Analytical Approach
@@ -101,6 +104,8 @@ election-result-analysis/
 ├── perundurai/
 ├── dharapuram/
 ├── viralimalai/
+├── kadayanallur/        ← NEW
+├── sirkazhi/            ← NEW
 │
 ├── ottapidaram/
 ├── srivaikuntam/
@@ -150,30 +155,25 @@ git clone https://github.com/<your-username>/election-result-analysis.git
 cd tirunelveli/
 ```
 
-Then explore:
-## ⚙️ How to Use
+Navigate to any constituency folder:
 
-Navigate to any constituency folder (e.g., `tirunelveli/`):
-
-* `data/` → Raw datasets (Excel / CSV)
-* `charts/` → Booth-wise visualizations
-* `processed/` → Cleaned & feature-engineered datasets
-* `reports/` → Constituency-level summaries
-* `insights/` → Strategic interpretations & findings
+* `data/` → Raw datasets
+* `processed/` → Cleaned datasets
+* `charts/` → Visualizations
+* `reports/` → Summaries
+* `insights/` → Strategic findings
 
 ---
 
-### 🔍 What Each Layer Represents
+### 🔍 Folder Purpose
 
-| Folder       | Purpose                                              |
-| ------------ | ---------------------------------------------------- |
-| `data/`      | Source polling station data                          |
-| `processed/` | Structured + cleaned data for analysis               |
-| `charts/`    | Visual comparison of party performance               |
-| `reports/`   | Descriptive summaries (what happened)                |
-| `insights/`  | Strategic conclusions (why it happened & what to do) |
-
----
+| Folder       | Purpose                   |
+| ------------ | ------------------------- |
+| `data/`      | Raw polling station data  |
+| `processed/` | Cleaned & structured data |
+| `charts/`    | Visual analytics          |
+| `reports/`   | Descriptive summaries     |
+| `insights/`  | Strategic interpretations |
 
 ---
 
@@ -182,7 +182,7 @@ Navigate to any constituency folder (e.g., `tirunelveli/`):
 * 🔮 ML-based vote prediction
 * 📊 Interactive dashboards (Streamlit/React)
 * 🗺️ Geo-mapping of booths
-* 📉 Time-series election trend analysis
+* 📉 Time-series election trends
 
 ---
 
