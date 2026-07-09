@@ -63,6 +63,8 @@ It transforms raw polling data into:
 * Perundurai
 * Dharapuram
 * Viralimalai
+* Mailam ✅
+* Thondamuthur ✅
 * **Kadayanallur ✅**
 * **Sirkazhi ✅**
 * **Karur ✅ (New)**
@@ -115,9 +117,12 @@ It transforms raw polling data into:
 ```
 election-result-analysis/
 │
-├── karur/               ← NEW
+├── karur/
 ├── kadayanallur/
 ├── sirkazhi/
+│
+├── mailam/                ← NEW
+├── thondamuthur/          ← NEW
 │
 ├── ambasamudram/
 ├── tiruchirappalli_east/
@@ -194,6 +199,7 @@ Explore any constituency folder:
 
 **Karthick Kumarasamy**
 
+* M.Tech – Data Science & Machine Learning
 * Data Analytics | Telecom | QA Automation
 * Focus: Applied ML + Real-world intelligence systems
 
