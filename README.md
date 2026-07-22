@@ -68,6 +68,7 @@ It transforms raw polling data into:
 * **Kadayanallur ✅**
 * **Sirkazhi ✅**
 * **Karur ✅ (New)**
+* **Vilathikulam ✅ (New)** 
 
 ---
 
@@ -134,6 +135,7 @@ election-result-analysis/
 ├── ottapidaram/
 ├── srivaikuntam/
 ├── thoothukudi/
+├── vilathikulam/          ← NEW
 ├── kovilpatti/
 ├── palayamkottai/
 ├── tirunelveli/
