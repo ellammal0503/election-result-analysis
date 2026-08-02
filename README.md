@@ -69,6 +69,9 @@ It transforms raw polling data into:
 * **Sirkazhi ✅**
 * **Karur ✅ (New)**
 * **Vilathikulam ✅ (New)** 
+* **Bodinayakanur ✅ (New)** 
+* **Thiruchendur ✅ (New)** 
+
 
 ---
 
@@ -124,6 +127,7 @@ election-result-analysis/
 │
 ├── mailam/                ← NEW
 ├── thondamuthur/          ← NEW
+├── Bodinayakanur/          ← NEW
 │
 ├── ambasamudram/
 ├── tiruchirappalli_east/
@@ -136,6 +140,7 @@ election-result-analysis/
 ├── srivaikuntam/
 ├── thoothukudi/
 ├── vilathikulam/          ← NEW
+├── Thiruchendur/          ← NEW
 ├── kovilpatti/
 ├── palayamkottai/
 ├── tirunelveli/
